@@ -1,0 +1,2589 @@
+{
+  "hebrew_year": 5787,
+  "year_label": "תשפ״ז",
+  "location": "ישראל",
+  "range": {
+    "start": "2026-09-01",
+    "end": "2027-08-31"
+  },
+  "source": "hebcal.com API (i=on, lg=h) — נשלף בזמן פיתוח ונשמר סטטית",
+  "generated_at": "2026-08-16",
+  "weeks": [
+    {
+      "index": 1,
+      "hebrew_month": "אלול",
+      "parasha": "נצבים־וילך",
+      "tuesday": {
+        "date": "2026-09-01",
+        "hebrew_date": "י״ט באלול תשפ״ו",
+        "hebrew_day": 19,
+        "hebrew_month": "אלול",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": "חודש אלול",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-09-05",
+        "hebrew_date": "כ״ג באלול תשפ״ו",
+        "hebrew_day": 23,
+        "hebrew_month": "אלול",
+        "events": [
+          "סליחות"
+        ],
+        "event_details": [
+          {
+            "title": "סליחות",
+            "category": "holiday",
+            "subcat": "minor",
+            "yomtov": false,
+            "memo": "תפילות סליחה כהכנה לימים הנוראים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ערב ראש השנה",
+            "date": "2026-09-11",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": "חודש אלול",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 2,
+      "hebrew_month": "תשרי",
+      "parasha": null,
+      "tuesday": {
+        "date": "2026-09-08",
+        "hebrew_date": "כ״ו באלול תשפ״ו",
+        "hebrew_day": 26,
+        "hebrew_month": "אלול",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב ראש השנה",
+            "date": "2026-09-11",
+            "days_ahead": 3
+          },
+          {
+            "title": "ראש השנה תשפ״ז",
+            "date": "2026-09-12",
+            "days_ahead": 4
+          },
+          {
+            "title": "ראש השנה ב׳",
+            "date": "2026-09-13",
+            "days_ahead": 5
+          }
+        ],
+        "omer": null,
+        "period": "חודש אלול",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-09-12",
+        "hebrew_date": "א׳ בתשרי תשפ״ז",
+        "hebrew_day": 1,
+        "hebrew_month": "תשרי",
+        "events": [
+          "ראש השנה תשפ״ז"
+        ],
+        "event_details": [
+          {
+            "title": "ראש השנה תשפ״ז",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": true,
+            "memo": "ראש השנה היהודי"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ראש השנה ב׳",
+            "date": "2026-09-13",
+            "days_ahead": 1
+          }
+        ],
+        "omer": null,
+        "period": "עשרת ימי תשובה",
+        "blocked": true,
+        "blocked_reason": "ראש השנה תשפ״ז"
+      }
+    },
+    {
+      "index": 3,
+      "hebrew_month": "תשרי",
+      "parasha": "האזינו",
+      "tuesday": {
+        "date": "2026-09-15",
+        "hebrew_date": "ד׳ בתשרי תשפ״ז",
+        "hebrew_day": 4,
+        "hebrew_month": "תשרי",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב יום כיפור",
+            "date": "2026-09-20",
+            "days_ahead": 5
+          },
+          {
+            "title": "יום כיפור",
+            "date": "2026-09-21",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": "עשרת ימי תשובה",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-09-19",
+        "hebrew_date": "ח׳ בתשרי תשפ״ז",
+        "hebrew_day": 8,
+        "hebrew_month": "תשרי",
+        "events": [
+          "שבת שובה"
+        ],
+        "event_details": [
+          {
+            "title": "שבת שובה",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת שובה. השבת שחלה במהלך עשרת ימי תשובה בין ראש השנה ליום כיפור"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ערב יום כיפור",
+            "date": "2026-09-20",
+            "days_ahead": 1
+          },
+          {
+            "title": "יום כיפור",
+            "date": "2026-09-21",
+            "days_ahead": 2
+          },
+          {
+            "title": "ערב סוכות",
+            "date": "2026-09-25",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": "עשרת ימי תשובה",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 4,
+      "hebrew_month": "תשרי",
+      "parasha": null,
+      "tuesday": {
+        "date": "2026-09-22",
+        "hebrew_date": "י״א בתשרי תשפ״ז",
+        "hebrew_day": 11,
+        "hebrew_month": "תשרי",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב סוכות",
+            "date": "2026-09-25",
+            "days_ahead": 3
+          },
+          {
+            "title": "סוכות א׳",
+            "date": "2026-09-26",
+            "days_ahead": 4
+          },
+          {
+            "title": "סוכות ב׳ (חוה״מ)",
+            "date": "2026-09-27",
+            "days_ahead": 5
+          },
+          {
+            "title": "סוכות ג׳ (חוה״מ)",
+            "date": "2026-09-28",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-09-26",
+        "hebrew_date": "ט״ו בתשרי תשפ״ז",
+        "hebrew_day": 15,
+        "hebrew_month": "תשרי",
+        "events": [
+          "סוכות א׳"
+        ],
+        "event_details": [
+          {
+            "title": "סוכות א׳",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": true,
+            "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "סוכות ב׳ (חוה״מ)",
+            "date": "2026-09-27",
+            "days_ahead": 1
+          },
+          {
+            "title": "סוכות ג׳ (חוה״מ)",
+            "date": "2026-09-28",
+            "days_ahead": 2
+          },
+          {
+            "title": "סוכות ד׳ (חוה״מ)",
+            "date": "2026-09-29",
+            "days_ahead": 3
+          },
+          {
+            "title": "סוכות ה׳ (חוה״מ)",
+            "date": "2026-09-30",
+            "days_ahead": 4
+          },
+          {
+            "title": "סוכות ו׳ (חוה״מ)",
+            "date": "2026-10-01",
+            "days_ahead": 5
+          },
+          {
+            "title": "סוכות ז׳ (הושענא רבה)",
+            "date": "2026-10-02",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": true,
+        "blocked_reason": "סוכות א׳"
+      }
+    },
+    {
+      "index": 5,
+      "hebrew_month": "תשרי",
+      "parasha": null,
+      "tuesday": {
+        "date": "2026-09-29",
+        "hebrew_date": "י״ח בתשרי תשפ״ז",
+        "hebrew_day": 18,
+        "hebrew_month": "תשרי",
+        "events": [
+          "סוכות ד׳ (חוה״מ)"
+        ],
+        "event_details": [
+          {
+            "title": "סוכות ד׳ (חוה״מ)",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "סוכות ה׳ (חוה״מ)",
+            "date": "2026-09-30",
+            "days_ahead": 1
+          },
+          {
+            "title": "סוכות ו׳ (חוה״מ)",
+            "date": "2026-10-01",
+            "days_ahead": 2
+          },
+          {
+            "title": "סוכות ז׳ (הושענא רבה)",
+            "date": "2026-10-02",
+            "days_ahead": 3
+          },
+          {
+            "title": "שמיני עצרת",
+            "date": "2026-10-03",
+            "days_ahead": 4
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-10-03",
+        "hebrew_date": "כ״ב בתשרי תשפ״ז",
+        "hebrew_day": 22,
+        "hebrew_month": "תשרי",
+        "events": [
+          "שמיני עצרת"
+        ],
+        "event_details": [
+          {
+            "title": "שמיני עצרת",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": true,
+            "memo": "שמיני עצרת. חל מיד לאחר סוכות; בתפוצות נחגג כחג נפרד ובישראל משולב עם שמחת תורה"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": true,
+        "blocked_reason": "שמיני עצרת"
+      }
+    },
+    {
+      "index": 6,
+      "hebrew_month": "תשרי",
+      "parasha": "בראשית",
+      "tuesday": {
+        "date": "2026-10-06",
+        "hebrew_date": "כ״ה בתשרי תשפ״ז",
+        "hebrew_day": 25,
+        "hebrew_month": "תשרי",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-10-10",
+        "hebrew_date": "כ״ט בתשרי תשפ״ז",
+        "hebrew_day": 29,
+        "hebrew_month": "תשרי",
+        "events": [
+          "מברכים חודש חשון"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש חשון",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה חשון יהיה ביום ראשון בשבוע, בשעה 9 בבקר, ו-43 דקות ו-2 חלקים"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 7,
+      "hebrew_month": "חשוון",
+      "parasha": "נח",
+      "tuesday": {
+        "date": "2026-10-13",
+        "hebrew_date": "ב׳ בחשון תשפ״ז",
+        "hebrew_day": 2,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "שמירת בית הספר ליום העליה",
+            "date": "2026-10-18",
+            "days_ahead": 5
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-10-17",
+        "hebrew_date": "ו׳ בחשון תשפ״ז",
+        "hebrew_day": 6,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "שמירת בית הספר ליום העליה",
+            "date": "2026-10-18",
+            "days_ahead": 1
+          },
+          {
+            "title": "יום הזכרון ליצחק רבין",
+            "date": "2026-10-22",
+            "days_ahead": 5
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 8,
+      "hebrew_month": "חשוון",
+      "parasha": "לך־לך",
+      "tuesday": {
+        "date": "2026-10-20",
+        "hebrew_date": "ט׳ בחשון תשפ״ז",
+        "hebrew_day": 9,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום הזכרון ליצחק רבין",
+            "date": "2026-10-22",
+            "days_ahead": 2
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-10-24",
+        "hebrew_date": "י״ג בחשון תשפ״ז",
+        "hebrew_day": 13,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 9,
+      "hebrew_month": "חשוון",
+      "parasha": "וירא",
+      "tuesday": {
+        "date": "2026-10-27",
+        "hebrew_date": "ט״ז בחשון תשפ״ז",
+        "hebrew_day": 16,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-10-31",
+        "hebrew_date": "כ׳ בחשון תשפ״ז",
+        "hebrew_day": 20,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 10,
+      "hebrew_month": "חשוון",
+      "parasha": "חיי שרה",
+      "tuesday": {
+        "date": "2026-11-03",
+        "hebrew_date": "כ״ג בחשון תשפ״ז",
+        "hebrew_day": 23,
+        "hebrew_month": "חשוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "חג הסיגד",
+            "date": "2026-11-09",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-11-07",
+        "hebrew_date": "כ״ז בחשון תשפ״ז",
+        "hebrew_day": 27,
+        "hebrew_month": "חשוון",
+        "events": [
+          "מברכים חודש כסלו"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש כסלו",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה כסלו יהיה ביום שני בשבוע, בשעה 22 בלילה, ו-27 דקות ו-3 חלקים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "חג הסיגד",
+            "date": "2026-11-09",
+            "days_ahead": 2
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 11,
+      "hebrew_month": "כסלו",
+      "parasha": "תולדות",
+      "tuesday": {
+        "date": "2026-11-10",
+        "hebrew_date": "ל׳ בחשון תשפ״ז",
+        "hebrew_day": 30,
+        "hebrew_month": "חשוון",
+        "events": [
+          "ראש חודש כסלו"
+        ],
+        "event_details": [
+          {
+            "title": "ראש חודש כסלו",
+            "category": "roshchodesh",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "תחילת חודש כסלו בלוח העברי. כסלו הוא החודש ה-3 בשנה העברית האזרחית והחודש ה-9 בשנה העברית המקראית. יש בו 30 או 29 ימים והוא מקביל לנובמבר או דצמבר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "יום בן־גוריון",
+            "date": "2026-11-16",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-11-14",
+        "hebrew_date": "ד׳ בכסלו תשפ״ז",
+        "hebrew_day": 4,
+        "hebrew_month": "כסלו",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום בן־גוריון",
+            "date": "2026-11-16",
+            "days_ahead": 2
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 12,
+      "hebrew_month": "כסלו",
+      "parasha": "ויצא",
+      "tuesday": {
+        "date": "2026-11-17",
+        "hebrew_date": "ז׳ בכסלו תשפ״ז",
+        "hebrew_day": 7,
+        "hebrew_month": "כסלו",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-11-21",
+        "hebrew_date": "י״א בכסלו תשפ״ז",
+        "hebrew_day": 11,
+        "hebrew_month": "כסלו",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 13,
+      "hebrew_month": "כסלו",
+      "parasha": "וישלח",
+      "tuesday": {
+        "date": "2026-11-24",
+        "hebrew_date": "י״ד בכסלו תשפ״ז",
+        "hebrew_day": 14,
+        "hebrew_month": "כסלו",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-11-28",
+        "hebrew_date": "י״ח בכסלו תשפ״ז",
+        "hebrew_day": 18,
+        "hebrew_month": "כסלו",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "חנוכה: א׳ נר",
+            "date": "2026-12-04",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 14,
+      "hebrew_month": "כסלו",
+      "parasha": "וישב",
+      "tuesday": {
+        "date": "2026-12-01",
+        "hebrew_date": "כ״א בכסלו תשפ״ז",
+        "hebrew_day": 21,
+        "hebrew_month": "כסלו",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "חנוכה: א׳ נר",
+            "date": "2026-12-04",
+            "days_ahead": 3
+          },
+          {
+            "title": "חנוכה: ב׳ נרות",
+            "date": "2026-12-05",
+            "days_ahead": 4
+          },
+          {
+            "title": "חנוכה: ג׳ נרות",
+            "date": "2026-12-06",
+            "days_ahead": 5
+          },
+          {
+            "title": "חנוכה: ד׳ נרות",
+            "date": "2026-12-07",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-12-05",
+        "hebrew_date": "כ״ה בכסלו תשפ״ז",
+        "hebrew_day": 25,
+        "hebrew_month": "כסלו",
+        "events": [
+          "חנוכה: ב׳ נרות",
+          "מברכים חודש טבת"
+        ],
+        "event_details": [
+          {
+            "title": "חנוכה: ב׳ נרות",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+          },
+          {
+            "title": "מברכים חודש טבת",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה טבת יהיה ביום רביעי בשבוע, בשעה 11 בבקר, ו-11 דקות ו-4 חלקים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "חנוכה: ג׳ נרות",
+            "date": "2026-12-06",
+            "days_ahead": 1
+          },
+          {
+            "title": "חנוכה: ד׳ נרות",
+            "date": "2026-12-07",
+            "days_ahead": 2
+          },
+          {
+            "title": "חנוכה: ה׳ נרות",
+            "date": "2026-12-08",
+            "days_ahead": 3
+          },
+          {
+            "title": "חנוכה: ו׳ נרות",
+            "date": "2026-12-09",
+            "days_ahead": 4
+          },
+          {
+            "title": "חנוכה: ז׳ נרות",
+            "date": "2026-12-10",
+            "days_ahead": 5
+          },
+          {
+            "title": "חנוכה: ח׳ נרות",
+            "date": "2026-12-11",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 15,
+      "hebrew_month": "טבת",
+      "parasha": "מקץ",
+      "tuesday": {
+        "date": "2026-12-08",
+        "hebrew_date": "כ״ח בכסלו תשפ״ז",
+        "hebrew_day": 28,
+        "hebrew_month": "כסלו",
+        "events": [
+          "חנוכה: ה׳ נרות"
+        ],
+        "event_details": [
+          {
+            "title": "חנוכה: ה׳ נרות",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "חנוכה: ו׳ נרות",
+            "date": "2026-12-09",
+            "days_ahead": 1
+          },
+          {
+            "title": "חנוכה: ז׳ נרות",
+            "date": "2026-12-10",
+            "days_ahead": 2
+          },
+          {
+            "title": "חנוכה: ח׳ נרות",
+            "date": "2026-12-11",
+            "days_ahead": 3
+          },
+          {
+            "title": "חנוכה: יום ח׳",
+            "date": "2026-12-12",
+            "days_ahead": 4
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-12-12",
+        "hebrew_date": "ב׳ בטבת תשפ״ז",
+        "hebrew_day": 2,
+        "hebrew_month": "טבת",
+        "events": [
+          "חנוכה: יום ח׳"
+        ],
+        "event_details": [
+          {
+            "title": "חנוכה: יום ח׳",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 16,
+      "hebrew_month": "טבת",
+      "parasha": "ויגש",
+      "tuesday": {
+        "date": "2026-12-15",
+        "hebrew_date": "ה׳ בטבת תשפ״ז",
+        "hebrew_day": 5,
+        "hebrew_month": "טבת",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-12-19",
+        "hebrew_date": "ט׳ בטבת תשפ״ז",
+        "hebrew_day": 9,
+        "hebrew_month": "טבת",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 17,
+      "hebrew_month": "טבת",
+      "parasha": "ויחי",
+      "tuesday": {
+        "date": "2026-12-22",
+        "hebrew_date": "י״ב בטבת תשפ״ז",
+        "hebrew_day": 12,
+        "hebrew_month": "טבת",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2026-12-26",
+        "hebrew_date": "ט״ז בטבת תשפ״ז",
+        "hebrew_day": 16,
+        "hebrew_month": "טבת",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום השפה העברית",
+            "date": "2026-12-31",
+            "days_ahead": 5
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 18,
+      "hebrew_month": "טבת",
+      "parasha": "שמות",
+      "tuesday": {
+        "date": "2026-12-29",
+        "hebrew_date": "י״ט בטבת תשפ״ז",
+        "hebrew_day": 19,
+        "hebrew_month": "טבת",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום השפה העברית",
+            "date": "2026-12-31",
+            "days_ahead": 2
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-01-02",
+        "hebrew_date": "כ״ג בטבת תשפ״ז",
+        "hebrew_day": 23,
+        "hebrew_month": "טבת",
+        "events": [
+          "מברכים חודש שבט"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש שבט",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה שבט יהיה ביום חמישי בשבוע, בשעה 23 בלילה, ו-55 דקות ו-5 חלקים"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 19,
+      "hebrew_month": "שבט",
+      "parasha": "וארא",
+      "tuesday": {
+        "date": "2027-01-05",
+        "hebrew_date": "כ״ו בטבת תשפ״ז",
+        "hebrew_day": 26,
+        "hebrew_month": "טבת",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-01-09",
+        "hebrew_date": "א׳ בשבט תשפ״ז",
+        "hebrew_day": 1,
+        "hebrew_month": "שבט",
+        "events": [
+          "ראש חודש שבט"
+        ],
+        "event_details": [
+          {
+            "title": "ראש חודש שבט",
+            "category": "roshchodesh",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "תחילת חודש שבט בלוח העברי. שבט הוא החודש ה-5 בשנה העברית האזרחית והחודש ה-11 בשנה העברית המקראית. יש בו 30 ימים והוא מקביל לינואר או פברואר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 20,
+      "hebrew_month": "שבט",
+      "parasha": "בא",
+      "tuesday": {
+        "date": "2027-01-12",
+        "hebrew_date": "ד׳ בשבט תשפ״ז",
+        "hebrew_day": 4,
+        "hebrew_month": "שבט",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-01-16",
+        "hebrew_date": "ח׳ בשבט תשפ״ז",
+        "hebrew_day": 8,
+        "hebrew_month": "שבט",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 21,
+      "hebrew_month": "שבט",
+      "parasha": "בשלח",
+      "tuesday": {
+        "date": "2027-01-19",
+        "hebrew_date": "י״א בשבט תשפ״ז",
+        "hebrew_day": 11,
+        "hebrew_month": "שבט",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-01-23",
+        "hebrew_date": "ט״ו בשבט תשפ״ז",
+        "hebrew_day": 15,
+        "hebrew_month": "שבט",
+        "events": [
+          "ט״ו בשבט",
+          "שבת שירה"
+        ],
+        "event_details": [
+          {
+            "title": "ט״ו בשבט",
+            "category": "holiday",
+            "subcat": "minor",
+            "yomtov": false,
+            "memo": "ראש השנה לאילנות. ט״ו בשבט הוא אחד מארבעת “ראשי השנה” המוזכרים במשנה"
+          },
+          {
+            "title": "שבת שירה",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת שירה. השבת הכוללת את פרשת בשלח (ושירת הים)"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 22,
+      "hebrew_month": "שבט",
+      "parasha": "יתרו",
+      "tuesday": {
+        "date": "2027-01-26",
+        "hebrew_date": "י״ח בשבט תשפ״ז",
+        "hebrew_day": 18,
+        "hebrew_month": "שבט",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-01-30",
+        "hebrew_date": "כ״ב בשבט תשפ״ז",
+        "hebrew_day": 22,
+        "hebrew_month": "שבט",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 23,
+      "hebrew_month": "שבט",
+      "parasha": "משפטים",
+      "tuesday": {
+        "date": "2027-02-02",
+        "hebrew_date": "כ״ה בשבט תשפ״ז",
+        "hebrew_day": 25,
+        "hebrew_month": "שבט",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום המשפחה",
+            "date": "2027-02-07",
+            "days_ahead": 5
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-02-06",
+        "hebrew_date": "כ״ט בשבט תשפ״ז",
+        "hebrew_day": 29,
+        "hebrew_month": "שבט",
+        "events": [
+          "מברכים חודש אדר א׳"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש אדר א׳",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה אדר א׳ יהיה ביום שבת בשבוע, בשעה 12 בצהריים, ו-39 דקות ו-6 חלקים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "יום המשפחה",
+            "date": "2027-02-07",
+            "days_ahead": 1
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 24,
+      "hebrew_month": "אדר א׳",
+      "parasha": "תרומה",
+      "tuesday": {
+        "date": "2027-02-09",
+        "hebrew_date": "ב׳ באדר א׳ תשפ״ז",
+        "hebrew_day": 2,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-02-13",
+        "hebrew_date": "ו׳ באדר א׳ תשפ״ז",
+        "hebrew_day": 6,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 25,
+      "hebrew_month": "אדר א׳",
+      "parasha": "תצוה",
+      "tuesday": {
+        "date": "2027-02-16",
+        "hebrew_date": "ט׳ באדר א׳ תשפ״ז",
+        "hebrew_day": 9,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-02-20",
+        "hebrew_date": "י״ג באדר א׳ תשפ״ז",
+        "hebrew_day": 13,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 26,
+      "hebrew_month": "אדר א׳",
+      "parasha": "כי תשא",
+      "tuesday": {
+        "date": "2027-02-23",
+        "hebrew_date": "ט״ז באדר א׳ תשפ״ז",
+        "hebrew_day": 16,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-02-27",
+        "hebrew_date": "כ׳ באדר א׳ תשפ״ז",
+        "hebrew_day": 20,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 27,
+      "hebrew_month": "אדר א׳",
+      "parasha": "ויקהל",
+      "tuesday": {
+        "date": "2027-03-02",
+        "hebrew_date": "כ״ג באדר א׳ תשפ״ז",
+        "hebrew_day": 23,
+        "hebrew_month": "אדר א׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-03-06",
+        "hebrew_date": "כ״ז באדר א׳ תשפ״ז",
+        "hebrew_day": 27,
+        "hebrew_month": "אדר א׳",
+        "events": [
+          "שבת שקלים",
+          "מברכים חודש אדר ב׳"
+        ],
+        "event_details": [
+          {
+            "title": "שבת שקלים",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת שקלים. השבת שלפני ראש חודש אדר. נקראת כהכנה לפורים"
+          },
+          {
+            "title": "מברכים חודש אדר ב׳",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה אדר ב׳ יהיה ביום שני בשבוע, בשעה 1 בלילה, ו-23 דקות ו-7 חלקים"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 28,
+      "hebrew_month": "אדר ב׳",
+      "parasha": "פקודי",
+      "tuesday": {
+        "date": "2027-03-09",
+        "hebrew_date": "ל׳ באדר א׳ תשפ״ז",
+        "hebrew_day": 30,
+        "hebrew_month": "אדר א׳",
+        "events": [
+          "ראש חודש אדר ב׳"
+        ],
+        "event_details": [
+          {
+            "title": "ראש חודש אדר ב׳",
+            "category": "roshchodesh",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "תחילת חודש אדר ב' (בשנים מעוברות) בלוח העברי. אדר ב', נקרא לעיתים “אדר שני”, הוא החודש ה-7 בשנה העברית האזרחית והחודש ה-13 בשנה העברית. יש בו 29 ימים, הוא חל רק בשנים מעוברות ומקביל לפברואר או מרץ בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-03-13",
+        "hebrew_date": "ד׳ באדר ב׳ תשפ״ז",
+        "hebrew_day": 4,
+        "hebrew_month": "אדר ב׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 29,
+      "hebrew_month": "אדר ב׳",
+      "parasha": "ויקרא",
+      "tuesday": {
+        "date": "2027-03-16",
+        "hebrew_date": "ז׳ באדר ב׳ תשפ״ז",
+        "hebrew_day": 7,
+        "hebrew_month": "אדר ב׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב פורים",
+            "date": "2027-03-22",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-03-20",
+        "hebrew_date": "י״א באדר ב׳ תשפ״ז",
+        "hebrew_day": 11,
+        "hebrew_month": "אדר ב׳",
+        "events": [
+          "שבת זכור"
+        ],
+        "event_details": [
+          {
+            "title": "שבת זכור",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת זכור. השבת שלפני פורים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ערב פורים",
+            "date": "2027-03-22",
+            "days_ahead": 2
+          },
+          {
+            "title": "פורים",
+            "date": "2027-03-23",
+            "days_ahead": 3
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 30,
+      "hebrew_month": "אדר ב׳",
+      "parasha": "צו",
+      "tuesday": {
+        "date": "2027-03-23",
+        "hebrew_date": "י״ד באדר ב׳ תשפ״ז",
+        "hebrew_day": 14,
+        "hebrew_month": "אדר ב׳",
+        "events": [
+          "פורים"
+        ],
+        "event_details": [
+          {
+            "title": "פורים",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "חגיגת ההצלה היהודית כפי שמסופר במגילת אסתר. מציין תקופה שבה העם היהודי שחי בפרס ניצל מהשמדה"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-03-27",
+        "hebrew_date": "י״ח באדר ב׳ תשפ״ז",
+        "hebrew_day": 18,
+        "hebrew_month": "אדר ב׳",
+        "events": [
+          "שבת פרה"
+        ],
+        "event_details": [
+          {
+            "title": "שבת פרה",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת פרה (אדומה). השבת שלפני שבת החודש, כהכנה לפסח"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 31,
+      "hebrew_month": "אדר ב׳",
+      "parasha": "שמיני",
+      "tuesday": {
+        "date": "2027-03-30",
+        "hebrew_date": "כ״א באדר ב׳ תשפ״ז",
+        "hebrew_day": 21,
+        "hebrew_month": "אדר ב׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-04-03",
+        "hebrew_date": "כ״ה באדר ב׳ תשפ״ז",
+        "hebrew_day": 25,
+        "hebrew_month": "אדר ב׳",
+        "events": [
+          "שבת החדש",
+          "מברכים חודש ניסן"
+        ],
+        "event_details": [
+          {
+            "title": "שבת החדש",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת החודש. השבת שלפני ראש חודש ניסן. נקראת כהכנה לפסח"
+          },
+          {
+            "title": "מברכים חודש ניסן",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה ניסן יהיה ביום שלישי בשבוע, בשעה 14 בצהריים, ו-7 דקות ו-8 חלקים"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 32,
+      "hebrew_month": "ניסן",
+      "parasha": "תזריע",
+      "tuesday": {
+        "date": "2027-04-06",
+        "hebrew_date": "כ״ח באדר ב׳ תשפ״ז",
+        "hebrew_day": 28,
+        "hebrew_month": "אדר ב׳",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-04-10",
+        "hebrew_date": "ג׳ בניסן תשפ״ז",
+        "hebrew_day": 3,
+        "hebrew_month": "ניסן",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 33,
+      "hebrew_month": "ניסן",
+      "parasha": "מצרע",
+      "tuesday": {
+        "date": "2027-04-13",
+        "hebrew_date": "ו׳ בניסן תשפ״ז",
+        "hebrew_day": 6,
+        "hebrew_month": "ניסן",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום העליה",
+            "date": "2027-04-17",
+            "days_ahead": 4
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-04-17",
+        "hebrew_date": "י׳ בניסן תשפ״ז",
+        "hebrew_day": 10,
+        "hebrew_month": "ניסן",
+        "events": [
+          "שבת הגדול",
+          "יום העליה"
+        ],
+        "event_details": [
+          {
+            "title": "שבת הגדול",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת הגדול. השבת שלפני חג הפסח"
+          },
+          {
+            "title": "יום העליה",
+            "category": "holiday",
+            "subcat": "modern",
+            "yomtov": false,
+            "memo": "מציין את העלייה למדינת ישראל"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ערב פסח",
+            "date": "2027-04-21",
+            "days_ahead": 4
+          },
+          {
+            "title": "פסח א׳",
+            "date": "2027-04-22",
+            "days_ahead": 5
+          },
+          {
+            "title": "פסח ב׳ (חוה״מ)",
+            "date": "2027-04-23",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 34,
+      "hebrew_month": "ניסן",
+      "parasha": null,
+      "tuesday": {
+        "date": "2027-04-20",
+        "hebrew_date": "י״ג בניסן תשפ״ז",
+        "hebrew_day": 13,
+        "hebrew_month": "ניסן",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב פסח",
+            "date": "2027-04-21",
+            "days_ahead": 1
+          },
+          {
+            "title": "פסח א׳",
+            "date": "2027-04-22",
+            "days_ahead": 2
+          },
+          {
+            "title": "פסח ב׳ (חוה״מ)",
+            "date": "2027-04-23",
+            "days_ahead": 3
+          },
+          {
+            "title": "פסח ג׳ (חוה״מ)",
+            "date": "2027-04-24",
+            "days_ahead": 4
+          },
+          {
+            "title": "פסח ד׳ (חוה״מ)",
+            "date": "2027-04-25",
+            "days_ahead": 5
+          },
+          {
+            "title": "פסח ה׳ (חוה״מ)",
+            "date": "2027-04-26",
+            "days_ahead": 6
+          }
+        ],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-04-24",
+        "hebrew_date": "י״ז בניסן תשפ״ז",
+        "hebrew_day": 17,
+        "hebrew_month": "ניסן",
+        "events": [
+          "פסח ג׳ (חוה״מ)"
+        ],
+        "event_details": [
+          {
+            "title": "פסח ג׳ (חוה״מ)",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "פסח ד׳ (חוה״מ)",
+            "date": "2027-04-25",
+            "days_ahead": 1
+          },
+          {
+            "title": "פסח ה׳ (חוה״מ)",
+            "date": "2027-04-26",
+            "days_ahead": 2
+          },
+          {
+            "title": "פסח ו׳ (חוה״מ)",
+            "date": "2027-04-27",
+            "days_ahead": 3
+          },
+          {
+            "title": "פסח ז׳",
+            "date": "2027-04-28",
+            "days_ahead": 4
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם שְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 35,
+      "hebrew_month": "ניסן",
+      "parasha": "אחרי מות",
+      "tuesday": {
+        "date": "2027-04-27",
+        "hebrew_date": "כ׳ בניסן תשפ״ז",
+        "hebrew_day": 20,
+        "hebrew_month": "ניסן",
+        "events": [
+          "פסח ו׳ (חוה״מ)"
+        ],
+        "event_details": [
+          {
+            "title": "פסח ו׳ (חוה״מ)",
+            "category": "holiday",
+            "subcat": "major",
+            "yomtov": false,
+            "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "פסח ז׳",
+            "date": "2027-04-28",
+            "days_ahead": 1
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם חֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-05-01",
+        "hebrew_date": "כ״ד בניסן תשפ״ז",
+        "hebrew_day": 24,
+        "hebrew_month": "ניסן",
+        "events": [
+          "מברכים חודש אייר"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש אייר",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה אייר יהיה ביום חמישי בשבוע, בשעה 2 בלילה, ו-51 דקות ו-9 חלקים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "יום השואה",
+            "date": "2027-05-04",
+            "days_ahead": 3
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם תִּשְׁעָה יָמִים, שֶׁהֵם שָׁבֽוּעַ אֶחָד וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 9 days, which are 1 week and 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 36,
+      "hebrew_month": "אייר",
+      "parasha": "קדשים",
+      "tuesday": {
+        "date": "2027-05-04",
+        "hebrew_date": "כ״ז בניסן תשפ״ז",
+        "hebrew_day": 27,
+        "hebrew_month": "ניסן",
+        "events": [
+          "יום השואה"
+        ],
+        "event_details": [
+          {
+            "title": "יום השואה",
+            "category": "holiday",
+            "subcat": "modern",
+            "yomtov": false,
+            "memo": "יום הזיכרון לשואה ולגבורה"
+          }
+        ],
+        "upcoming": [],
+        "omer": {
+          "he": "הַיּוֹם שְׁנֵים עָשָׂר יוֹם, שֶׁהֵם שָׁבֽוּעַ אֶחָד וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 12 days, which are 1 week and 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-05-08",
+        "hebrew_date": "א׳ באייר תשפ״ז",
+        "hebrew_day": 1,
+        "hebrew_month": "אייר",
+        "events": [
+          "ראש חודש אייר"
+        ],
+        "event_details": [
+          {
+            "title": "ראש חודש אייר",
+            "category": "roshchodesh",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "תחילת חודש אייר בלוח העברי. אייר הוא החודש ה-8 בשנה העברית האזרחית (ה-9 בשנים מעוברות) והחודש ה-2 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל לאפריל או מאי בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "יום הזכרון",
+            "date": "2027-05-11",
+            "days_ahead": 3
+          },
+          {
+            "title": "יום העצמאות",
+            "date": "2027-05-12",
+            "days_ahead": 4
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם שִׁשָּׁה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 16 days, which are 2 weeks and 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 37,
+      "hebrew_month": "אייר",
+      "parasha": "אמור",
+      "tuesday": {
+        "date": "2027-05-11",
+        "hebrew_date": "ד׳ באייר תשפ״ז",
+        "hebrew_day": 4,
+        "hebrew_month": "אייר",
+        "events": [
+          "יום הזכרון"
+        ],
+        "event_details": [
+          {
+            "title": "יום הזכרון",
+            "category": "holiday",
+            "subcat": "modern",
+            "yomtov": false,
+            "memo": "יום הזיכרון לחללי מערכות ישראל. זוכר את אלו שנפלו במלחמת העצמאות ובמלחמות ישראל האחרות. השם המלא של החג הוא “יום הזיכרון לחללי מערכות ישראל ולנפגעי פעולות האיבה״. למרות שיום הזיכרון מצוין בדרך כלל בד' באייר, הוא עשוי להיות מוקדם או להידחות אם קיום היום (או יום העצמאות שבא תמיד אחריו) יתנגש עם השבת"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "יום העצמאות",
+            "date": "2027-05-12",
+            "days_ahead": 1
+          },
+          {
+            "title": "יום הרצל",
+            "date": "2027-05-17",
+            "days_ahead": 6
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם תִּשְׁעָה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 19 days, which are 2 weeks and 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-05-15",
+        "hebrew_date": "ח׳ באייר תשפ״ז",
+        "hebrew_day": 8,
+        "hebrew_month": "אייר",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום הרצל",
+            "date": "2027-05-17",
+            "days_ahead": 2
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם שְׁלוֹשָׁה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 23 days, which are 3 weeks and 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 38,
+      "hebrew_month": "אייר",
+      "parasha": "בהר",
+      "tuesday": {
+        "date": "2027-05-18",
+        "hebrew_date": "י״א באייר תשפ״ז",
+        "hebrew_day": 11,
+        "hebrew_month": "אייר",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": {
+          "he": "הַיּוֹם שִׁשָּׁה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 26 days, which are 3 weeks and 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-05-22",
+        "hebrew_date": "ט״ו באייר תשפ״ז",
+        "hebrew_day": 15,
+        "hebrew_month": "אייר",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": {
+          "he": "הַיּוֹם שְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 30 days, which are 4 weeks and 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 39,
+      "hebrew_month": "אייר",
+      "parasha": "בחקתי",
+      "tuesday": {
+        "date": "2027-05-25",
+        "hebrew_date": "י״ח באייר תשפ״ז",
+        "hebrew_day": 18,
+        "hebrew_month": "אייר",
+        "events": [
+          "ל״ג בעומר"
+        ],
+        "event_details": [
+          {
+            "title": "ל״ג בעומר",
+            "category": "holiday",
+            "subcat": "minor",
+            "yomtov": false,
+            "memo": "היום ה-33 לספירת העומר. החג מהווה הפוגה זמנית ממנהגי האבלות של תקופת ספירת העומר. המנהגים כוללים הדלקת מדורות, תספורות וחתונות"
+          }
+        ],
+        "upcoming": [],
+        "omer": {
+          "he": "הַיּוֹם שְׁלוֹשָׁה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 33 days, which are 4 weeks and 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-05-29",
+        "hebrew_date": "כ״ב באייר תשפ״ז",
+        "hebrew_day": 22,
+        "hebrew_month": "אייר",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום ירושלים",
+            "date": "2027-06-04",
+            "days_ahead": 6
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם שִׁבְעָה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 37 days, which are 5 weeks and 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 40,
+      "hebrew_month": "אייר",
+      "parasha": "במדבר",
+      "tuesday": {
+        "date": "2027-06-01",
+        "hebrew_date": "כ״ה באייר תשפ״ז",
+        "hebrew_day": 25,
+        "hebrew_month": "אייר",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "יום ירושלים",
+            "date": "2027-06-04",
+            "days_ahead": 3
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם אַרְבָּעִים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 40 days, which are 5 weeks and 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-06-05",
+        "hebrew_date": "כ״ט באייר תשפ״ז",
+        "hebrew_day": 29,
+        "hebrew_month": "אייר",
+        "events": [
+          "מברכים חודש סיון"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש סיון",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה סיון יהיה ביום שישי בשבוע, בשעה 15 בצהריים, ו-35 דקות ו-10 חלקים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ערב שבועות",
+            "date": "2027-06-10",
+            "days_ahead": 5
+          },
+          {
+            "title": "שבועות",
+            "date": "2027-06-11",
+            "days_ahead": 6
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם אַרְבָּעָה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+          "en": "Today is 44 days, which are 6 weeks and 2 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 41,
+      "hebrew_month": "סיוון",
+      "parasha": "נשא",
+      "tuesday": {
+        "date": "2027-06-08",
+        "hebrew_date": "ג׳ בסיון תשפ״ז",
+        "hebrew_day": 3,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב שבועות",
+            "date": "2027-06-10",
+            "days_ahead": 2
+          },
+          {
+            "title": "שבועות",
+            "date": "2027-06-11",
+            "days_ahead": 3
+          }
+        ],
+        "omer": {
+          "he": "הַיּוֹם שִׁבְעָה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+          "en": "Today is 47 days, which are 6 weeks and 5 days of the Omer"
+        },
+        "period": "ספירת העומר (יום [object Object])",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-06-12",
+        "hebrew_date": "ז׳ בסיון תשפ״ז",
+        "hebrew_day": 7,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 42,
+      "hebrew_month": "סיוון",
+      "parasha": "בהעלתך",
+      "tuesday": {
+        "date": "2027-06-15",
+        "hebrew_date": "י׳ בסיון תשפ״ז",
+        "hebrew_day": 10,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-06-19",
+        "hebrew_date": "י״ד בסיון תשפ״ז",
+        "hebrew_day": 14,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 43,
+      "hebrew_month": "סיוון",
+      "parasha": "שלח־לך",
+      "tuesday": {
+        "date": "2027-06-22",
+        "hebrew_date": "י״ז בסיון תשפ״ז",
+        "hebrew_day": 17,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-06-26",
+        "hebrew_date": "כ״א בסיון תשפ״ז",
+        "hebrew_day": 21,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 44,
+      "hebrew_month": "סיוון",
+      "parasha": "קורח",
+      "tuesday": {
+        "date": "2027-06-29",
+        "hebrew_date": "כ״ד בסיון תשפ״ז",
+        "hebrew_day": 24,
+        "hebrew_month": "סיוון",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-07-03",
+        "hebrew_date": "כ״ח בסיון תשפ״ז",
+        "hebrew_day": 28,
+        "hebrew_month": "סיוון",
+        "events": [
+          "מברכים חודש תמוז"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש תמוז",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה תמוז יהיה ביום ראשון בשבוע, בשעה 4 בלילה, ו-19 דקות ו-11 חלקים"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 45,
+      "hebrew_month": "תמוז",
+      "parasha": "חוקת",
+      "tuesday": {
+        "date": "2027-07-06",
+        "hebrew_date": "א׳ בתמוז תשפ״ז",
+        "hebrew_day": 1,
+        "hebrew_month": "תמוז",
+        "events": [
+          "ראש חודש תמוז"
+        ],
+        "event_details": [
+          {
+            "title": "ראש חודש תמוז",
+            "category": "roshchodesh",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "תחילת חודש תמוז בלוח העברי. תמוז הוא החודש ה-10 בשנה העברית האזרחית (ה-11 בשנים מעוברות) והחודש ה-4 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל ליוני או יולי בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-07-10",
+        "hebrew_date": "ה׳ בתמוז תשפ״ז",
+        "hebrew_day": 5,
+        "hebrew_month": "תמוז",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 46,
+      "hebrew_month": "תמוז",
+      "parasha": "בלק",
+      "tuesday": {
+        "date": "2027-07-13",
+        "hebrew_date": "ח׳ בתמוז תשפ״ז",
+        "hebrew_day": 8,
+        "hebrew_month": "תמוז",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-07-17",
+        "hebrew_date": "י״ב בתמוז תשפ״ז",
+        "hebrew_day": 12,
+        "hebrew_month": "תמוז",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 47,
+      "hebrew_month": "תמוז",
+      "parasha": "פינחס",
+      "tuesday": {
+        "date": "2027-07-20",
+        "hebrew_date": "ט״ו בתמוז תשפ״ז",
+        "hebrew_day": 15,
+        "hebrew_month": "תמוז",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-07-24",
+        "hebrew_date": "י״ט בתמוז תשפ״ז",
+        "hebrew_day": 19,
+        "hebrew_month": "תמוז",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": "בין המצרים",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 48,
+      "hebrew_month": "תמוז",
+      "parasha": "מטות־מסעי",
+      "tuesday": {
+        "date": "2027-07-27",
+        "hebrew_date": "כ״ב בתמוז תשפ״ז",
+        "hebrew_day": 22,
+        "hebrew_month": "תמוז",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": "בין המצרים",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-07-31",
+        "hebrew_date": "כ״ו בתמוז תשפ״ז",
+        "hebrew_day": 26,
+        "hebrew_month": "תמוז",
+        "events": [
+          "מברכים חודש אב"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש אב",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה אב יהיה ביום שני בשבוע, בשעה 17 בערב, ו-3 דקות ו-12 חלקים"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "יום ז׳בוטינסקי",
+            "date": "2027-08-03",
+            "days_ahead": 3
+          }
+        ],
+        "omer": null,
+        "period": "בין המצרים",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 49,
+      "hebrew_month": "אב",
+      "parasha": "דברים",
+      "tuesday": {
+        "date": "2027-08-03",
+        "hebrew_date": "כ״ט בתמוז תשפ״ז",
+        "hebrew_day": 29,
+        "hebrew_month": "תמוז",
+        "events": [
+          "יום ז׳בוטינסקי"
+        ],
+        "event_details": [
+          {
+            "title": "יום ז׳בוטינסקי",
+            "category": "holiday",
+            "subcat": "modern",
+            "yomtov": false,
+            "memo": "יום המציין את חייו וחזונו של המנהיג הציוני זאב ז'בוטינסקי"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": "בין המצרים",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-08-07",
+        "hebrew_date": "ד׳ באב תשפ״ז",
+        "hebrew_day": 4,
+        "hebrew_month": "אב",
+        "events": [
+          "שבת חזון"
+        ],
+        "event_details": [
+          {
+            "title": "שבת חזון",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת חזון (שבת הנבואה). השבת שלפני תשעה באב"
+          }
+        ],
+        "upcoming": [
+          {
+            "title": "ערב תשעה באב",
+            "date": "2027-08-11",
+            "days_ahead": 4
+          },
+          {
+            "title": "תשעה באב",
+            "date": "2027-08-12",
+            "days_ahead": 5
+          }
+        ],
+        "omer": null,
+        "period": "בין המצרים",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 50,
+      "hebrew_month": "אב",
+      "parasha": "ואתחנן",
+      "tuesday": {
+        "date": "2027-08-10",
+        "hebrew_date": "ז׳ באב תשפ״ז",
+        "hebrew_day": 7,
+        "hebrew_month": "אב",
+        "events": [],
+        "event_details": [],
+        "upcoming": [
+          {
+            "title": "ערב תשעה באב",
+            "date": "2027-08-11",
+            "days_ahead": 1
+          },
+          {
+            "title": "תשעה באב",
+            "date": "2027-08-12",
+            "days_ahead": 2
+          }
+        ],
+        "omer": null,
+        "period": "בין המצרים",
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-08-14",
+        "hebrew_date": "י״א באב תשפ״ז",
+        "hebrew_day": 11,
+        "hebrew_month": "אב",
+        "events": [
+          "שבת נחמו"
+        ],
+        "event_details": [
+          {
+            "title": "שבת נחמו",
+            "category": "holiday",
+            "subcat": "shabbat",
+            "yomtov": false,
+            "memo": "שבת נחמו. השבת שלאחר תשעה באב (שבת של נחמה). הראשונה מבין שבע שבתות המובילות לראש השנה. נקראת על שם ההפטרה (ישעיהו מ') הפותחת בפסוק “נחמו נחמו, עמי”"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 51,
+      "hebrew_month": "אב",
+      "parasha": "עקב",
+      "tuesday": {
+        "date": "2027-08-17",
+        "hebrew_date": "י״ד באב תשפ״ז",
+        "hebrew_day": 14,
+        "hebrew_month": "אב",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-08-21",
+        "hebrew_date": "י״ח באב תשפ״ז",
+        "hebrew_day": 18,
+        "hebrew_month": "אב",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 52,
+      "hebrew_month": "אב",
+      "parasha": "ראה",
+      "tuesday": {
+        "date": "2027-08-24",
+        "hebrew_date": "כ״א באב תשפ״ז",
+        "hebrew_day": 21,
+        "hebrew_month": "אב",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-08-28",
+        "hebrew_date": "כ״ה באב תשפ״ז",
+        "hebrew_day": 25,
+        "hebrew_month": "אב",
+        "events": [
+          "מברכים חודש אלול"
+        ],
+        "event_details": [
+          {
+            "title": "מברכים חודש אלול",
+            "category": "mevarchim",
+            "subcat": null,
+            "yomtov": false,
+            "memo": "מולד הלבנה אלול יהיה ביום רביעי בשבוע, בשעה 5 בבקר, ו-47 דקות ו-13 חלקים"
+          }
+        ],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      }
+    },
+    {
+      "index": 53,
+      "hebrew_month": "אלול",
+      "parasha": null,
+      "tuesday": {
+        "date": "2027-08-31",
+        "hebrew_date": "כ״ח באב תשפ״ז",
+        "hebrew_day": 28,
+        "hebrew_month": "אב",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": null,
+        "blocked": false,
+        "blocked_reason": null
+      },
+      "shabbat": {
+        "date": "2027-09-04",
+        "hebrew_date": "ב׳ באלול תשפ״ז",
+        "hebrew_day": 2,
+        "hebrew_month": "אלול",
+        "events": [],
+        "event_details": [],
+        "upcoming": [],
+        "omer": null,
+        "period": "חודש אלול",
+        "blocked": false,
+        "blocked_reason": null
+      }
+    }
+  ]
+}

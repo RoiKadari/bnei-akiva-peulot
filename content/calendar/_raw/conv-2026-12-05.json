@@ -1,0 +1,21 @@
+{
+ "gy": 2026,
+ "gm": 12,
+ "gd": 5,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Kislev",
+ "hd": 25,
+ "hebrew": "כ״ה בְּכִסְלֵו תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "כסלו",
+  "d": "כ״ה"
+ },
+ "events": [
+  "Chanukah day 1",
+  "Shabbat Mevarchim Chodesh Tevet",
+  "Molad Tevet: Wednesday, 11:11am and 4 chalakim",
+  "Parashat Vayeshev"
+ ]
+}

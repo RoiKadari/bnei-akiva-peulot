@@ -1,0 +1,19 @@
+{
+ "gy": 2026,
+ "gm": 9,
+ "gd": 5,
+ "afterSunset": false,
+ "hy": 5786,
+ "hm": "Elul",
+ "hd": 23,
+ "hebrew": "כ״ג בֶּאֱלוּל תשפ״ו",
+ "heDateParts": {
+  "y": "תשפ״ו",
+  "m": "אלול",
+  "d": "כ״ג"
+ },
+ "events": [
+  "Leil Selichot",
+  "Parashat Nitzavim-Vayeilech"
+ ]
+}

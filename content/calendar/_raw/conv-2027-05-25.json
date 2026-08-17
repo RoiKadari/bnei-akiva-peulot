@@ -1,0 +1,20 @@
+{
+ "gy": 2027,
+ "gm": 5,
+ "gd": 25,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Iyyar",
+ "hd": 18,
+ "hebrew": "י״ח בְּאִיָיר תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אייר",
+  "d": "י״ח"
+ },
+ "events": [
+  "Lag BaOmer",
+  "Parashat Bechukotai",
+  "33rd day of the Omer"
+ ]
+}

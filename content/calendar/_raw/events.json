@@ -1,0 +1,4170 @@
+{
+ "title": "Hebcal Israel 2026-2027",
+ "date": "2026-08-16T18:29:24.990Z",
+ "version": "6.9.2-4.1.0",
+ "location": {
+  "geo": "none"
+ },
+ "range": {
+  "start": "2026-09-05",
+  "end": "2027-08-28"
+ },
+ "items": [
+  {
+   "title": "סְלִיחוֹת",
+   "date": "2026-09-05",
+   "hdate": "23 Elul 5786",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Leil Selichot",
+   "hebrew": "סליחות",
+   "link": "https://hebcal.com/h/leil-selichot-2026?i=on&us=js&um=api",
+   "memo": "תפילות סליחה כהכנה לימים הנוראים"
+  },
+  {
+   "title": "פָּרָשַׁת נִצָּבִים־וַיֵּלֶךְ",
+   "date": "2026-09-05",
+   "hdate": "23 Elul 5786",
+   "category": "parashat",
+   "title_orig": "Parashat Nitzavim-Vayeilech",
+   "hebrew": "פרשת נצבים־וילך",
+   "leyning": {
+    "1": "Deuteronomy 29:9-29:28",
+    "2": "Deuteronomy 30:1-30:6",
+    "3": "Deuteronomy 30:7-30:14",
+    "4": "Deuteronomy 30:15-31:6",
+    "5": "Deuteronomy 31:7-31:13",
+    "6": "Deuteronomy 31:14-31:19",
+    "7": "Deuteronomy 31:20-31:30",
+    "torah": "Deuteronomy 29:9-31:30",
+    "haftarah": "Isaiah 61:10-63:9",
+    "maftir": "Deuteronomy 31:28-31:30",
+    "triennial": {
+     "1": "Deuteronomy 29:9-29:11",
+     "2": "Deuteronomy 29:12-29:14",
+     "3": "Deuteronomy 29:15-29:28",
+     "4": "Deuteronomy 30:1-30:3",
+     "5": "Deuteronomy 30:4-30:6",
+     "6": "Deuteronomy 30:7-30:10",
+     "7": "Deuteronomy 30:11-30:14",
+     "maftir": "Deuteronomy 30:11-30:14"
+    }
+   },
+   "link": "https://hebcal.com/s/5786i/51d?us=js&um=api"
+  },
+  {
+   "title": "עֶרֶב רֹאשׁ הַשָּׁנָה",
+   "date": "2026-09-11",
+   "hdate": "29 Elul 5786",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Rosh Hashana",
+   "hebrew": "ערב ראש השנה",
+   "link": "https://hebcal.com/h/rosh-hashana-2026?i=on&us=js&um=api",
+   "memo": "ראש השנה היהודי"
+  },
+  {
+   "title": "רֹאשׁ הַשָּׁנָה 5787",
+   "date": "2026-09-12",
+   "hdate": "1 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Rosh Hashana 5787",
+   "hebrew": "ראש השנה 5787",
+   "leyning": {
+    "1": "Genesis 21:1-21:4",
+    "2": "Genesis 21:5-21:8",
+    "3": "Genesis 21:9-21:12",
+    "4": "Genesis 21:13-21:17",
+    "5": "Genesis 21:18-21:21",
+    "6": "Genesis 21:22-21:27",
+    "7": "Genesis 21:28-21:34",
+    "torah": "Genesis 21:1-34; Numbers 29:1-6",
+    "haftarah": "I Samuel 1:1-2:10",
+    "maftir": "Numbers 29:1-29:6"
+   },
+   "link": "https://hebcal.com/h/rosh-hashana-2026?i=on&us=js&um=api",
+   "memo": "ראש השנה היהודי"
+  },
+  {
+   "title": "רֹאשׁ הַשָּׁנָה ב׳",
+   "date": "2026-09-13",
+   "hdate": "2 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Rosh Hashana II",
+   "hebrew": "ראש השנה ב׳",
+   "leyning": {
+    "1": "Genesis 22:1-22:3",
+    "2": "Genesis 22:4-22:8",
+    "3": "Genesis 22:9-22:14",
+    "4": "Genesis 22:15-22:19",
+    "5": "Genesis 22:20-22:24",
+    "torah": "Genesis 22:1-24; Numbers 29:1-6",
+    "haftarah": "Jeremiah 31:2-20",
+    "maftir": "Numbers 29:1-29:6"
+   },
+   "link": "https://hebcal.com/h/rosh-hashana-2026?i=on&us=js&um=api",
+   "memo": "ראש השנה היהודי"
+  },
+  {
+   "title": "צוֹם גְּדַלְיָה",
+   "date": "2026-09-14",
+   "hdate": "3 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "fast",
+   "title_orig": "Tzom Gedaliah",
+   "hebrew": "צום גדליה",
+   "leyning": {
+    "1": "Exodus 32:11-32:14",
+    "2": "Exodus 34:1-34:3",
+    "3": "Exodus 34:4-34:10",
+    "torah": "Exodus 32:11-14, 34:1-10"
+   },
+   "link": "https://hebcal.com/h/tzom-gedaliah-2026?i=on&us=js&um=api",
+   "memo": "צום גדליה (צום החודש השביעי). מציין את רצח המושל היהודי של יהודה"
+  },
+  {
+   "title": "שַׁבַּת שׁוּבָה",
+   "date": "2026-09-19",
+   "hdate": "8 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Shuva",
+   "hebrew": "שבת שובה",
+   "leyning": {
+    "haftarah": "Hosea 14:2-10; Micah 7:18-20; Joel 2:15-27"
+   },
+   "link": "https://hebcal.com/h/shabbat-shuva-2026?i=on&us=js&um=api",
+   "memo": "שבת שובה. השבת שחלה במהלך עשרת ימי תשובה בין ראש השנה ליום כיפור"
+  },
+  {
+   "title": "פָּרָשַׁת הַאֲזִינוּ",
+   "date": "2026-09-19",
+   "hdate": "8 Tishrei 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Ha'azinu",
+   "hebrew": "פרשת האזינו",
+   "leyning": {
+    "1": "Deuteronomy 32:1-32:6",
+    "2": "Deuteronomy 32:7-32:12",
+    "3": "Deuteronomy 32:13-32:18",
+    "4": "Deuteronomy 32:19-32:28",
+    "5": "Deuteronomy 32:29-32:39",
+    "6": "Deuteronomy 32:40-32:43",
+    "7": "Deuteronomy 32:44-32:52",
+    "torah": "Deuteronomy 32:1-52",
+    "haftarah": "Hosea 14:2-10; Joel 2:15-27 | Shabbat Shuva (with Ha'azinu)",
+    "haftarah_sephardic": "Hosea 14:2-10; Micah 7:18-20 | Shabbat Shuva (with Ha'azinu)",
+    "maftir": "Deuteronomy 32:48-32:52",
+    "triennial": {
+     "1": "Deuteronomy 32:1-32:6",
+     "2": "Deuteronomy 32:7-32:12",
+     "3": "Deuteronomy 32:13-32:18",
+     "4": "Deuteronomy 32:19-32:28",
+     "5": "Deuteronomy 32:29-32:39",
+     "6": "Deuteronomy 32:40-32:43",
+     "7": "Deuteronomy 32:44-32:52",
+     "maftir": "Deuteronomy 32:48-32:52"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/53?us=js&um=api"
+  },
+  {
+   "title": "עֶרֶב יוֹם כִּפּוּר",
+   "date": "2026-09-20",
+   "hdate": "9 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Yom Kippur",
+   "hebrew": "ערב יום כיפור",
+   "link": "https://hebcal.com/h/yom-kippur-2026?i=on&us=js&um=api",
+   "memo": "ערב יום הכיפורים, הכולל את תפילת כל נדרי. צום יום הכיפורים מתחיל עם שקיעת החמה ונמשך 25 שעות"
+  },
+  {
+   "title": "יוֹם כִּפּוּר",
+   "date": "2026-09-21",
+   "hdate": "10 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Yom Kippur",
+   "hebrew": "יום כיפור",
+   "leyning": {
+    "1": "Leviticus 16:1-16:6",
+    "2": "Leviticus 16:7-16:11",
+    "3": "Leviticus 16:12-16:17",
+    "4": "Leviticus 16:18-16:24",
+    "5": "Leviticus 16:25-16:30",
+    "6": "Leviticus 16:31-16:34",
+    "torah": "Leviticus 16:1-34; Numbers 29:7-11",
+    "haftarah": "Isaiah 57:14-58:14",
+    "maftir": "Numbers 29:7-29:11"
+   },
+   "link": "https://hebcal.com/h/yom-kippur-2026?i=on&us=js&um=api",
+   "memo": "יום הכיפורים. היום הקדוש ביותר בשנה ביהדות, המצוין באופן מסורתי בצום של 25 שעות ותפילה אינטנסיבית"
+  },
+  {
+   "title": "עֶרֶב סֻכּוֹת",
+   "date": "2026-09-25",
+   "hdate": "14 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Sukkot",
+   "hebrew": "ערב סוכות",
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת א׳",
+   "date": "2026-09-26",
+   "hdate": "15 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Sukkot I",
+   "hebrew": "סוכות א׳",
+   "leyning": {
+    "1": "Leviticus 22:26-22:33",
+    "2": "Leviticus 23:1-23:3",
+    "3": "Leviticus 23:4-23:8",
+    "4": "Leviticus 23:9-23:14",
+    "5": "Leviticus 23:15-23:22",
+    "6": "Leviticus 23:23-23:32",
+    "7": "Leviticus 23:33-23:44",
+    "torah": "Leviticus 22:26-23:44; Numbers 29:12-16",
+    "haftarah": "Zechariah 14:1-21",
+    "maftir": "Numbers 29:12-29:16"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת ב׳ (חוה״מ)",
+   "date": "2026-09-27",
+   "hdate": "16 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Sukkot II (CH''M)",
+   "hebrew": "סוכות ב׳ (חוה״מ)",
+   "leyning": {
+    "1": "Numbers 29:17-29:19",
+    "2": "Numbers 29:20-29:22",
+    "3": "Numbers 29:23-29:25",
+    "4": "Numbers 29:17-29:22",
+    "torah": "Numbers 29:17-25, 29:17-22"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת ג׳ (חוה״מ)",
+   "date": "2026-09-28",
+   "hdate": "17 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Sukkot III (CH''M)",
+   "hebrew": "סוכות ג׳ (חוה״מ)",
+   "leyning": {
+    "1": "Numbers 29:20-29:22",
+    "2": "Numbers 29:23-29:25",
+    "3": "Numbers 29:26-29:28",
+    "4": "Numbers 29:20-29:25",
+    "torah": "Numbers 29:20-28, 29:20-25"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת ד׳ (חוה״מ)",
+   "date": "2026-09-29",
+   "hdate": "18 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Sukkot IV (CH''M)",
+   "hebrew": "סוכות ד׳ (חוה״מ)",
+   "leyning": {
+    "1": "Numbers 29:23-29:25",
+    "2": "Numbers 29:26-29:28",
+    "3": "Numbers 29:29-29:31",
+    "4": "Numbers 29:23-29:28",
+    "torah": "Numbers 29:23-31, 29:23-28"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת ה׳ (חוה״מ)",
+   "date": "2026-09-30",
+   "hdate": "19 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Sukkot V (CH''M)",
+   "hebrew": "סוכות ה׳ (חוה״מ)",
+   "leyning": {
+    "1": "Numbers 29:26-29:28",
+    "2": "Numbers 29:29-29:31",
+    "3": "Numbers 29:32-29:34",
+    "4": "Numbers 29:26-29:31",
+    "torah": "Numbers 29:26-34, 29:26-31"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת ו׳ (חוה״מ)",
+   "date": "2026-10-01",
+   "hdate": "20 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Sukkot VI (CH''M)",
+   "hebrew": "סוכות ו׳ (חוה״מ)",
+   "leyning": {
+    "1": "Numbers 29:29-29:31",
+    "2": "Numbers 29:32-29:34",
+    "3": "Numbers 29:35-29:37",
+    "4": "Numbers 29:29-29:34",
+    "torah": "Numbers 29:29-37, 29:29-34"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "סֻכּוֹת ז׳ (הוֹשַׁעְנָא רַבָּה)",
+   "date": "2026-10-02",
+   "hdate": "21 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Sukkot VII (Hoshana Raba)",
+   "hebrew": "סוכות ז׳ (הושענא רבה)",
+   "leyning": {
+    "1": "Numbers 29:26-29:28",
+    "2": "Numbers 29:29-29:31",
+    "3": "Numbers 29:32-29:34",
+    "4": "Numbers 29:29-29:34",
+    "torah": "Numbers 29:26-34"
+   },
+   "link": "https://hebcal.com/h/sukkot-2026?i=on&us=js&um=api",
+   "memo": "חג הסוכות. החג שנמשך שבעה ימים הוא אחד משלושת הרגלים"
+  },
+  {
+   "title": "שְׁמִינִי עֲצֶרֶת",
+   "date": "2026-10-03",
+   "hdate": "22 Tishrei 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Shmini Atzeret",
+   "hebrew": "שמיני עצרת",
+   "leyning": {
+    "1": "Deuteronomy 33:1-33:7",
+    "2": "Deuteronomy 33:8-33:12",
+    "3": "Deuteronomy 33:13-33:17",
+    "4": "Deuteronomy 33:18-33:21",
+    "5": "Deuteronomy 33:22-33:26",
+    "6": "Deuteronomy 33:27-33:29",
+    "7": "Deuteronomy 34:1-34:12",
+    "8": "Genesis 1:1-2:3",
+    "torah": "Deuteronomy 33:1-34:12; Genesis 1:1-2:3; Numbers 29:35-30:1; Ecclesiastes 1:1-12:14",
+    "haftarah": "Joshua 1:1-18",
+    "maftir": "Numbers 29:35-30:1"
+   },
+   "link": "https://hebcal.com/h/shmini-atzeret-2026?i=on&us=js&um=api",
+   "memo": "שמיני עצרת. חל מיד לאחר סוכות; בתפוצות נחגג כחג נפרד ובישראל משולב עם שמחת תורה"
+  },
+  {
+   "title": "פָּרָשַׁת בְּרֵאשִׁית",
+   "date": "2026-10-10",
+   "hdate": "29 Tishrei 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Bereshit",
+   "hebrew": "פרשת בראשית",
+   "leyning": {
+    "1": "Genesis 1:1-2:3",
+    "2": "Genesis 2:4-2:19",
+    "3": "Genesis 2:20-3:21",
+    "4": "Genesis 3:22-4:18",
+    "5": "Genesis 4:19-4:22",
+    "6": "Genesis 4:23-5:24",
+    "7": "Genesis 5:25-6:8",
+    "torah": "Genesis 1:1-6:8",
+    "haftarah": "I Samuel 20:18-42 | Shabbat Machar Chodesh",
+    "maftir": "Genesis 6:5-6:8",
+    "triennial": {
+     "1": "Genesis 2:4-2:9",
+     "2": "Genesis 2:10-2:19",
+     "3": "Genesis 2:20-2:25",
+     "4": "Genesis 3:1-3:21",
+     "5": "Genesis 3:22-3:24",
+     "6": "Genesis 4:1-4:18",
+     "7": "Genesis 4:19-4:26",
+     "maftir": "Genesis 4:23-4:26"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/1?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ חֶשְׁוָן",
+   "date": "2026-10-10",
+   "hdate": "29 Tishrei 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Cheshvan",
+   "hebrew": "מברכים חודש חֶשְׁוָן",
+   "memo": "מוֹלָד הָלְּבָנָה חֶשְׁוָן יִהְיֶה בַּיּוֹם רִאשׁוֹן בשָׁבוּעַ, בְּשָׁעָה 9 בַּבֹּקֶר, ו-43 דַּקּוֹת ו-2 חֲלָקִים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ חֶשְׁוָן",
+   "date": "2026-10-11",
+   "hdate": "30 Tishrei 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-cheshvan-2026?i=on&us=js&um=api",
+   "memo": "תחילת חודש חשוון בלוח העברי. חשוון הוא החודש ה-2 בשנה העברית האזרחית והחודש ה-8 בשנה העברית המקראית. יש בו 29 או 30 ימים והוא מקביל לאוקטובר או נובמבר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ חֶשְׁוָן",
+   "date": "2026-10-12",
+   "hdate": "1 Cheshvan 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-cheshvan-2026?i=on&us=js&um=api",
+   "memo": "תחילת חודש חשוון בלוח העברי. חשוון הוא החודש ה-2 בשנה העברית האזרחית והחודש ה-8 בשנה העברית המקראית. יש בו 29 או 30 ימים והוא מקביל לאוקטובר או נובמבר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת נֹחַ",
+   "date": "2026-10-17",
+   "hdate": "6 Cheshvan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Noach",
+   "hebrew": "פרשת נח",
+   "leyning": {
+    "1": "Genesis 6:9-6:22",
+    "2": "Genesis 7:1-7:16",
+    "3": "Genesis 7:17-8:14",
+    "4": "Genesis 8:15-9:7",
+    "5": "Genesis 9:8-9:17",
+    "6": "Genesis 9:18-10:32",
+    "7": "Genesis 11:1-11:32",
+    "torah": "Genesis 6:9-11:32",
+    "haftarah": "Isaiah 54:1-55:5",
+    "haftarah_sephardic": "Isaiah 54:1-10",
+    "maftir": "Genesis 11:29-11:32",
+    "triennial": {
+     "1": "Genesis 8:15-8:22",
+     "2": "Genesis 9:1-9:7",
+     "3": "Genesis 9:8-9:17",
+     "4": "Genesis 9:18-9:29",
+     "5": "Genesis 10:1-10:14",
+     "6": "Genesis 10:15-10:20",
+     "7": "Genesis 10:21-10:32",
+     "maftir": "Genesis 10:26-10:32"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/2?us=js&um=api"
+  },
+  {
+   "title": "שְׁמִירָת בֵּית הַסֵפֶר לְיוֹם הַעֲלִיָּה",
+   "date": "2026-10-18",
+   "hdate": "7 Cheshvan 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yom HaAliyah School Observance",
+   "hebrew": "שמירת בית הספר ליום העליה",
+   "link": "https://hebcal.com/h/yom-haaliyah-school-observance-2026?i=on&us=js&um=api",
+   "memo": "יום העלייה כפי שמצוין בבתי הספר בישראל"
+  },
+  {
+   "title": "יוֹם הַזִּכָּרוֹן לְיִצְחָק רַבִּין",
+   "date": "2026-10-22",
+   "hdate": "11 Cheshvan 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yitzhak Rabin Memorial Day",
+   "hebrew": "יום הזכרון ליצחק רבין",
+   "link": "https://hebcal.com/h/yitzhak-rabin-memorial-day-2026?i=on&us=js&um=api",
+   "memo": "יום הזיכרון ליצחק רבין. מציין את חייו של ראש ממשלת ישראל יצחק רבין"
+  },
+  {
+   "title": "פָּרָשַׁת לֶךְ־לְךָ",
+   "date": "2026-10-24",
+   "hdate": "13 Cheshvan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Lech-Lecha",
+   "hebrew": "פרשת לך־לך",
+   "leyning": {
+    "1": "Genesis 12:1-12:13",
+    "2": "Genesis 12:14-13:4",
+    "3": "Genesis 13:5-13:18",
+    "4": "Genesis 14:1-14:20",
+    "5": "Genesis 14:21-15:6",
+    "6": "Genesis 15:7-17:6",
+    "7": "Genesis 17:7-17:27",
+    "torah": "Genesis 12:1-17:27",
+    "haftarah": "Isaiah 40:27-41:16",
+    "maftir": "Genesis 17:24-17:27",
+    "triennial": {
+     "1": "Genesis 14:1-14:9",
+     "2": "Genesis 14:10-14:16",
+     "3": "Genesis 14:17-14:20",
+     "4": "Genesis 14:21-14:24",
+     "5": "Genesis 15:1-15:6",
+     "6": "Genesis 15:7-15:16",
+     "7": "Genesis 15:17-15:21",
+     "maftir": "Genesis 15:17-15:21"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/3?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת וַיֵּרָא",
+   "date": "2026-10-31",
+   "hdate": "20 Cheshvan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayera",
+   "hebrew": "פרשת וירא",
+   "leyning": {
+    "1": "Genesis 18:1-18:14",
+    "2": "Genesis 18:15-18:33",
+    "3": "Genesis 19:1-19:20",
+    "4": "Genesis 19:21-21:4",
+    "5": "Genesis 21:5-21:21",
+    "6": "Genesis 21:22-21:34",
+    "7": "Genesis 22:1-22:24",
+    "torah": "Genesis 18:1-22:24",
+    "haftarah": "II Kings 4:1-37",
+    "haftarah_sephardic": "II Kings 4:1-23",
+    "haftarah_chabad": "II Kings 4:1-37",
+    "maftir": "Genesis 22:20-22:24",
+    "triennial": {
+     "1": "Genesis 19:1-19:11",
+     "2": "Genesis 19:12-19:20",
+     "3": "Genesis 19:21-19:29",
+     "4": "Genesis 19:30-19:38",
+     "5": "Genesis 20:1-20:8",
+     "6": "Genesis 20:9-20:14",
+     "7": "Genesis 20:15-20:18",
+     "maftir": "Genesis 20:15-20:18"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/4?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת חַיֵּי שָֹרָה",
+   "date": "2026-11-07",
+   "hdate": "27 Cheshvan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Chayei Sara",
+   "hebrew": "פרשת חיי שרה",
+   "leyning": {
+    "1": "Genesis 23:1-23:16",
+    "2": "Genesis 23:17-24:9",
+    "3": "Genesis 24:10-24:26",
+    "4": "Genesis 24:27-24:52",
+    "5": "Genesis 24:53-24:67",
+    "6": "Genesis 25:1-25:11",
+    "7": "Genesis 25:12-25:18",
+    "torah": "Genesis 23:1-25:18",
+    "haftarah": "I Kings 1:1-31",
+    "maftir": "Genesis 25:16-25:18",
+    "triennial": {
+     "1": "Genesis 24:10-24:14",
+     "2": "Genesis 24:15-24:20",
+     "3": "Genesis 24:21-24:26",
+     "4": "Genesis 24:27-24:33",
+     "5": "Genesis 24:34-24:41",
+     "6": "Genesis 24:42-24:49",
+     "7": "Genesis 24:50-24:52",
+     "maftir": "Genesis 24:50-24:52"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/5?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ כִּסְלֵו",
+   "date": "2026-11-07",
+   "hdate": "27 Cheshvan 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+   "hebrew": "מברכים חודש כִּסְלֵו",
+   "memo": "מוֹלָד הָלְּבָנָה כִּסְלֵו יִהְיֶה בַּיּוֹם שֵׁנִי בשָׁבוּעַ, בְּשָׁעָה 22 בַּלַּ֥יְלָה, ו-27 דַּקּוֹת ו-3 חֲלָקִים"
+  },
+  {
+   "title": "חַג הַסִּיגְד",
+   "date": "2026-11-09",
+   "hdate": "29 Cheshvan 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Sigd",
+   "hebrew": "חג הסיגד",
+   "link": "https://hebcal.com/h/sigd-2026?i=on&us=js&um=api",
+   "memo": "הסיגד, חג של יהדות אתיופיה החל 50 יום לאחר יום הכיפורים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ כִּסְלֵו",
+   "date": "2026-11-10",
+   "hdate": "30 Cheshvan 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+   "memo": "תחילת חודש כסלו בלוח העברי. כסלו הוא החודש ה-3 בשנה העברית האזרחית והחודש ה-9 בשנה העברית המקראית. יש בו 30 או 29 ימים והוא מקביל לנובמבר או דצמבר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ כִּסְלֵו",
+   "date": "2026-11-11",
+   "hdate": "1 Kislev 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+   "memo": "תחילת חודש כסלו בלוח העברי. כסלו הוא החודש ה-3 בשנה העברית האזרחית והחודש ה-9 בשנה העברית המקראית. יש בו 30 או 29 ימים והוא מקביל לנובמבר או דצמבר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת תּוֹלְדוֹת",
+   "date": "2026-11-14",
+   "hdate": "4 Kislev 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Toldot",
+   "hebrew": "פרשת תולדות",
+   "leyning": {
+    "1": "Genesis 25:19-26:5",
+    "2": "Genesis 26:6-26:12",
+    "3": "Genesis 26:13-26:22",
+    "4": "Genesis 26:23-26:29",
+    "5": "Genesis 26:30-27:27",
+    "6": "Genesis 27:28-28:4",
+    "7": "Genesis 28:5-28:9",
+    "torah": "Genesis 25:19-28:9",
+    "haftarah": "Malachi 1:1-2:7",
+    "maftir": "Genesis 28:7-28:9",
+    "triennial": {
+     "1": "Genesis 26:23-26:29",
+     "2": "Genesis 26:30-26:33",
+     "3": "Genesis 26:34-27:4",
+     "4": "Genesis 27:5-27:13",
+     "5": "Genesis 27:14-27:17",
+     "6": "Genesis 27:18-27:23",
+     "7": "Genesis 27:24-27:27",
+     "maftir": "Genesis 27:24-27:27"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/6?us=js&um=api"
+  },
+  {
+   "title": "יוֹם בֶּן־גּוּרִיּוֹן",
+   "date": "2026-11-16",
+   "hdate": "6 Kislev 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Ben-Gurion Day",
+   "hebrew": "יום בן־גוריון",
+   "link": "https://hebcal.com/h/ben-gurion-day-2026?i=on&us=js&um=api",
+   "memo": "יום המציין את חייו וחזונו של ראש הממשלה הראשון של ישראל, דוד בן-גוריון"
+  },
+  {
+   "title": "פָּרָשַׁת וַיֵּצֵא",
+   "date": "2026-11-21",
+   "hdate": "11 Kislev 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayetzei",
+   "hebrew": "פרשת ויצא",
+   "leyning": {
+    "1": "Genesis 28:10-28:22",
+    "2": "Genesis 29:1-29:17",
+    "3": "Genesis 29:18-30:13",
+    "4": "Genesis 30:14-30:27",
+    "5": "Genesis 30:28-31:16",
+    "6": "Genesis 31:17-31:42",
+    "7": "Genesis 31:43-32:3",
+    "torah": "Genesis 28:10-32:3",
+    "haftarah": "Hosea 12:13-14:10",
+    "haftarah_sephardic": "Hosea 11:7-12:12",
+    "maftir": "Genesis 32:1-32:3",
+    "triennial": {
+     "1": "Genesis 30:14-30:16",
+     "2": "Genesis 30:17-30:21",
+     "3": "Genesis 30:22-30:27",
+     "4": "Genesis 30:28-30:36",
+     "5": "Genesis 30:37-30:43",
+     "6": "Genesis 31:1-31:9",
+     "7": "Genesis 31:10-31:16",
+     "maftir": "Genesis 31:14-31:16"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/7?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת וַיִּשְׁלַח",
+   "date": "2026-11-28",
+   "hdate": "18 Kislev 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayishlach",
+   "hebrew": "פרשת וישלח",
+   "leyning": {
+    "1": "Genesis 32:4-32:13",
+    "2": "Genesis 32:14-32:30",
+    "3": "Genesis 32:31-33:5",
+    "4": "Genesis 33:6-33:20",
+    "5": "Genesis 34:1-35:11",
+    "6": "Genesis 35:12-36:19",
+    "7": "Genesis 36:20-36:43",
+    "torah": "Genesis 32:4-36:43",
+    "haftarah": "Obadiah 1:1-21",
+    "maftir": "Genesis 36:40-36:43",
+    "triennial": {
+     "1": "Genesis 34:1-34:4",
+     "2": "Genesis 34:5-34:12",
+     "3": "Genesis 34:13-34:17",
+     "4": "Genesis 34:18-34:23",
+     "5": "Genesis 34:24-34:31",
+     "6": "Genesis 35:1-35:11",
+     "7": "Genesis 35:12-35:15",
+     "maftir": "Genesis 35:12-35:15"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/8?us=js&um=api"
+  },
+  {
+   "title": "חֲנוּכָּה: א׳ נֵר",
+   "date": "2026-12-04",
+   "hdate": "24 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 1 Candle",
+   "hebrew": "חנוכה: א׳ נר",
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "חֲנוּכָּה: ב׳ נֵרוֹת",
+   "date": "2026-12-05",
+   "hdate": "25 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 2 Candles",
+   "hebrew": "חנוכה: ב׳ נרות",
+   "leyning": {
+    "haftarah": "Zechariah 2:14-4:7",
+    "maftir": "Numbers 7:1-7:17"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "פָּרָשַׁת וַיֵּשֶׁב",
+   "date": "2026-12-05",
+   "hdate": "25 Kislev 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayeshev",
+   "hebrew": "פרשת וישב",
+   "leyning": {
+    "1": "Genesis 37:1-37:11",
+    "2": "Genesis 37:12-37:22",
+    "3": "Genesis 37:23-37:36",
+    "4": "Genesis 38:1-38:30",
+    "5": "Genesis 39:1-39:6",
+    "6": "Genesis 39:7-39:23",
+    "7": "Genesis 40:1-40:23",
+    "torah": "Genesis 37:1-40:23; Numbers 7:1-17",
+    "haftarah": "Zechariah 2:14-4:7 | Chanukah Day 1 (on Shabbat)",
+    "maftir": "Numbers 7:1-7:17 | Chanukah Day 1 (on Shabbat)",
+    "triennial": {
+     "1": "Genesis 38:1-38:5",
+     "2": "Genesis 38:6-38:11",
+     "3": "Genesis 38:12-38:14",
+     "4": "Genesis 38:15-38:19",
+     "5": "Genesis 38:20-38:23",
+     "6": "Genesis 38:24-38:26",
+     "7": "Genesis 38:27-38:30",
+     "maftir": "Numbers 7:1-7:17"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/9?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ טֵבֵת",
+   "date": "2026-12-05",
+   "hdate": "25 Kislev 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Tevet",
+   "hebrew": "מברכים חודש טֵבֵת",
+   "memo": "מוֹלָד הָלְּבָנָה טֵבֵת יִהְיֶה בַּיּוֹם רְבִיעִי בשָׁבוּעַ, בְּשָׁעָה 11 בַּבֹּקֶר, ו-11 דַּקּוֹת ו-4 חֲלָקִים"
+  },
+  {
+   "title": "חֲנוּכָּה: ג׳ נֵרוֹת",
+   "date": "2026-12-06",
+   "hdate": "26 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 3 Candles",
+   "hebrew": "חנוכה: ג׳ נרות",
+   "leyning": {
+    "1": "Numbers 7:18-7:20",
+    "2": "Numbers 7:21-7:23",
+    "3": "Numbers 7:24-7:29",
+    "torah": "Numbers 7:18-29"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "חֲנוּכָּה: ד׳ נֵרוֹת",
+   "date": "2026-12-07",
+   "hdate": "27 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 4 Candles",
+   "hebrew": "חנוכה: ד׳ נרות",
+   "leyning": {
+    "1": "Numbers 7:24-7:26",
+    "2": "Numbers 7:27-7:29",
+    "3": "Numbers 7:30-7:35",
+    "torah": "Numbers 7:24-35"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "חֲנוּכָּה: ה׳ נֵרוֹת",
+   "date": "2026-12-08",
+   "hdate": "28 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 5 Candles",
+   "hebrew": "חנוכה: ה׳ נרות",
+   "leyning": {
+    "1": "Numbers 7:30-7:32",
+    "2": "Numbers 7:33-7:35",
+    "3": "Numbers 7:36-7:41",
+    "torah": "Numbers 7:30-41"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "חֲנוּכָּה: ו׳ נֵרוֹת",
+   "date": "2026-12-09",
+   "hdate": "29 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 6 Candles",
+   "hebrew": "חנוכה: ו׳ נרות",
+   "leyning": {
+    "1": "Numbers 7:36-7:38",
+    "2": "Numbers 7:39-7:41",
+    "3": "Numbers 7:42-7:47",
+    "torah": "Numbers 7:36-47"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "חַג הַבָּנוֹת",
+   "date": "2026-12-10",
+   "hdate": "30 Kislev 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Chag HaBanot",
+   "hebrew": "חג הבנות",
+   "link": "https://hebcal.com/h/chag-habanot-2026?i=on&us=js&um=api",
+   "memo": "חג הבנות של חנוכה (עיד אל-בנאת), שמקורו ביהדות צפון אפריקה ונשתמר בעיקר בתוניסיה"
+  },
+  {
+   "title": "חֲנוּכָּה: ז׳ נֵרוֹת",
+   "date": "2026-12-10",
+   "hdate": "30 Kislev 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 7 Candles",
+   "hebrew": "חנוכה: ז׳ נרות",
+   "leyning": {
+    "1": "Numbers 28:1-28:5",
+    "2": "Numbers 28:6-28:10",
+    "3": "Numbers 28:11-28:15",
+    "4": "Numbers 7:42-7:47",
+    "torah": "Numbers 28:1-15, 7:42-47"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ טֵבֵת",
+   "date": "2026-12-10",
+   "hdate": "30 Kislev 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת",
+   "leyning": {
+    "1": "Numbers 28:1-28:5",
+    "2": "Numbers 28:6-28:10",
+    "3": "Numbers 28:11-28:15",
+    "4": "Numbers 7:42-7:47",
+    "torah": "Numbers 28:1-15, 7:42-47"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-tevet-2026?i=on&us=js&um=api",
+   "memo": "תחילת חודש טבת בלוח העברי. טבת הוא החודש ה-4 בשנה העברית האזרחית והחודש ה-10 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל לדצמבר או ינואר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "חֲנוּכָּה: ח׳ נֵרוֹת",
+   "date": "2026-12-11",
+   "hdate": "1 Tevet 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 8 Candles",
+   "hebrew": "חנוכה: ח׳ נרות",
+   "leyning": {
+    "1": "Numbers 28:1-28:5",
+    "2": "Numbers 28:6-28:10",
+    "3": "Numbers 28:11-28:15",
+    "4": "Numbers 7:48-7:53",
+    "torah": "Numbers 28:1-15, 7:48-53"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ טֵבֵת",
+   "date": "2026-12-11",
+   "hdate": "1 Tevet 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת",
+   "leyning": {
+    "1": "Numbers 28:1-28:5",
+    "2": "Numbers 28:6-28:10",
+    "3": "Numbers 28:11-28:15",
+    "4": "Numbers 7:48-7:53",
+    "torah": "Numbers 28:1-15, 7:48-53"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-tevet-2026?i=on&us=js&um=api",
+   "memo": "תחילת חודש טבת בלוח העברי. טבת הוא החודש ה-4 בשנה העברית האזרחית והחודש ה-10 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל לדצמבר או ינואר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "חֲנוּכָּה: יוֹם ח׳",
+   "date": "2026-12-12",
+   "hdate": "2 Tevet 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Chanukah: 8th Day",
+   "hebrew": "חנוכה: יום ח׳",
+   "leyning": {
+    "haftarah": "I Kings 7:40-50",
+    "maftir": "Numbers 7:54-8:4"
+   },
+   "link": "https://hebcal.com/h/chanukah-2026?i=on&us=js&um=api",
+   "memo": "חנוכה, חג החנוכה מחדש היהודי. ידוע גם כחג האורים; החג נחגג במשך שמונה ימים על ידי הדלקת נרות בחנוכייה"
+  },
+  {
+   "title": "פָּרָשַׁת מִקֵּץ",
+   "date": "2026-12-12",
+   "hdate": "2 Tevet 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Miketz",
+   "hebrew": "פרשת מקץ",
+   "leyning": {
+    "1": "Genesis 41:1-41:14",
+    "2": "Genesis 41:15-41:38",
+    "3": "Genesis 41:39-41:52",
+    "4": "Genesis 41:53-42:18",
+    "5": "Genesis 42:19-43:15",
+    "6": "Genesis 43:16-43:29",
+    "7": "Genesis 43:30-44:17",
+    "torah": "Genesis 41:1-44:17; Numbers 7:54-8:4",
+    "haftarah": "I Kings 7:40-50 | Chanukah Day 8 (on Shabbat)",
+    "maftir": "Numbers 7:54-8:4 | Chanukah Day 8 (on Shabbat)",
+    "triennial": {
+     "1": "Genesis 41:53-41:57",
+     "2": "Genesis 42:1-42:5",
+     "3": "Genesis 42:6-42:18",
+     "4": "Genesis 42:19-42:28",
+     "5": "Genesis 42:29-42:38",
+     "6": "Genesis 43:1-43:7",
+     "7": "Genesis 43:8-43:15",
+     "maftir": "Numbers 7:54-8:4"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/10?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת וַיִּגַּשׁ",
+   "date": "2026-12-19",
+   "hdate": "9 Tevet 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayigash",
+   "hebrew": "פרשת ויגש",
+   "leyning": {
+    "1": "Genesis 44:18-44:30",
+    "2": "Genesis 44:31-45:7",
+    "3": "Genesis 45:8-45:18",
+    "4": "Genesis 45:19-45:27",
+    "5": "Genesis 45:28-46:27",
+    "6": "Genesis 46:28-47:10",
+    "7": "Genesis 47:11-47:27",
+    "torah": "Genesis 44:18-47:27",
+    "haftarah": "Ezekiel 37:15-28",
+    "maftir": "Genesis 47:25-47:27",
+    "triennial": {
+     "1": "Genesis 45:28-46:4",
+     "2": "Genesis 46:5-46:7",
+     "3": "Genesis 46:8-46:11",
+     "4": "Genesis 46:12-46:15",
+     "5": "Genesis 46:16-46:18",
+     "6": "Genesis 46:19-46:22",
+     "7": "Genesis 46:23-46:27",
+     "maftir": "Genesis 46:23-46:27"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/11?us=js&um=api"
+  },
+  {
+   "title": "עֲשָׂרָה בְּטֵבֵת",
+   "date": "2026-12-20",
+   "hdate": "10 Tevet 5787",
+   "category": "holiday",
+   "subcat": "fast",
+   "title_orig": "Asara B'Tevet",
+   "hebrew": "עשרה בטבת",
+   "leyning": {
+    "1": "Exodus 32:11-32:14",
+    "2": "Exodus 34:1-34:3",
+    "3": "Exodus 34:4-34:10",
+    "torah": "Exodus 32:11-14, 34:1-10"
+   },
+   "link": "https://hebcal.com/h/asara-btevet-20261220?i=on&us=js&um=api",
+   "memo": "צום המציין את המצור על ירושלים"
+  },
+  {
+   "title": "פָּרָשַׁת וַיְחִי",
+   "date": "2026-12-26",
+   "hdate": "16 Tevet 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayechi",
+   "hebrew": "פרשת ויחי",
+   "leyning": {
+    "1": "Genesis 47:28-48:9",
+    "2": "Genesis 48:10-48:16",
+    "3": "Genesis 48:17-48:22",
+    "4": "Genesis 49:1-49:18",
+    "5": "Genesis 49:19-49:26",
+    "6": "Genesis 49:27-50:20",
+    "7": "Genesis 50:21-50:26",
+    "torah": "Genesis 47:28-50:26",
+    "haftarah": "I Kings 2:1-12",
+    "maftir": "Genesis 50:23-50:26",
+    "triennial": {
+     "1": "Genesis 49:1-49:4",
+     "2": "Genesis 49:5-49:7",
+     "3": "Genesis 49:8-49:12",
+     "4": "Genesis 49:13-49:15",
+     "5": "Genesis 49:16-49:18",
+     "6": "Genesis 49:19-49:21",
+     "7": "Genesis 49:22-49:26",
+     "maftir": "Genesis 49:22-49:26"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/12?us=js&um=api"
+  },
+  {
+   "title": "יוֹם הַשָׂפָה הַעִברִית",
+   "date": "2026-12-31",
+   "hdate": "21 Tevet 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Hebrew Language Day",
+   "hebrew": "יום השפה העברית",
+   "link": "https://hebcal.com/h/hebrew-language-day-2026?i=on&us=js&um=api",
+   "memo": "יום לקידום השפה העברית בישראל וברחבי העולם. חל ביום הולדתו של אליעזר בן יהודה, מחייה השפה העברית"
+  },
+  {
+   "title": "פָּרָשַׁת שְׁמוֹת",
+   "date": "2027-01-02",
+   "hdate": "23 Tevet 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Shemot",
+   "hebrew": "פרשת שמות",
+   "leyning": {
+    "1": "Exodus 1:1-1:17",
+    "2": "Exodus 1:18-2:10",
+    "3": "Exodus 2:11-2:25",
+    "4": "Exodus 3:1-3:15",
+    "5": "Exodus 3:16-4:17",
+    "6": "Exodus 4:18-4:31",
+    "7": "Exodus 5:1-6:1",
+    "torah": "Exodus 1:1-6:1",
+    "haftarah": "Isaiah 27:6-28:13, 29:22-23",
+    "haftarah_sephardic": "Jeremiah 1:1-2:3",
+    "maftir": "Exodus 5:22-6:1",
+    "triennial": {
+     "1": "Exodus 3:1-3:6",
+     "2": "Exodus 3:7-3:10",
+     "3": "Exodus 3:11-3:15",
+     "4": "Exodus 3:16-3:22",
+     "5": "Exodus 4:1-4:5",
+     "6": "Exodus 4:6-4:9",
+     "7": "Exodus 4:10-4:17",
+     "maftir": "Exodus 4:14-4:17"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/13?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ שְׁבָט",
+   "date": "2027-01-02",
+   "hdate": "23 Tevet 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Sh'vat",
+   "hebrew": "מברכים חודש שְׁבָט",
+   "memo": "מוֹלָד הָלְּבָנָה שְׁבָט יִהְיֶה בַּיּוֹם חֲמִישִׁי בשָׁבוּעַ, בְּשָׁעָה 23 בַּלַּ֥יְלָה, ו-55 דַּקּוֹת ו-5 חֲלָקִים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ שְׁבָט",
+   "date": "2027-01-09",
+   "hdate": "1 Sh'vat 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Sh'vat",
+   "hebrew": "ראש חודש שבט",
+   "leyning": {
+    "haftarah": "Isaiah 66:1-24",
+    "maftir": "Numbers 28:9-28:15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-shvat-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש שבט בלוח העברי. שבט הוא החודש ה-5 בשנה העברית האזרחית והחודש ה-11 בשנה העברית המקראית. יש בו 30 ימים והוא מקביל לינואר או פברואר בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת וָאֵרָא",
+   "date": "2027-01-09",
+   "hdate": "1 Sh'vat 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vaera",
+   "hebrew": "פרשת וארא",
+   "leyning": {
+    "1": "Exodus 6:2-6:13",
+    "2": "Exodus 6:14-6:28",
+    "3": "Exodus 6:29-7:7",
+    "4": "Exodus 7:8-8:6",
+    "5": "Exodus 8:7-8:18",
+    "6": "Exodus 8:19-9:16",
+    "7": "Exodus 9:17-9:35",
+    "torah": "Exodus 6:2-9:35; Numbers 28:9-15",
+    "haftarah": "Isaiah 66:1-24 | Shabbat Rosh Chodesh",
+    "maftir": "Numbers 28:9-28:15 | Shabbat Rosh Chodesh",
+    "triennial": {
+     "1": "Exodus 7:8-7:13",
+     "2": "Exodus 7:14-7:18",
+     "3": "Exodus 7:19-7:25",
+     "4": "Exodus 7:26-7:29",
+     "5": "Exodus 8:1-8:6",
+     "6": "Exodus 8:7-8:11",
+     "7": "Exodus 8:12-8:15",
+     "maftir": "Numbers 28:9-28:15"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/14?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת בֹּא",
+   "date": "2027-01-16",
+   "hdate": "8 Sh'vat 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Bo",
+   "hebrew": "פרשת בא",
+   "leyning": {
+    "1": "Exodus 10:1-10:11",
+    "2": "Exodus 10:12-10:23",
+    "3": "Exodus 10:24-11:3",
+    "4": "Exodus 11:4-12:20",
+    "5": "Exodus 12:21-12:28",
+    "6": "Exodus 12:29-12:51",
+    "7": "Exodus 13:1-13:16",
+    "torah": "Exodus 10:1-13:16",
+    "haftarah": "Jeremiah 46:13-28",
+    "maftir": "Exodus 13:14-13:16",
+    "triennial": {
+     "1": "Exodus 11:4-11:10",
+     "2": "Exodus 12:1-12:10",
+     "3": "Exodus 12:11-12:13",
+     "4": "Exodus 12:14-12:16",
+     "5": "Exodus 12:17-12:20",
+     "6": "Exodus 12:21-12:24",
+     "7": "Exodus 12:25-12:28",
+     "maftir": "Exodus 12:25-12:28"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/15?us=js&um=api"
+  },
+  {
+   "title": "ט״וּ בִּשְׁבָט",
+   "date": "2027-01-23",
+   "hdate": "15 Sh'vat 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Tu BiShvat",
+   "hebrew": "ט״ו בשבט",
+   "link": "https://hebcal.com/h/tu-bishvat-2027?i=on&us=js&um=api",
+   "memo": "ראש השנה לאילנות. ט״ו בשבט הוא אחד מארבעת “ראשי השנה” המוזכרים במשנה"
+  },
+  {
+   "title": "שַׁבַּת שִׁירָה",
+   "date": "2027-01-23",
+   "hdate": "15 Sh'vat 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Shirah",
+   "hebrew": "שבת שירה",
+   "link": "https://hebcal.com/h/shabbat-shirah-2027?i=on&us=js&um=api",
+   "memo": "שבת שירה. השבת הכוללת את פרשת בשלח (ושירת הים)"
+  },
+  {
+   "title": "פָּרָשַׁת בְּשַׁלַּח",
+   "date": "2027-01-23",
+   "hdate": "15 Sh'vat 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Beshalach",
+   "hebrew": "פרשת בשלח",
+   "leyning": {
+    "1": "Exodus 13:17-14:8",
+    "2": "Exodus 14:9-14:14",
+    "3": "Exodus 14:15-14:25",
+    "4": "Exodus 14:26-15:26",
+    "5": "Exodus 15:27-16:10",
+    "6": "Exodus 16:11-16:36",
+    "7": "Exodus 17:1-17:16",
+    "torah": "Exodus 13:17-17:16",
+    "haftarah": "Judges 4:4-5:31",
+    "haftarah_sephardic": "Judges 5:1-31",
+    "haftarah_chabad": "Judges 4:4-5:31",
+    "maftir": "Exodus 17:14-17:16",
+    "triennial": {
+     "1": "Exodus 14:15-14:20",
+     "2": "Exodus 14:21-14:25",
+     "3": "Exodus 14:26-15:21",
+     "4": "Exodus 15:22-15:26",
+     "5": "Exodus 15:27-16:3",
+     "6": "Exodus 16:4-16:7",
+     "7": "Exodus 16:8-16:10",
+     "maftir": "Exodus 16:8-16:10"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/16?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת יִתְרוֹ",
+   "date": "2027-01-30",
+   "hdate": "22 Sh'vat 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Yitro",
+   "hebrew": "פרשת יתרו",
+   "leyning": {
+    "1": "Exodus 18:1-18:12",
+    "2": "Exodus 18:13-18:23",
+    "3": "Exodus 18:24-18:27",
+    "4": "Exodus 19:1-19:6",
+    "5": "Exodus 19:7-19:19",
+    "6": "Exodus 19:20-20:14",
+    "7": "Exodus 20:15-20:23",
+    "torah": "Exodus 18:1-20:23",
+    "haftarah": "Isaiah 6:1-7:6, 9:5-6",
+    "haftarah_sephardic": "Isaiah 6:1-13",
+    "maftir": "Exodus 20:19-20:23",
+    "triennial": {
+     "1": "Exodus 19:1-19:6",
+     "2": "Exodus 19:7-19:9",
+     "3": "Exodus 19:10-19:13",
+     "4": "Exodus 19:14-19:19",
+     "5": "Exodus 19:20-20:14",
+     "6": "Exodus 20:15-20:18",
+     "7": "Exodus 20:19-20:23",
+     "maftir": "Exodus 20:21-20:23"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/17?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת מִשְׁפָּטִים",
+   "date": "2027-02-06",
+   "hdate": "29 Sh'vat 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Mishpatim",
+   "hebrew": "פרשת משפטים",
+   "leyning": {
+    "1": "Exodus 21:1-21:19",
+    "2": "Exodus 21:20-22:3",
+    "3": "Exodus 22:4-22:26",
+    "4": "Exodus 22:27-23:5",
+    "5": "Exodus 23:6-23:19",
+    "6": "Exodus 23:20-23:25",
+    "7": "Exodus 23:26-24:18",
+    "torah": "Exodus 21:1-24:18",
+    "haftarah": "I Samuel 20:18-42 | Shabbat Machar Chodesh",
+    "maftir": "Exodus 24:15-24:18",
+    "triennial": {
+     "1": "Exodus 22:4-22:8",
+     "2": "Exodus 22:9-22:12",
+     "3": "Exodus 22:13-22:18",
+     "4": "Exodus 22:19-22:26",
+     "5": "Exodus 22:27-23:5",
+     "6": "Exodus 23:6-23:13",
+     "7": "Exodus 23:14-23:19",
+     "maftir": "Exodus 23:14-23:19"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/18?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ אֲדָר א׳",
+   "date": "2027-02-06",
+   "hdate": "29 Sh'vat 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Adar I",
+   "hebrew": "מברכים חודש אֲדָר א׳",
+   "memo": "מוֹלָד הָלְּבָנָה אֲדָר א׳ יִהְיֶה בַּיּוֹם שַׁבָּת בשָׁבוּעַ, בְּשָׁעָה 12 בַּצׇּהֳרַיִים, ו-39 דַּקּוֹת ו-6 חֲלָקִים"
+  },
+  {
+   "title": "יוֹם הַמִּשׁפָּחָה",
+   "date": "2027-02-07",
+   "hdate": "30 Sh'vat 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Family Day",
+   "hebrew": "יום המשפחה",
+   "link": "https://hebcal.com/h/family-day-2027?i=on&us=js&um=api",
+   "memo": "יום המשפחה, יום להוקרת התא המשפחתי"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אֲדָר א׳",
+   "date": "2027-02-07",
+   "hdate": "30 Sh'vat 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Adar I",
+   "hebrew": "ראש חודש אדר א׳",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-adar-i-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אדר א' (בשנים מעוברות) בלוח העברי. אדר א' הוא החודש ה-6 בשנה העברית האזרחית והחודש ה-12 בשנה העברית המקראית. יש בו 30 ימים, הוא חל רק בשנים מעוברות ומקביל לפברואר או מרץ בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אֲדָר א׳",
+   "date": "2027-02-08",
+   "hdate": "1 Adar I 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Adar I",
+   "hebrew": "ראש חודש אדר א׳",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-adar-i-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אדר א' (בשנים מעוברות) בלוח העברי. אדר א' הוא החודש ה-6 בשנה העברית האזרחית והחודש ה-12 בשנה העברית המקראית. יש בו 30 ימים, הוא חל רק בשנים מעוברות ומקביל לפברואר או מרץ בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת תְּרוּמָה",
+   "date": "2027-02-13",
+   "hdate": "6 Adar I 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Terumah",
+   "hebrew": "פרשת תרומה",
+   "leyning": {
+    "1": "Exodus 25:1-25:16",
+    "2": "Exodus 25:17-25:40",
+    "3": "Exodus 26:1-26:14",
+    "4": "Exodus 26:15-26:30",
+    "5": "Exodus 26:31-26:37",
+    "6": "Exodus 27:1-27:8",
+    "7": "Exodus 27:9-27:19",
+    "torah": "Exodus 25:1-27:19",
+    "haftarah": "I Kings 5:26-6:13",
+    "maftir": "Exodus 27:17-27:19",
+    "triennial": {
+     "1": "Exodus 26:1-26:3",
+     "2": "Exodus 26:4-26:6",
+     "3": "Exodus 26:7-26:11",
+     "4": "Exodus 26:12-26:14",
+     "5": "Exodus 26:15-26:21",
+     "6": "Exodus 26:22-26:25",
+     "7": "Exodus 26:26-26:30",
+     "maftir": "Exodus 26:26-26:30"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/19?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת תְּצַוֶּה",
+   "date": "2027-02-20",
+   "hdate": "13 Adar I 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Tetzaveh",
+   "hebrew": "פרשת תצוה",
+   "leyning": {
+    "1": "Exodus 27:20-28:12",
+    "2": "Exodus 28:13-28:30",
+    "3": "Exodus 28:31-28:43",
+    "4": "Exodus 29:1-29:18",
+    "5": "Exodus 29:19-29:37",
+    "6": "Exodus 29:38-29:46",
+    "7": "Exodus 30:1-30:10",
+    "torah": "Exodus 27:20-30:10",
+    "haftarah": "Ezekiel 43:10-27",
+    "maftir": "Exodus 30:8-30:10",
+    "triennial": {
+     "1": "Exodus 28:31-28:35",
+     "2": "Exodus 28:36-28:38",
+     "3": "Exodus 28:39-28:43",
+     "4": "Exodus 29:1-29:4",
+     "5": "Exodus 29:5-29:9",
+     "6": "Exodus 29:10-29:14",
+     "7": "Exodus 29:15-29:18",
+     "maftir": "Exodus 29:15-29:18"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/20?us=js&um=api"
+  },
+  {
+   "title": "פּוּרִים קָטָן",
+   "date": "2027-02-21",
+   "hdate": "14 Adar I 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Purim Katan",
+   "hebrew": "פורים קטן",
+   "link": "https://hebcal.com/h/purim-katan-2027?i=on&us=js&um=api",
+   "memo": "חגיגת פורים קטן המצוינת במהלך חודש אדר א' בשנים מעוברות"
+  },
+  {
+   "title": "שׁוּשָׁן פּוּרִים קָטָן",
+   "date": "2027-02-22",
+   "hdate": "15 Adar I 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Shushan Purim Katan",
+   "hebrew": "שושן פורים קטן",
+   "link": "https://hebcal.com/h/shushan-purim-katan-2027?i=on&us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת כִּי תִשָּׂא",
+   "date": "2027-02-27",
+   "hdate": "20 Adar I 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Ki Tisa",
+   "hebrew": "פרשת כי תשא",
+   "leyning": {
+    "1": "Exodus 30:11-31:17",
+    "2": "Exodus 31:18-33:11",
+    "3": "Exodus 33:12-33:16",
+    "4": "Exodus 33:17-33:23",
+    "5": "Exodus 34:1-34:9",
+    "6": "Exodus 34:10-34:26",
+    "7": "Exodus 34:27-34:35",
+    "torah": "Exodus 30:11-34:35",
+    "haftarah": "I Kings 18:1-39",
+    "haftarah_sephardic": "I Kings 18:20-39",
+    "maftir": "Exodus 34:33-34:35",
+    "triennial": {
+     "1": "Exodus 31:18-32:6",
+     "2": "Exodus 32:7-32:11",
+     "3": "Exodus 32:12-32:14",
+     "4": "Exodus 32:15-32:24",
+     "5": "Exodus 32:25-32:29",
+     "6": "Exodus 32:30-33:6",
+     "7": "Exodus 33:7-33:11",
+     "maftir": "Exodus 33:9-33:11"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/21?us=js&um=api"
+  },
+  {
+   "title": "שַׁבַּת שְׁקָלִים",
+   "date": "2027-03-06",
+   "hdate": "27 Adar I 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Shekalim",
+   "hebrew": "שבת שקלים",
+   "leyning": {
+    "haftarah": "II Kings 12:1-17",
+    "haftarah_sephardic": "II Kings 11:17-12:17",
+    "maftir": "Exodus 30:11-30:16"
+   },
+   "link": "https://hebcal.com/h/shabbat-shekalim-2027?i=on&us=js&um=api",
+   "memo": "שבת שקלים. השבת שלפני ראש חודש אדר. נקראת כהכנה לפורים"
+  },
+  {
+   "title": "פָּרָשַׁת וַיַּקְהֵל",
+   "date": "2027-03-06",
+   "hdate": "27 Adar I 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayakhel",
+   "hebrew": "פרשת ויקהל",
+   "leyning": {
+    "1": "Exodus 35:1-35:20",
+    "2": "Exodus 35:21-35:29",
+    "3": "Exodus 35:30-36:7",
+    "4": "Exodus 36:8-36:19",
+    "5": "Exodus 36:20-37:16",
+    "6": "Exodus 37:17-37:29",
+    "7": "Exodus 38:1-38:20",
+    "torah": "Exodus 35:1-38:20, 30:11-16",
+    "haftarah": "II Kings 12:1-17 | Shabbat Shekalim",
+    "haftarah_sephardic": "II Kings 11:17-12:17 | Shabbat Shekalim",
+    "maftir": "Exodus 30:11-30:16 | Shabbat Shekalim",
+    "triennial": {
+     "1": "Exodus 37:17-37:19",
+     "2": "Exodus 37:20-37:24",
+     "3": "Exodus 37:25-37:29",
+     "4": "Exodus 38:1-38:3",
+     "5": "Exodus 38:4-38:8",
+     "6": "Exodus 38:9-38:15",
+     "7": "Exodus 38:16-38:20",
+     "maftir": "Exodus 30:11-30:16"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/22?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ אֲדָר ב׳",
+   "date": "2027-03-06",
+   "hdate": "27 Adar I 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Adar II",
+   "hebrew": "מברכים חודש אֲדָר ב׳",
+   "memo": "מוֹלָד הָלְּבָנָה אֲדָר ב׳ יִהְיֶה בַּיּוֹם שֵׁנִי בשָׁבוּעַ, בְּשָׁעָה 1 בַּלַּ֥יְלָה, ו-23 דַּקּוֹת ו-7 חֲלָקִים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אֲדָר ב׳",
+   "date": "2027-03-09",
+   "hdate": "30 Adar I 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Adar II",
+   "hebrew": "ראש חודש אדר ב׳",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-adar-ii-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אדר ב' (בשנים מעוברות) בלוח העברי. אדר ב', נקרא לעיתים “אדר שני”, הוא החודש ה-7 בשנה העברית האזרחית והחודש ה-13 בשנה העברית. יש בו 29 ימים, הוא חל רק בשנים מעוברות ומקביל לפברואר או מרץ בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אֲדָר ב׳",
+   "date": "2027-03-10",
+   "hdate": "1 Adar II 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Adar II",
+   "hebrew": "ראש חודש אדר ב׳",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-adar-ii-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אדר ב' (בשנים מעוברות) בלוח העברי. אדר ב', נקרא לעיתים “אדר שני”, הוא החודש ה-7 בשנה העברית האזרחית והחודש ה-13 בשנה העברית. יש בו 29 ימים, הוא חל רק בשנים מעוברות ומקביל לפברואר או מרץ בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת פְקוּדֵי",
+   "date": "2027-03-13",
+   "hdate": "4 Adar II 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Pekudei",
+   "hebrew": "פרשת פקודי",
+   "leyning": {
+    "1": "Exodus 38:21-39:1",
+    "2": "Exodus 39:2-39:21",
+    "3": "Exodus 39:22-39:32",
+    "4": "Exodus 39:33-39:43",
+    "5": "Exodus 40:1-40:16",
+    "6": "Exodus 40:17-40:27",
+    "7": "Exodus 40:28-40:38",
+    "torah": "Exodus 38:21-40:38",
+    "haftarah": "I Kings 7:51-8:21",
+    "haftarah_sephardic": "I Kings 7:40-50",
+    "haftarah_chabad": "I Kings 7:51-8:21",
+    "maftir": "Exodus 40:34-40:38",
+    "triennial": {
+     "1": "Exodus 38:21-38:23",
+     "2": "Exodus 38:24-38:27",
+     "3": "Exodus 38:28-39:1",
+     "4": "Exodus 39:2-39:7",
+     "5": "Exodus 39:8-39:14",
+     "6": "Exodus 39:15-39:18",
+     "7": "Exodus 39:19-39:21",
+     "maftir": "Exodus 39:19-39:21"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/23?us=js&um=api"
+  },
+  {
+   "title": "שַׁבַּת זָכוֹר",
+   "date": "2027-03-20",
+   "hdate": "11 Adar II 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Zachor",
+   "hebrew": "שבת זכור",
+   "leyning": {
+    "haftarah": "I Samuel 15:2-34",
+    "haftarah_sephardic": "I Samuel 15:1-34",
+    "haftarah_chabad": "I Samuel 15:2-34",
+    "maftir": "Deuteronomy 25:17-25:19"
+   },
+   "link": "https://hebcal.com/h/shabbat-zachor-2027?i=on&us=js&um=api",
+   "memo": "שבת זכור. השבת שלפני פורים"
+  },
+  {
+   "title": "פָּרָשַׁת וַיִּקְרָא",
+   "date": "2027-03-20",
+   "hdate": "11 Adar II 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vayikra",
+   "hebrew": "פרשת ויקרא",
+   "leyning": {
+    "1": "Leviticus 1:1-1:13",
+    "2": "Leviticus 1:14-2:6",
+    "3": "Leviticus 2:7-2:16",
+    "4": "Leviticus 3:1-3:17",
+    "5": "Leviticus 4:1-4:26",
+    "6": "Leviticus 4:27-5:10",
+    "7": "Leviticus 5:11-5:26",
+    "torah": "Leviticus 1:1-5:26; Deuteronomy 25:17-19",
+    "haftarah": "I Samuel 15:2-34 | Shabbat Zachor",
+    "haftarah_sephardic": "I Samuel 15:1-34 | Shabbat Zachor",
+    "haftarah_chabad": "I Samuel 15:2-34 | Shabbat Zachor",
+    "maftir": "Deuteronomy 25:17-25:19 | Shabbat Zachor",
+    "triennial": {
+     "1": "Leviticus 3:1-3:5",
+     "2": "Leviticus 3:6-3:11",
+     "3": "Leviticus 3:12-3:17",
+     "4": "Leviticus 4:1-4:7",
+     "5": "Leviticus 4:8-4:12",
+     "6": "Leviticus 4:13-4:21",
+     "7": "Leviticus 4:22-4:26",
+     "maftir": "Deuteronomy 25:17-25:19"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/24?us=js&um=api"
+  },
+  {
+   "title": "תַּעֲנִית אֶסְתֵּר",
+   "date": "2027-03-22",
+   "hdate": "13 Adar II 5787",
+   "category": "holiday",
+   "subcat": "fast",
+   "title_orig": "Ta'anit Esther",
+   "hebrew": "תענית אסתר",
+   "leyning": {
+    "1": "Exodus 32:11-32:14",
+    "2": "Exodus 34:1-34:3",
+    "3": "Exodus 34:4-34:10",
+    "torah": "Exodus 32:11-14, 34:1-10"
+   },
+   "link": "https://hebcal.com/h/taanit-esther-2027?i=on&us=js&um=api",
+   "memo": "תענית אסתר"
+  },
+  {
+   "title": "עֶרֶב פּוּרִים",
+   "date": "2027-03-22",
+   "hdate": "13 Adar II 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Purim",
+   "hebrew": "ערב פורים",
+   "leyning": {
+    "torah": "Esther 1:1-10:3"
+   },
+   "link": "https://hebcal.com/h/purim-2027?i=on&us=js&um=api",
+   "memo": "חגיגת ההצלה היהודית כפי שמסופר במגילת אסתר. מציין תקופה שבה העם היהודי שחי בפרס ניצל מהשמדה"
+  },
+  {
+   "title": "פּוּרִים",
+   "date": "2027-03-23",
+   "hdate": "14 Adar II 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Purim",
+   "hebrew": "פורים",
+   "leyning": {
+    "1": "Exodus 17:8-17:10",
+    "2": "Exodus 17:11-17:13",
+    "3": "Exodus 17:14-17:16",
+    "torah": "Exodus 17:8-16; Esther 1:1-10:3"
+   },
+   "link": "https://hebcal.com/h/purim-2027?i=on&us=js&um=api",
+   "memo": "חגיגת ההצלה היהודית כפי שמסופר במגילת אסתר. מציין תקופה שבה העם היהודי שחי בפרס ניצל מהשמדה"
+  },
+  {
+   "title": "שׁוּשָׁן פּוּרִים",
+   "date": "2027-03-24",
+   "hdate": "15 Adar II 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Shushan Purim",
+   "hebrew": "שושן פורים",
+   "leyning": {
+    "1": "Exodus 17:8-17:10",
+    "2": "Exodus 17:11-17:13",
+    "3": "Exodus 17:14-17:16",
+    "torah": "Exodus 17:8-16; Esther 1:1-10:3"
+   },
+   "link": "https://hebcal.com/h/shushan-purim-2027?i=on&us=js&um=api",
+   "memo": "פורים הנחגג בירושלים ובערים מוקxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxים ובערים מוקפות חומה (בשנה מעוברת)"
+  },
+  {
+   "title": "שַׁבַּת פָּרָה",
+   "date": "2027-03-27",
+   "hdate": "18 Adar II 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Parah",
+   "hebrew": "שבת פרה",
+   "leyning": {
+    "haftarah": "Ezekiel 36:16-38",
+    "haftarah_sephardic": "Ezekiel 36:16-36",
+    "maftir": "Numbers 19:1-19:22"
+   },
+   "link": "https://hebcal.com/h/shabbat-parah-2027?i=on&us=js&um=api",
+   "memo": "שבת פרה (אדומה). השבת שלפני שבת החודש, כהכנה לפסח"
+  },
+  {
+   "title": "פָּרָשַׁת צַו",
+   "date": "2027-03-27",
+   "hdate": "18 Adar II 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Tzav",
+   "hebrew": "פרשת צו",
+   "leyning": {
+    "1": "Leviticus 6:1-6:11",
+    "2": "Leviticus 6:12-7:10",
+    "3": "Leviticus 7:11-7:38",
+    "4": "Leviticus 8:1-8:13",
+    "5": "Leviticus 8:14-8:21",
+    "6": "Leviticus 8:22-8:29",
+    "7": "Leviticus 8:30-8:36",
+    "torah": "Leviticus 6:1-8:36; Numbers 19:1-22",
+    "haftarah": "Ezekiel 36:16-38 | Shabbat Parah",
+    "haftarah_sephardic": "Ezekiel 36:16-36 | Shabbat Parah",
+    "maftir": "Numbers 19:1-19:22 | Shabbat Parah",
+    "triennial": {
+     "1": "Leviticus 7:11-7:15",
+     "2": "Leviticus 7:16-7:18",
+     "3": "Leviticus 7:19-7:21",
+     "4": "Leviticus 7:22-7:27",
+     "5": "Leviticus 7:28-7:31",
+     "6": "Leviticus 7:32-7:34",
+     "7": "Leviticus 7:35-7:38",
+     "maftir": "Numbers 19:1-19:22"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/25?us=js&um=api"
+  },
+  {
+   "title": "שַׁבַּת הַחֹדֶשׁ",
+   "date": "2027-04-03",
+   "hdate": "25 Adar II 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat HaChodesh",
+   "hebrew": "שבת החדש",
+   "leyning": {
+    "haftarah": "Ezekiel 45:16-46:18",
+    "haftarah_sephardic": "Ezekiel 45:18-46:15",
+    "haftarah_chabad": "Ezekiel 45:18-46:16",
+    "maftir": "Exodus 12:1-12:20"
+   },
+   "link": "https://hebcal.com/h/shabbat-hachodesh-2027?i=on&us=js&um=api",
+   "memo": "שבת החודש. השבת שלפני ראש חודש ניסן. נקראת כהכנה לפסח"
+  },
+  {
+   "title": "פָּרָשַׁת שְּׁמִינִי",
+   "date": "2027-04-03",
+   "hdate": "25 Adar II 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Shmini",
+   "hebrew": "פרשת שמיני",
+   "leyning": {
+    "1": "Leviticus 9:1-9:16",
+    "2": "Leviticus 9:17-9:23",
+    "3": "Leviticus 9:24-10:11",
+    "4": "Leviticus 10:12-10:15",
+    "5": "Leviticus 10:16-10:20",
+    "6": "Leviticus 11:1-11:32",
+    "7": "Leviticus 11:33-11:47",
+    "torah": "Leviticus 9:1-11:47; Exodus 12:1-20",
+    "haftarah": "Ezekiel 45:16-46:18 | Shabbat HaChodesh",
+    "haftarah_sephardic": "Ezekiel 45:18-46:15 | Shabbat HaChodesh",
+    "haftarah_chabad": "Ezekiel 45:18-46:16 | Shabbat HaChodesh",
+    "maftir": "Exodus 12:1-12:20 | Shabbat HaChodesh",
+    "triennial": {
+     "1": "Leviticus 10:12-10:15",
+     "2": "Leviticus 10:16-10:20",
+     "3": "Leviticus 11:1-11:8",
+     "4": "Leviticus 11:9-11:12",
+     "5": "Leviticus 11:13-11:19",
+     "6": "Leviticus 11:20-11:28",
+     "7": "Leviticus 11:29-11:32",
+     "maftir": "Exodus 12:1-12:20"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/26?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ נִיסָן",
+   "date": "2027-04-03",
+   "hdate": "25 Adar II 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Nisan",
+   "hebrew": "מברכים חודש נִיסָן",
+   "memo": "מוֹלָד הָלְּבָנָה נִיסָן יִהְיֶה בַּיּוֹם שְׁלִישִׁי בשָׁבוּעַ, בְּשָׁעָה 14 בַּצׇּהֳרַיִים, ו-7 דַּקּוֹת ו-8 חֲלָקִים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ נִיסָן",
+   "date": "2027-04-08",
+   "hdate": "1 Nisan 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Nisan",
+   "hebrew": "ראש חודש ניסן",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-nisan-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש ניסן בלוח העברי. ניסן הוא החודש ה-7 בשנה העברית האזרחית (ה-8 בשנים מעוברות) והחודש ה-1 בשנה העברית המקראית. יש בו 30 ימים והוא מקביל למרץ או אפריל בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת תַזְרִיעַ",
+   "date": "2027-04-10",
+   "hdate": "3 Nisan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Tazria",
+   "hebrew": "פרשת תזריע",
+   "leyning": {
+    "1": "Leviticus 12:1-13:5",
+    "2": "Leviticus 13:6-13:17",
+    "3": "Leviticus 13:18-13:23",
+    "4": "Leviticus 13:24-13:28",
+    "5": "Leviticus 13:29-13:39",
+    "6": "Leviticus 13:40-13:54",
+    "7": "Leviticus 13:55-13:59",
+    "torah": "Leviticus 12:1-13:59",
+    "haftarah": "II Kings 4:42-5:19",
+    "maftir": "Leviticus 13:57-13:59",
+    "triennial": {
+     "1": "Leviticus 13:29-13:34",
+     "2": "Leviticus 13:35-13:39",
+     "3": "Leviticus 13:40-13:42",
+     "4": "Leviticus 13:43-13:46",
+     "5": "Leviticus 13:47-13:50",
+     "6": "Leviticus 13:51-13:54",
+     "7": "Leviticus 13:55-13:59",
+     "maftir": "Leviticus 13:57-13:59"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/27?us=js&um=api"
+  },
+  {
+   "title": "שַׁבַּת הַגָּדוֹל",
+   "date": "2027-04-17",
+   "hdate": "10 Nisan 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat HaGadol",
+   "hebrew": "שבת הגדול",
+   "leyning": {
+    "haftarah": "Malachi 3:4-24"
+   },
+   "link": "https://hebcal.com/h/shabbat-hagadol-2027?i=on&us=js&um=api",
+   "memo": "שבת הגדול. השבת שלפני חג הפסח"
+  },
+  {
+   "title": "יוֹם הַעֲלִיָּה",
+   "date": "2027-04-17",
+   "hdate": "10 Nisan 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yom HaAliyah",
+   "hebrew": "יום העליה",
+   "link": "https://hebcal.com/h/yom-haaliyah-2027?i=on&us=js&um=api",
+   "memo": "מציין את העלייה למדינת ישראל"
+  },
+  {
+   "title": "פָּרָשַׁת מְצֹרָע",
+   "date": "2027-04-17",
+   "hdate": "10 Nisan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Metzora",
+   "hebrew": "פרשת מצרע",
+   "leyning": {
+    "1": "Leviticus 14:1-14:12",
+    "2": "Leviticus 14:13-14:20",
+    "3": "Leviticus 14:21-14:32",
+    "4": "Leviticus 14:33-14:53",
+    "5": "Leviticus 14:54-15:15",
+    "6": "Leviticus 15:16-15:28",
+    "7": "Leviticus 15:29-15:33",
+    "torah": "Leviticus 14:1-15:33",
+    "haftarah": "Malachi 3:4-24 | Shabbat HaGadol",
+    "maftir": "Leviticus 15:31-15:33",
+    "triennial": {
+     "1": "Leviticus 14:1-14:5",
+     "2": "Leviticus 14:6-14:9",
+     "3": "Leviticus 14:10-14:12",
+     "4": "Leviticus 14:13-14:15",
+     "5": "Leviticus 14:16-14:20",
+     "6": "Leviticus 14:21-14:25",
+     "7": "Leviticus 14:26-14:32",
+     "maftir": "Leviticus 14:30-14:32"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/28?us=js&um=api"
+  },
+  {
+   "title": "תַּעֲנִית בְּכוֹרוֹת",
+   "date": "2027-04-21",
+   "hdate": "14 Nisan 5787",
+   "category": "holiday",
+   "subcat": "fast",
+   "title_orig": "Ta'anit Bechorot",
+   "hebrew": "תענית בכורות",
+   "link": "https://hebcal.com/h/taanit-bechorot-2027?i=on&us=js&um=api",
+   "memo": "תענית בכורות"
+  },
+  {
+   "title": "עֶרֶב פֶּסַח",
+   "date": "2027-04-21",
+   "hdate": "14 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Pesach",
+   "hebrew": "ערב פסח",
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "פֶּסַח א׳",
+   "date": "2027-04-22",
+   "hdate": "15 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Pesach I",
+   "hebrew": "פסח א׳",
+   "leyning": {
+    "1": "Exodus 12:21-12:24",
+    "2": "Exodus 12:25-12:28",
+    "3": "Exodus 12:29-12:36",
+    "4": "Exodus 12:37-12:42",
+    "5": "Exodus 12:43-12:51",
+    "torah": "Exodus 12:21-51; Numbers 28:16-25",
+    "haftarah": "Joshua 3:5-7, 5:2-6:1, 6:27",
+    "haftarah_sephardic": "Joshua 5:2-6:1, 6:27",
+    "maftir": "Numbers 28:16-28:25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "פֶּסַח ב׳ (חוה״מ)",
+   "date": "2027-04-23",
+   "hdate": "16 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Pesach II (CH''M)",
+   "hebrew": "פסח ב׳ (חוה״מ)",
+   "leyning": {
+    "1": "Leviticus 22:26-23:8",
+    "2": "Leviticus 23:9-23:14",
+    "3": "Leviticus 23:15-23:44",
+    "4": "Numbers 28:19-28:25",
+    "torah": "Leviticus 22:26-23:44; Numbers 28:19-25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "א׳ בָּעוֹמֶר",
+   "date": "2027-04-23",
+   "hdate": "16 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 1",
+   "hebrew": "עומר יום 1",
+   "link": "https://hebcal.com/o/5787/1?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם יוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבְּחֶֽסֶד",
+     "translit": "Chesed sheb'Chesed",
+     "en": "Lovingkindness within Lovingkindness"
+    },
+    "anaBekoachWord": "אָנָּא",
+    "lamnatzeachWord": "אֱלֹהִים",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "פֶּסַח ג׳ (חוה״מ)",
+   "date": "2027-04-24",
+   "hdate": "17 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Pesach III (CH''M)",
+   "hebrew": "פסח ג׳ (חוה״מ)",
+   "leyning": {
+    "1": "Exodus 33:12-33:16",
+    "2": "Exodus 33:17-33:19",
+    "3": "Exodus 33:20-33:23",
+    "4": "Exodus 34:1-34:3",
+    "5": "Exodus 34:4-34:10",
+    "6": "Exodus 34:11-34:17",
+    "7": "Exodus 34:18-34:26",
+    "torah": "Exodus 33:12-34:26; Numbers 28:19-25; Song of Songs 1:1-8:14",
+    "haftarah": "Ezekiel 37:1-14",
+    "maftir": "Numbers 28:19-28:25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "ב׳ בָּעוֹמֶר",
+   "date": "2027-04-24",
+   "hdate": "17 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 2",
+   "hebrew": "עומר יום 2",
+   "link": "https://hebcal.com/o/5787/2?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבְּחֶֽסֶד",
+     "translit": "Gevurah sheb'Chesed",
+     "en": "Might within Lovingkindness"
+    },
+    "anaBekoachWord": "בְּכֹחַ",
+    "lamnatzeachWord": "יְחָנֵּנוּ",
+    "lamnatzeachLetter": "ש"
+   }
+  },
+  {
+   "title": "פֶּסַח ד׳ (חוה״מ)",
+   "date": "2027-04-25",
+   "hdate": "18 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Pesach IV (CH''M)",
+   "hebrew": "פסח ד׳ (חוה״מ)",
+   "leyning": {
+    "1": "Exodus 22:24-22:26",
+    "2": "Exodus 22:27-23:5",
+    "3": "Exodus 23:6-23:19",
+    "4": "Numbers 28:19-28:25",
+    "torah": "Exodus 22:24-23:19; Numbers 28:19-25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "ג׳ בָּעוֹמֶר",
+   "date": "2027-04-25",
+   "hdate": "18 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 3",
+   "hebrew": "עומר יום 3",
+   "link": "https://hebcal.com/o/5787/3?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבְּחֶֽסֶד",
+     "translit": "Tiferet sheb'Chesed",
+     "en": "Beauty within Lovingkindness"
+    },
+    "anaBekoachWord": "גְּדֻלַּת",
+    "lamnatzeachWord": "וִיבָרְכֵנוּ",
+    "lamnatzeachLetter": "מ"
+   }
+  },
+  {
+   "title": "פֶּסַח ה׳ (חוה״מ)",
+   "date": "2027-04-26",
+   "hdate": "19 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Pesach V (CH''M)",
+   "hebrew": "פסח ה׳ (חוה״מ)",
+   "leyning": {
+    "1": "Exodus 34:1-34:10",
+    "2": "Exodus 34:11-34:17",
+    "3": "Exodus 34:18-34:26",
+    "4": "Numbers 28:19-28:25",
+    "torah": "Exodus 34:1-26; Numbers 28:19-25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "ד׳ בָּעוֹמֶר",
+   "date": "2027-04-26",
+   "hdate": "19 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 4",
+   "hebrew": "עומר יום 4",
+   "link": "https://hebcal.com/o/5787/4?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבְּחֶֽסֶד",
+     "translit": "Netzach sheb'Chesed",
+     "en": "Eternity within Lovingkindness"
+    },
+    "anaBekoachWord": "יְמִינְךָ",
+    "lamnatzeachWord": "יָאֵר",
+    "lamnatzeachLetter": "ח"
+   }
+  },
+  {
+   "title": "פֶּסַח ו׳ (חוה״מ)",
+   "date": "2027-04-27",
+   "hdate": "20 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Pesach VI (CH''M)",
+   "hebrew": "פסח ו׳ (חוה״מ)",
+   "leyning": {
+    "1": "Numbers 9:1-9:5",
+    "2": "Numbers 9:6-9:8",
+    "3": "Numbers 9:9-9:14",
+    "4": "Numbers 28:19-28:25",
+    "torah": "Numbers 9:1-14, 28:19-25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "ה׳ בָּעוֹמֶר",
+   "date": "2027-04-27",
+   "hdate": "20 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 5",
+   "hebrew": "עומר יום 5",
+   "link": "https://hebcal.com/o/5787/5?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם חֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבְּחֶֽסֶד",
+     "translit": "Hod sheb'Chesed",
+     "en": "Splendor within Lovingkindness"
+    },
+    "anaBekoachWord": "תַּתִּיר",
+    "lamnatzeachWord": "פָּנָיו",
+    "lamnatzeachLetter": "ו"
+   }
+  },
+  {
+   "title": "פֶּסַח ז׳",
+   "date": "2027-04-28",
+   "hdate": "21 Nisan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Pesach VII",
+   "hebrew": "פסח ז׳",
+   "leyning": {
+    "1": "Exodus 13:17-13:22",
+    "2": "Exodus 14:1-14:8",
+    "3": "Exodus 14:9-14:14",
+    "4": "Exodus 14:15-14:25",
+    "5": "Exodus 14:26-15:26",
+    "torah": "Exodus 13:17-15:26; Numbers 28:19-25",
+    "haftarah": "II Samuel 22:1-51",
+    "maftir": "Numbers 28:19-28:25"
+   },
+   "link": "https://hebcal.com/h/pesach-2027?i=on&us=js&um=api",
+   "memo": "פסח, חג המצות. מציין את יציאת מצרים ושחרור בני ישראל ממצרים העתיקה"
+  },
+  {
+   "title": "ו׳ בָּעוֹמֶר",
+   "date": "2027-04-28",
+   "hdate": "21 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 6",
+   "hebrew": "עומר יום 6",
+   "link": "https://hebcal.com/o/5787/6?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבְּחֶֽסֶד",
+     "translit": "Yesod sheb'Chesed",
+     "en": "Foundation within Lovingkindness"
+    },
+    "anaBekoachWord": "צְרוּרָה",
+    "lamnatzeachWord": "אִתָּנוּ",
+    "lamnatzeachLetter": "ו"
+   }
+  },
+  {
+   "title": "ז׳ בָּעוֹמֶר",
+   "date": "2027-04-29",
+   "hdate": "22 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 7",
+   "hebrew": "עומר יום 7",
+   "link": "https://hebcal.com/o/5787/7?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁבְעָה יָמִים, שֶׁהֵם שָׁבֽוּעַ אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 7 days, which are 1 week of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבְּחֶֽסֶד",
+     "translit": "Malkhut sheb'Chesed",
+     "en": "Majesty within Lovingkindness"
+    },
+    "anaBekoachWord": "אב״ג ית״ץ",
+    "lamnatzeachWord": "סֶלָה",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "ח׳ בָּעוֹמֶר",
+   "date": "2027-04-30",
+   "hdate": "23 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 8",
+   "hebrew": "עומר יום 8",
+   "link": "https://hebcal.com/o/5787/8?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁמוֹנָה יָמִים, שֶׁהֵם שָׁבֽוּעַ אֶחָד וְיוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 8 days, which are 1 week and 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבִּגְבוּרָה",
+     "translit": "Chesed shebiGevurah",
+     "en": "Lovingkindness within Might"
+    },
+    "anaBekoachWord": "קַבֵּל",
+    "lamnatzeachWord": "לָדַעַת",
+    "lamnatzeachLetter": "ר"
+   }
+  },
+  {
+   "title": "פָּרָשַׁת אַחֲרֵי מוֹת",
+   "date": "2027-05-01",
+   "hdate": "24 Nisan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Achrei Mot",
+   "hebrew": "פרשת אחרי מות",
+   "leyning": {
+    "1": "Leviticus 16:1-16:17",
+    "2": "Leviticus 16:18-16:24",
+    "3": "Leviticus 16:25-16:34",
+    "4": "Leviticus 17:1-17:7",
+    "5": "Leviticus 17:8-18:5",
+    "6": "Leviticus 18:6-18:21",
+    "7": "Leviticus 18:22-18:30",
+    "torah": "Leviticus 16:1-18:30",
+    "haftarah": "Amos 9:7-15",
+    "haftarah_sephardic": "Ezekiel 22:1-16",
+    "haftarah_chabad": "Amos 9:7-15",
+    "maftir": "Leviticus 18:28-18:30",
+    "triennial": {
+     "1": "Leviticus 17:1-17:7",
+     "2": "Leviticus 17:8-17:12",
+     "3": "Leviticus 17:13-17:16",
+     "4": "Leviticus 18:1-18:5",
+     "5": "Leviticus 18:6-18:21",
+     "6": "Leviticus 18:22-18:25",
+     "7": "Leviticus 18:26-18:30",
+     "maftir": "Leviticus 18:26-18:30"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/29?us=js&um=api"
+  },
+  {
+   "title": "ט׳ בָּעוֹמֶר",
+   "date": "2027-05-01",
+   "hdate": "24 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 9",
+   "hebrew": "עומר יום 9",
+   "link": "https://hebcal.com/o/5787/9?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם תִּשְׁעָה יָמִים, שֶׁהֵם שָׁבֽוּעַ אֶחָד וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 9 days, which are 1 week and 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבִּגְבוּרָה",
+     "translit": "Gevurah shebiGevurah",
+     "en": "Might within Might"
+    },
+    "anaBekoachWord": "רִנַּת",
+    "lamnatzeachWord": "בָּאָרֶץ",
+    "lamnatzeachLetter": "נ"
+   }
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ אִיָּיר",
+   "date": "2027-05-01",
+   "hdate": "24 Nisan 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Iyyar",
+   "hebrew": "מברכים חודש אִיָּיר",
+   "memo": "מוֹלָד הָלְּבָנָה אִיָּיר יִהְיֶה בַּיּוֹם חֲמִישִׁי בשָׁבוּעַ, בְּשָׁעָה 2 בַּלַּ֥יְלָה, ו-51 דַּקּוֹת ו-9 חֲלָקִים"
+  },
+  {
+   "title": "י׳ בָּעוֹמֶר",
+   "date": "2027-05-02",
+   "hdate": "25 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 10",
+   "hebrew": "עומר יום 10",
+   "link": "https://hebcal.com/o/5787/10?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם עֲשָׂרָה יָמִים, שֶׁהֵם שָׁבֽוּעַ אֶחָד וּשְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 10 days, which are 1 week and 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבִּגְבוּרָה",
+     "translit": "Tiferet shebiGevurah",
+     "en": "Beauty within Might"
+    },
+    "anaBekoachWord": "עַמְּךָ",
+    "lamnatzeachWord": "דַּרְכֶּךָ",
+    "lamnatzeachLetter": "נ"
+   }
+  },
+  {
+   "title": "י״א בָּעוֹמֶר",
+   "date": "2027-05-03",
+   "hdate": "26 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 11",
+   "hebrew": "עומר יום 11",
+   "link": "https://hebcal.com/o/5787/11?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַחַד עָשָׂר יוֹם, שֶׁהֵם שָׁבֽוּעַ אֶחָד וְאַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 11 days, which are 1 week and 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבִּגְבוּרָה",
+     "translit": "Netzach shebiGevurah",
+     "en": "Eternity within Might"
+    },
+    "anaBekoachWord": "שַׂגְּבֵנוּ",
+    "lamnatzeachWord": "בְּכָל",
+    "lamnatzeachLetter": "ו"
+   }
+  },
+  {
+   "title": "יוֹם הַשּׁוֹאָה",
+   "date": "2027-05-04",
+   "hdate": "27 Nisan 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yom HaShoah",
+   "hebrew": "יום השואה",
+   "link": "https://hebcal.com/h/yom-hashoah-2027?i=on&us=js&um=api",
+   "memo": "יום הזיכרון לשואה ולגבורה"
+  },
+  {
+   "title": "י״ב בָּעוֹמֶר",
+   "date": "2027-05-04",
+   "hdate": "27 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 12",
+   "hebrew": "עומר יום 12",
+   "link": "https://hebcal.com/o/5787/12?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁנֵים עָשָׂר יוֹם, שֶׁהֵם שָׁבֽוּעַ אֶחָד וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 12 days, which are 1 week and 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבִּגְבוּרָה",
+     "translit": "Hod shebiGevurah",
+     "en": "Splendor within Might"
+    },
+    "anaBekoachWord": "טַהֲרֵנוּ",
+    "lamnatzeachWord": "גּוֹיִם",
+    "lamnatzeachLetter": "ל"
+   }
+  },
+  {
+   "title": "י״ג בָּעוֹמֶר",
+   "date": "2027-05-05",
+   "hdate": "28 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 13",
+   "hebrew": "עומר יום 13",
+   "link": "https://hebcal.com/o/5787/13?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁלוֹשָׁה עָשָׂר יוֹם, שֶׁהֵם שָׁבֽוּעַ אֶחָד וְשִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 13 days, which are 1 week and 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבִּגְבוּרָה",
+     "translit": "Yesod shebiGevurah",
+     "en": "Foundation within Might"
+    },
+    "anaBekoachWord": "נוֹרָא",
+    "lamnatzeachWord": "יְשׁוּעָתֶךָ",
+    "lamnatzeachLetter": "א"
+   }
+  },
+  {
+   "title": "י״ד בָּעוֹמֶר",
+   "date": "2027-05-06",
+   "hdate": "29 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 14",
+   "hebrew": "עומר יום 14",
+   "link": "https://hebcal.com/o/5787/14?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַרְבָּעָה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת לָעֽוֹמֶר",
+     "en": "Today is 14 days, which are 2 weeks of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבִּגְבוּרָה",
+     "translit": "Malkhut shebiGevurah",
+     "en": "Majesty within Might"
+    },
+    "anaBekoachWord": "קר״ע שט״ן",
+    "lamnatzeachWord": "יוֹדוּךָ",
+    "lamnatzeachLetter": "מ"
+   }
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אִיָּיר",
+   "date": "2027-05-07",
+   "hdate": "30 Nisan 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-iyyar-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אייר בלוח העברי. אייר הוא החודש ה-8 בשנה העברית האזרחית (ה-9 בשנים מעוברות) והחודש ה-2 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל לאפריל או מאי בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "ט״ו בָּעוֹמֶר",
+   "date": "2027-05-07",
+   "hdate": "30 Nisan 5787",
+   "category": "omer",
+   "title_orig": "Omer 15",
+   "hebrew": "עומר יום 15",
+   "link": "https://hebcal.com/o/5787/15?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם חֲמִשָּׁה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וְיוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 15 days, which are 2 weeks and 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Chesed sheb'Tiferet",
+     "en": "Lovingkindness within Beauty"
+    },
+    "anaBekoachWord": "נָא",
+    "lamnatzeachWord": "עַמִּים",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אִיָּיר",
+   "date": "2027-05-08",
+   "hdate": "1 Iyyar 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר",
+   "leyning": {
+    "haftarah": "Isaiah 66:1-24",
+    "maftir": "Numbers 28:9-28:15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-iyyar-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אייר בלוח העברי. אייר הוא החודש ה-8 בשנה העברית האזרחית (ה-9 בשנים מעוברות) והחודש ה-2 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל לאפריל או מאי בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת קְדֹשִׁים",
+   "date": "2027-05-08",
+   "hdate": "1 Iyyar 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Kedoshim",
+   "hebrew": "פרשת קדשים",
+   "leyning": {
+    "1": "Leviticus 19:1-19:14",
+    "2": "Leviticus 19:15-19:22",
+    "3": "Leviticus 19:23-19:32",
+    "4": "Leviticus 19:33-19:37",
+    "5": "Leviticus 20:1-20:7",
+    "6": "Leviticus 20:8-20:22",
+    "7": "Leviticus 20:23-20:27",
+    "torah": "Leviticus 19:1-20:27; Numbers 28:9-15",
+    "haftarah": "Isaiah 66:1-24 | Shabbat Rosh Chodesh",
+    "maftir": "Numbers 28:9-28:15 | Shabbat Rosh Chodesh",
+    "triennial": {
+     "1": "Leviticus 19:1-19:4",
+     "2": "Leviticus 19:5-19:10",
+     "3": "Leviticus 19:11-19:14",
+     "4": "Leviticus 19:15-19:18",
+     "5": "Leviticus 19:19-19:22",
+     "6": "Leviticus 19:23-19:32",
+     "7": "Leviticus 19:33-19:37",
+     "maftir": "Numbers 28:9-28:15"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/30?us=js&um=api"
+  },
+  {
+   "title": "ט״ז בָּעוֹמֶר",
+   "date": "2027-05-08",
+   "hdate": "1 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 16",
+   "hebrew": "עומר יום 16",
+   "link": "https://hebcal.com/o/5787/16?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁשָּׁה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 16 days, which are 2 weeks and 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Gevurah sheb'Tiferet",
+     "en": "Might within Beauty"
+    },
+    "anaBekoachWord": "גִבּוֹר",
+    "lamnatzeachWord": "אֱלֹהִים",
+    "lamnatzeachLetter": "ם"
+   }
+  },
+  {
+   "title": "י״ז בָּעוֹמֶר",
+   "date": "2027-05-09",
+   "hdate": "2 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 17",
+   "hebrew": "עומר יום 17",
+   "link": "https://hebcal.com/o/5787/17?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁבְעָה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 17 days, which are 2 weeks and 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Tiferet sheb'Tiferet",
+     "en": "Beauty within Beauty"
+    },
+    "anaBekoachWord": "דּוֹרְשֵׁי",
+    "lamnatzeachWord": "יוֹדוּךָ",
+    "lamnatzeachLetter": "כ"
+   }
+  },
+  {
+   "title": "י״ח בָּעוֹמֶר",
+   "date": "2027-05-10",
+   "hdate": "3 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 18",
+   "hebrew": "עומר יום 18",
+   "link": "https://hebcal.com/o/5787/18?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁמוֹנָה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 18 days, which are 2 weeks and 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Netzach sheb'Tiferet",
+     "en": "Eternity within Beauty"
+    },
+    "anaBekoachWord": "יִחוּדְךָ",
+    "lamnatzeachWord": "עַמִּים",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "יוֹם הַזִּכָּרוֹן",
+   "date": "2027-05-11",
+   "hdate": "4 Iyyar 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yom HaZikaron",
+   "hebrew": "יום הזכרון",
+   "link": "https://hebcal.com/h/yom-hazikaron-2027?i=on&us=js&um=api",
+   "memo": "יום הזיכרון לחללי מערכות ישראל. זוכר את אלו שנפלו במלחמת העצמאות ובמלחמות ישראל האחרות. השם המלא של החג הוא “יום הזיכרון לחללי מערכות ישראל ולנפגעי פעולות האיבה״. למרות שיום הזיכרון מצוין בדרך כלל בד' באייר, הוא עשוי להיות מוקדם או להידחות אם קיום היום (או יום העצמאות שבא תמיד אחריו) יתנגש עם השבת"
+  },
+  {
+   "title": "י״ט בָּעוֹמֶר",
+   "date": "2027-05-11",
+   "hdate": "4 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 19",
+   "hebrew": "עומר יום 19",
+   "link": "https://hebcal.com/o/5787/19?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם תִּשְׁעָה עָשָׂר יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 19 days, which are 2 weeks and 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Hod sheb'Tiferet",
+     "en": "Splendor within Beauty"
+    },
+    "anaBekoachWord": "כְּבָבַת",
+    "lamnatzeachWord": "כֻּלָּם",
+    "lamnatzeachLetter": "ת"
+   }
+  },
+  {
+   "title": "יוֹם הָעַצְמָאוּת",
+   "date": "2027-05-12",
+   "hdate": "5 Iyyar 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yom HaAtzma'ut",
+   "hebrew": "יום העצמאות",
+   "leyning": {
+    "1": "Deuteronomy 7:12-7:21",
+    "2": "Deuteronomy 7:22-8:3",
+    "3": "Deuteronomy 8:4-8:18",
+    "torah": "Deuteronomy 7:12-8:18",
+    "haftarah": "Isaiah 10:32-12:6"
+   },
+   "link": "https://hebcal.com/h/yom-haatzmaut-2027?i=on&us=js&um=api",
+   "memo": "יום העצמאות. מציין את הכרזת העצמאות של ישראל בשנת 1948. למרות שיום העצמאות מצוין בדרך כלל בה' באייר, הוא עשוי להיות מוקדם או להידחות אם קיום החג (או יום הזיכרון שתמיד קודם לו) יתנגש עם השבת"
+  },
+  {
+   "title": "כ׳ בָּעוֹמֶר",
+   "date": "2027-05-12",
+   "hdate": "5 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 20",
+   "hebrew": "עומר יום 20",
+   "link": "https://hebcal.com/o/5787/20?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם עֶשְׂרִים יוֹם, שֶׁהֵם שְׁנֵי שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 20 days, which are 2 weeks and 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Yesod sheb'Tiferet",
+     "en": "Foundation within Beauty"
+    },
+    "anaBekoachWord": "שָׁמְרֵם",
+    "lamnatzeachWord": "יִשְׂמְחוּ",
+    "lamnatzeachLetter": "ש"
+   }
+  },
+  {
+   "title": "כ״א בָּעוֹמֶר",
+   "date": "2027-05-13",
+   "hdate": "6 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 21",
+   "hebrew": "עומר יום 21",
+   "link": "https://hebcal.com/o/5787/21?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אֶחָד וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת לָעֽוֹמֶר",
+     "en": "Today is 21 days, which are 3 weeks of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבְּתִפְאֶֽרֶת",
+     "translit": "Malkhut sheb'Tiferet",
+     "en": "Majesty within Beauty"
+    },
+    "anaBekoachWord": "נג״ד יכ״ש",
+    "lamnatzeachWord": "וִירַנְּנוּ",
+    "lamnatzeachLetter": "פ"
+   }
+  },
+  {
+   "title": "כ״ב בָּעוֹמֶר",
+   "date": "2027-05-14",
+   "hdate": "7 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 22",
+   "hebrew": "עומר יום 22",
+   "link": "https://hebcal.com/o/5787/22?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁנַיִם וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 22 days, which are 3 weeks and 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבְּנֶֽצַח",
+     "translit": "Chesed sheb'Netzach",
+     "en": "Lovingkindness within Eternity"
+    },
+    "anaBekoachWord": "בָּרְכֵם",
+    "lamnatzeachWord": "לְאֻמִּים",
+    "lamnatzeachLetter": "ו"
+   }
+  },
+  {
+   "title": "פָּרָשַׁת אֱמוֹר",
+   "date": "2027-05-15",
+   "hdate": "8 Iyyar 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Emor",
+   "hebrew": "פרשת אמור",
+   "leyning": {
+    "1": "Leviticus 21:1-21:15",
+    "2": "Leviticus 21:16-22:16",
+    "3": "Leviticus 22:17-22:33",
+    "4": "Leviticus 23:1-23:22",
+    "5": "Leviticus 23:23-23:32",
+    "6": "Leviticus 23:33-23:44",
+    "7": "Leviticus 24:1-24:23",
+    "torah": "Leviticus 21:1-24:23",
+    "haftarah": "Ezekiel 44:15-31",
+    "maftir": "Leviticus 24:21-24:23",
+    "triennial": {
+     "1": "Leviticus 22:17-22:20",
+     "2": "Leviticus 22:21-22:25",
+     "3": "Leviticus 22:26-22:33",
+     "4": "Leviticus 23:1-23:3",
+     "5": "Leviticus 23:4-23:8",
+     "6": "Leviticus 23:9-23:14",
+     "7": "Leviticus 23:15-23:22",
+     "maftir": "Leviticus 23:19-23:22"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/31?us=js&um=api"
+  },
+  {
+   "title": "כ״ג בָּעוֹמֶר",
+   "date": "2027-05-15",
+   "hdate": "8 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 23",
+   "hebrew": "עומר יום 23",
+   "link": "https://hebcal.com/o/5787/23?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁלוֹשָׁה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 23 days, which are 3 weeks and 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבְּנֶֽצַח",
+     "translit": "Gevurah sheb'Netzach",
+     "en": "Might within Eternity"
+    },
+    "anaBekoachWord": "טַהֲרֵם",
+    "lamnatzeachWord": "כִּי",
+    "lamnatzeachLetter": "ט"
+   }
+  },
+  {
+   "title": "כ״ד בָּעוֹמֶר",
+   "date": "2027-05-16",
+   "hdate": "9 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 24",
+   "hebrew": "עומר יום 24",
+   "link": "https://hebcal.com/o/5787/24?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַרְבָּעָה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 24 days, which are 3 weeks and 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבְּנֶֽצַח",
+     "translit": "Tiferet sheb'Netzach",
+     "en": "Beauty within Eternity"
+    },
+    "anaBekoachWord": "רַחֲמֵי",
+    "lamnatzeachWord": "תִשְׁפֹּט",
+    "lamnatzeachLetter": "ע"
+   }
+  },
+  {
+   "title": "יוֹם הֶרְצְל",
+   "date": "2027-05-17",
+   "hdate": "10 Iyyar 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Herzl Day",
+   "hebrew": "יום הרצל",
+   "link": "https://hebcal.com/h/herzl-day-2027?i=on&us=js&um=api",
+   "memo": "יום המציין את חייו וחזונו של המנהיג הציוני בנימין זאב הרצל"
+  },
+  {
+   "title": "כ״ה בָּעוֹמֶר",
+   "date": "2027-05-17",
+   "hdate": "10 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 25",
+   "hebrew": "עומר יום 25",
+   "link": "https://hebcal.com/o/5787/25?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם חֲמִשָּׁה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 25 days, which are 3 weeks and 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבְּנֶֽצַח",
+     "translit": "Netzach sheb'Netzach",
+     "en": "Eternity within Eternity"
+    },
+    "anaBekoachWord": "צִדְקָתְךָ",
+    "lamnatzeachWord": "עַמִּים",
+    "lamnatzeachLetter": "מ"
+   }
+  },
+  {
+   "title": "כ״ו בָּעוֹמֶר",
+   "date": "2027-05-18",
+   "hdate": "11 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 26",
+   "hebrew": "עומר יום 26",
+   "link": "https://hebcal.com/o/5787/26?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁשָּׁה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 26 days, which are 3 weeks and 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבְּנֶֽצַח",
+     "translit": "Hod sheb'Netzach",
+     "en": "Splendor within Eternity"
+    },
+    "anaBekoachWord": "תָּמִיד",
+    "lamnatzeachWord": "מִישׁוֹר",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "כ״ז בָּעוֹמֶר",
+   "date": "2027-05-19",
+   "hdate": "12 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 27",
+   "hebrew": "עומר יום 27",
+   "link": "https://hebcal.com/o/5787/27?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁבְעָה וְעֶשְׂרִים יוֹם, שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 27 days, which are 3 weeks and 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבְּנֶֽצַח",
+     "translit": "Yesod sheb'Netzach",
+     "en": "Foundation within Eternity"
+    },
+    "anaBekoachWord": "גָּמְלֵם",
+    "lamnatzeachWord": "וּלְאֻמִּים",
+    "lamnatzeachLetter": "ם"
+   }
+  },
+  {
+   "title": "כ״ח בָּעוֹמֶר",
+   "date": "2027-05-20",
+   "hdate": "13 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 28",
+   "hebrew": "עומר יום 28",
+   "link": "https://hebcal.com/o/5787/28?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁמוֹנָה וְעֶשְׂרִים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת לָעֽוֹמֶר",
+     "en": "Today is 28 days, which are 4 weeks of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבְּנֶֽצַח",
+     "translit": "Malkhut sheb'Netzach",
+     "en": "Majesty within Eternity"
+    },
+    "anaBekoachWord": "בט״ר צת״ג",
+    "lamnatzeachWord": "בָּאָרֶץ",
+    "lamnatzeachLetter": "מ"
+   }
+  },
+  {
+   "title": "פֶּסַח שֵׁנִי",
+   "date": "2027-05-21",
+   "hdate": "14 Iyyar 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Pesach Sheni",
+   "hebrew": "פסח שני",
+   "link": "https://hebcal.com/h/pesach-sheni-2027?i=on&us=js&um=api",
+   "memo": "פסח שני, חודש לאחר חג הפסח"
+  },
+  {
+   "title": "כ״ט בָּעוֹמֶר",
+   "date": "2027-05-21",
+   "hdate": "14 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 29",
+   "hebrew": "עומר יום 29",
+   "link": "https://hebcal.com/o/5787/29?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם תִּשְׁעָה וְעֶשְׂרִים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וְיוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 29 days, which are 4 weeks and 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבְּהוֹד",
+     "translit": "Chesed sheb'Hod",
+     "en": "Lovingkindness within Splendor"
+    },
+    "anaBekoachWord": "חֲסִין",
+    "lamnatzeachWord": "תַּנחֵם",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "פָּרָשַׁת בְּהַר",
+   "date": "2027-05-22",
+   "hdate": "15 Iyyar 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Behar",
+   "hebrew": "פרשת בהר",
+   "leyning": {
+    "1": "Leviticus 25:1-25:13",
+    "2": "Leviticus 25:14-25:18",
+    "3": "Leviticus 25:19-25:24",
+    "4": "Leviticus 25:25-25:28",
+    "5": "Leviticus 25:29-25:38",
+    "6": "Leviticus 25:39-25:46",
+    "7": "Leviticus 25:47-26:2",
+    "torah": "Leviticus 25:1-26:2",
+    "haftarah": "Jeremiah 32:6-27",
+    "haftarah_chabad": "Jeremiah 32:6-22",
+    "maftir": "Leviticus 25:55-26:2",
+    "triennial": {
+     "1": "Leviticus 25:29-25:34",
+     "2": "Leviticus 25:35-25:38",
+     "3": "Leviticus 25:39-25:43",
+     "4": "Leviticus 25:44-25:46",
+     "5": "Leviticus 25:47-25:50",
+     "6": "Leviticus 25:51-25:54",
+     "7": "Leviticus 25:55-26:2",
+     "maftir": "Leviticus 25:55-26:2"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/32?us=js&um=api"
+  },
+  {
+   "title": "ל׳ בָּעוֹמֶר",
+   "date": "2027-05-22",
+   "hdate": "15 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 30",
+   "hebrew": "עומר יום 30",
+   "link": "https://hebcal.com/o/5787/30?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 30 days, which are 4 weeks and 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבְּהוֹד",
+     "translit": "Gevurah sheb'Hod",
+     "en": "Might within Splendor"
+    },
+    "anaBekoachWord": "קָדוֹשׁ",
+    "lamnatzeachWord": "סֶלָה",
+    "lamnatzeachLetter": "ש"
+   }
+  },
+  {
+   "title": "ל״א בָּעוֹמֶר",
+   "date": "2027-05-23",
+   "hdate": "16 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 31",
+   "hebrew": "עומר יום 31",
+   "link": "https://hebcal.com/o/5787/31?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אֶחָד וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 31 days, which are 4 weeks and 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבְּהוֹד",
+     "translit": "Tiferet sheb'Hod",
+     "en": "Beauty within Splendor"
+    },
+    "anaBekoachWord": "בְּרֹב",
+    "lamnatzeachWord": "יוֹדוּךָ",
+    "lamnatzeachLetter": "ו"
+   }
+  },
+  {
+   "title": "ל״ב בָּעוֹמֶר",
+   "date": "2027-05-24",
+   "hdate": "17 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 32",
+   "hebrew": "עומר יום 32",
+   "link": "https://hebcal.com/o/5787/32?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁנַיִם וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 32 days, which are 4 weeks and 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבְּהוֹד",
+     "translit": "Netzach sheb'Hod",
+     "en": "Eternity within Splendor"
+    },
+    "anaBekoachWord": "טוּבְךָ",
+    "lamnatzeachWord": "עַמִּים",
+    "lamnatzeachLetter": "ר"
+   }
+  },
+  {
+   "title": "ל״ג בָּעוֹמֶר",
+   "date": "2027-05-25",
+   "hdate": "18 Iyyar 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Lag BaOmer",
+   "hebrew": "ל״ג בעומר",
+   "link": "https://hebcal.com/h/lag-baomer-2027?i=on&us=js&um=api",
+   "memo": "היום ה-33 לספירת העומר. החג מהווה הפוגה זמנית ממנהגי האבלות של תקופת ספירת העומר. המנהגים כוללים הדלקת מדורות, תספורות וחתונות"
+  },
+  {
+   "title": "ל״ג בָּעוֹמֶר",
+   "date": "2027-05-25",
+   "hdate": "18 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 33",
+   "hebrew": "עומר יום 33",
+   "link": "https://hebcal.com/o/5787/33?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁלוֹשָׁה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 33 days, which are 4 weeks and 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבְּהוֹד",
+     "translit": "Hod sheb'Hod",
+     "en": "Splendor within Splendor"
+    },
+    "anaBekoachWord": "נַהֵל",
+    "lamnatzeachWord": "אֱלֹהִים",
+    "lamnatzeachLetter": "ו"
+   }
+  },
+  {
+   "title": "ל״ד בָּעוֹמֶר",
+   "date": "2027-05-26",
+   "hdate": "19 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 34",
+   "hebrew": "עומר יום 34",
+   "link": "https://hebcal.com/o/5787/34?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַרְבָּעָה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 34 days, which are 4 weeks and 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבְּהוֹד",
+     "translit": "Yesod sheb'Hod",
+     "en": "Foundation within Splendor"
+    },
+    "anaBekoachWord": "עֲדָתֶךָ",
+    "lamnatzeachWord": "יוֹדוּךָ",
+    "lamnatzeachLetter": "ל"
+   }
+  },
+  {
+   "title": "ל״ה בָּעוֹמֶר",
+   "date": "2027-05-27",
+   "hdate": "20 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 35",
+   "hebrew": "עומר יום 35",
+   "link": "https://hebcal.com/o/5787/35?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם חֲמִשָּׁה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת לָעֽוֹמֶר",
+     "en": "Today is 35 days, which are 5 weeks of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבְּהוֹד",
+     "translit": "Malkhut sheb'Hod",
+     "en": "Majesty within Splendor"
+    },
+    "anaBekoachWord": "חק״ב תנ״ע",
+    "lamnatzeachWord": "עַמִּים",
+    "lamnatzeachLetter": "א"
+   }
+  },
+  {
+   "title": "ל״ו בָּעוֹמֶר",
+   "date": "2027-05-28",
+   "hdate": "21 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 36",
+   "hebrew": "עומר יום 36",
+   "link": "https://hebcal.com/o/5787/36?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁשָּׁה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 36 days, which are 5 weeks and 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבִּיְסוֹד",
+     "translit": "Chesed shebiYesod",
+     "en": "Lovingkindness within Foundation"
+    },
+    "anaBekoachWord": "יָחִיד",
+    "lamnatzeachWord": "כֻּלָּם",
+    "lamnatzeachLetter": "מ"
+   }
+  },
+  {
+   "title": "פָּרָשַׁת בְּחֻקֹּתַי",
+   "date": "2027-05-29",
+   "hdate": "22 Iyyar 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Bechukotai",
+   "hebrew": "פרשת בחקתי",
+   "leyning": {
+    "1": "Leviticus 26:3-26:5",
+    "2": "Leviticus 26:6-26:9",
+    "3": "Leviticus 26:10-26:46",
+    "4": "Leviticus 27:1-27:15",
+    "5": "Leviticus 27:16-27:21",
+    "6": "Leviticus 27:22-27:28",
+    "7": "Leviticus 27:29-27:34",
+    "torah": "Leviticus 26:3-27:34",
+    "haftarah": "Jeremiah 16:19-17:14",
+    "maftir": "Leviticus 27:32-27:34",
+    "triennial": {
+     "1": "Leviticus 26:3-26:5",
+     "2": "Leviticus 26:6-26:9",
+     "3": "Leviticus 26:10-26:46",
+     "4": "Leviticus 27:1-27:4",
+     "5": "Leviticus 27:5-27:8",
+     "6": "Leviticus 27:9-27:11",
+     "7": "Leviticus 27:12-27:15",
+     "maftir": "Leviticus 27:12-27:15"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/33?us=js&um=api"
+  },
+  {
+   "title": "ל״ז בָּעוֹמֶר",
+   "date": "2027-05-29",
+   "hdate": "22 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 37",
+   "hebrew": "עומר יום 37",
+   "link": "https://hebcal.com/o/5787/37?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁבְעָה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 37 days, which are 5 weeks and 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבִּיְסוֹד",
+     "translit": "Gevurah shebiYesod",
+     "en": "Might within Foundation"
+    },
+    "anaBekoachWord": "גֵּאֶה",
+    "lamnatzeachWord": "אֶרֶץ",
+    "lamnatzeachLetter": "י"
+   }
+  },
+  {
+   "title": "ל״ח בָּעוֹמֶר",
+   "date": "2027-05-30",
+   "hdate": "23 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 38",
+   "hebrew": "עומר יום 38",
+   "link": "https://hebcal.com/o/5787/38?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁמוֹנָה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 38 days, which are 5 weeks and 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבִּיְסוֹד",
+     "translit": "Tiferet shebiYesod",
+     "en": "Beauty within Foundation"
+    },
+    "anaBekoachWord": "לְעַמְּךָ",
+    "lamnatzeachWord": "נָתְנָה",
+    "lamnatzeachLetter": "ם"
+   }
+  },
+  {
+   "title": "ל״ט בָּעוֹמֶר",
+   "date": "2027-05-31",
+   "hdate": "24 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 39",
+   "hebrew": "עומר יום 39",
+   "link": "https://hebcal.com/o/5787/39?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם תִּשְׁעָה וּשְׁלוֹשִׁים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 39 days, which are 5 weeks and 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבִּיְסוֹד",
+     "translit": "Netzach shebiYesod",
+     "en": "Eternity within Foundation"
+    },
+    "anaBekoachWord": "פְּנֵה",
+    "lamnatzeachWord": "יְבוּלָהּ",
+    "lamnatzeachLetter": "ב"
+   }
+  },
+  {
+   "title": "מ׳ בָּעוֹמֶר",
+   "date": "2027-06-01",
+   "hdate": "25 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 40",
+   "hebrew": "עומר יום 40",
+   "link": "https://hebcal.com/o/5787/40?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַרְבָּעִים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 40 days, which are 5 weeks and 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבִּיְסוֹד",
+     "translit": "Hod shebiYesod",
+     "en": "Splendor within Foundation"
+    },
+    "anaBekoachWord": "זוֹכְרֵי",
+    "lamnatzeachWord": "יְבָרְכֵנוּ",
+    "lamnatzeachLetter": "א"
+   }
+  },
+  {
+   "title": "מ״א בָּעוֹמֶר",
+   "date": "2027-06-02",
+   "hdate": "26 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 41",
+   "hebrew": "עומר יום 41",
+   "link": "https://hebcal.com/o/5787/41?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אֶחָד וְאַרְבָּעִים יוֹם, שֶׁהֵם חֲמִשָּׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 41 days, which are 5 weeks and 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבִּיְסוֹד",
+     "translit": "Yesod shebiYesod",
+     "en": "Foundation within Foundation"
+    },
+    "anaBekoachWord": "קְדֻשָּׁתֶךָ",
+    "lamnatzeachWord": "אֱלֹהִים",
+    "lamnatzeachLetter": "ר"
+   }
+  },
+  {
+   "title": "מ״ב בָּעוֹמֶר",
+   "date": "2027-06-03",
+   "hdate": "27 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 42",
+   "hebrew": "עומר יום 42",
+   "link": "https://hebcal.com/o/5787/42?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁנַיִם וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת לָעֽוֹמֶר",
+     "en": "Today is 42 days, which are 6 weeks of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבִּיְסוֹד",
+     "translit": "Malkhut shebiYesod",
+     "en": "Majesty within Foundation"
+    },
+    "anaBekoachWord": "יג״ל פז״ק",
+    "lamnatzeachWord": "אֱלֹהֵינוּ",
+    "lamnatzeachLetter": "ץ"
+   }
+  },
+  {
+   "title": "יוֹם יְרוּשָׁלַיִם",
+   "date": "2027-06-04",
+   "hdate": "28 Iyyar 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Yom Yerushalayim",
+   "hebrew": "יום ירושלים",
+   "link": "https://hebcal.com/h/yom-yerushalayim-2027?i=on&us=js&um=api",
+   "memo": "יום ירושלים. מציין את איחודה מחדש של ירושלים בשנת 1967"
+  },
+  {
+   "title": "מ״ג בָּעוֹמֶר",
+   "date": "2027-06-04",
+   "hdate": "28 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 43",
+   "hebrew": "עומר יום 43",
+   "link": "https://hebcal.com/o/5787/43?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁלוֹשָׁה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעֽוֹמֶר",
+     "en": "Today is 43 days, which are 6 weeks and 1 day of the Omer"
+    },
+    "sefira": {
+     "he": "חֶֽסֶד שֶׁבְּמַלְכוּת",
+     "translit": "Chesed sheb'Malkhut",
+     "en": "Lovingkindness within Majesty"
+    },
+    "anaBekoachWord": "שַׁוְעָתֵנוּ",
+    "lamnatzeachWord": "יְבָרְכֵנוּ",
+    "lamnatzeachLetter": "ת"
+   }
+  },
+  {
+   "title": "פָּרָשַׁת בְּמִדְבַּר",
+   "date": "2027-06-05",
+   "hdate": "29 Iyyar 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Bamidbar",
+   "hebrew": "פרשת במדבר",
+   "leyning": {
+    "1": "Numbers 1:1-1:19",
+    "2": "Numbers 1:20-1:54",
+    "3": "Numbers 2:1-2:34",
+    "4": "Numbers 3:1-3:13",
+    "5": "Numbers 3:14-3:39",
+    "6": "Numbers 3:40-3:51",
+    "7": "Numbers 4:1-4:20",
+    "torah": "Numbers 1:1-4:20",
+    "haftarah": "I Samuel 20:18-42 | Shabbat Machar Chodesh",
+    "maftir": "Numbers 4:17-4:20",
+    "triennial": {
+     "1": "Numbers 2:1-2:9",
+     "2": "Numbers 2:10-2:16",
+     "3": "Numbers 2:17-2:24",
+     "4": "Numbers 2:25-2:31",
+     "5": "Numbers 2:32-2:34",
+     "6": "Numbers 3:1-3:4",
+     "7": "Numbers 3:5-3:13",
+     "maftir": "Numbers 3:11-3:13"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/34?us=js&um=api"
+  },
+  {
+   "title": "מ״ד בָּעוֹמֶר",
+   "date": "2027-06-05",
+   "hdate": "29 Iyyar 5787",
+   "category": "omer",
+   "title_orig": "Omer 44",
+   "hebrew": "עומר יום 44",
+   "link": "https://hebcal.com/o/5787/44?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם אַרְבָּעָה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעֽוֹמֶר",
+     "en": "Today is 44 days, which are 6 weeks and 2 days of the Omer"
+    },
+    "sefira": {
+     "he": "גְּבוּרָה שֶׁבְּמַלְכוּת",
+     "translit": "Gevurah sheb'Malkhut",
+     "en": "Might within Majesty"
+    },
+    "anaBekoachWord": "קַבֵּל",
+    "lamnatzeachWord": "אֱלֹהִים",
+    "lamnatzeachLetter": "נ"
+   }
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ סִיוָן",
+   "date": "2027-06-05",
+   "hdate": "29 Iyyar 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Sivan",
+   "hebrew": "מברכים חודש סִיוָן",
+   "memo": "מוֹלָד הָלְּבָנָה סִיוָן יִהְיֶה בַּיּוֹם שִׁישִּׁי בשָׁבוּעַ, בְּשָׁעָה 15 בַּצׇּהֳרַיִים, ו-35 דַּקּוֹת ו-10 חֲלָקִים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ סִיוָן",
+   "date": "2027-06-06",
+   "hdate": "1 Sivan 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Sivan",
+   "hebrew": "ראש חודש סיון",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-sivan-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש סיוון בלוח העברי. סיוון הוא החודש ה-9 בשנה העברית האזרחית (ה-10 בשנים מעוברות) והחודש ה-3 בשנה העברית המקראית. יש בו 30 ימים והוא מקביל למאי או יוני בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "מ״ה בָּעוֹמֶר",
+   "date": "2027-06-06",
+   "hdate": "1 Sivan 5787",
+   "category": "omer",
+   "title_orig": "Omer 45",
+   "hebrew": "עומר יום 45",
+   "link": "https://hebcal.com/o/5787/45?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם חֲמִשָּׁה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 45 days, which are 6 weeks and 3 days of the Omer"
+    },
+    "sefira": {
+     "he": "תִּפְאֶֽרֶת שֶׁבְּמַלְכוּת",
+     "translit": "Tiferet sheb'Malkhut",
+     "en": "Beauty within Majesty"
+    },
+    "anaBekoachWord": "וּשְׁמַע",
+    "lamnatzeachWord": "וְיִירְאוּ",
+    "lamnatzeachLetter": "ח"
+   }
+  },
+  {
+   "title": "מ״ו בָּעוֹמֶר",
+   "date": "2027-06-07",
+   "hdate": "2 Sivan 5787",
+   "category": "omer",
+   "title_orig": "Omer 46",
+   "hebrew": "עומר יום 46",
+   "link": "https://hebcal.com/o/5787/46?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁשָּׁה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 46 days, which are 6 weeks and 4 days of the Omer"
+    },
+    "sefira": {
+     "he": "נֶּֽצַח שֶׁבְּמַלְכוּת",
+     "translit": "Netzach sheb'Malkhut",
+     "en": "Eternity within Majesty"
+    },
+    "anaBekoachWord": "צַעֲקָתֵנוּ",
+    "lamnatzeachWord": "אוֹתוֹ",
+    "lamnatzeachLetter": "ם"
+   }
+  },
+  {
+   "title": "מ״ז בָּעוֹמֶר",
+   "date": "2027-06-08",
+   "hdate": "3 Sivan 5787",
+   "category": "omer",
+   "title_orig": "Omer 47",
+   "hebrew": "עומר יום 47",
+   "link": "https://hebcal.com/o/5787/47?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שִׁבְעָה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וַחֲמִשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 47 days, which are 6 weeks and 5 days of the Omer"
+    },
+    "sefira": {
+     "he": "הוֹד שֶׁבְּמַלְכוּת",
+     "translit": "Hod sheb'Malkhut",
+     "en": "Splendor within Majesty"
+    },
+    "anaBekoachWord": "יוֹדֵעַ",
+    "lamnatzeachWord": "כָּל",
+    "lamnatzeachLetter": "ס"
+   }
+  },
+  {
+   "title": "מ״ח בָּעוֹמֶר",
+   "date": "2027-06-09",
+   "hdate": "4 Sivan 5787",
+   "category": "omer",
+   "title_orig": "Omer 48",
+   "hebrew": "עומר יום 48",
+   "link": "https://hebcal.com/o/5787/48?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם שְׁמוֹנָה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעֽוֹמֶר",
+     "en": "Today is 48 days, which are 6 weeks and 6 days of the Omer"
+    },
+    "sefira": {
+     "he": "יְּסוֹד שֶׁבְּמַלְכוּת",
+     "translit": "Yesod sheb'Malkhut",
+     "en": "Foundation within Majesty"
+    },
+    "anaBekoachWord": "תַּעֲלוּמוֹת",
+    "lamnatzeachWord": "אַפְסֵי",
+    "lamnatzeachLetter": "ל"
+   }
+  },
+  {
+   "title": "עֶרֶב שָׁבוּעוֹת",
+   "date": "2027-06-10",
+   "hdate": "5 Sivan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Shavuot",
+   "hebrew": "ערב שבועות",
+   "link": "https://hebcal.com/h/shavuot-2027?i=on&us=js&um=api",
+   "memo": "חג השבועות. מציין את מתן תורה בהר סיני"
+  },
+  {
+   "title": "מ״ט בָּעוֹמֶר",
+   "date": "2027-06-10",
+   "hdate": "5 Sivan 5787",
+   "category": "omer",
+   "title_orig": "Omer 49",
+   "hebrew": "עומר יום 49",
+   "link": "https://hebcal.com/o/5787/49?i=on&us=js&um=api",
+   "omer": {
+    "count": {
+     "he": "הַיּוֹם תִּשְׁעָה וְאַרְבָּעִים יוֹם, שֶׁהֵם שִׁבְעָה שָׁבוּעוֹת לָעֽוֹמֶר",
+     "en": "Today is 49 days, which are 7 weeks of the Omer"
+    },
+    "sefira": {
+     "he": "מַלְכוּת שֶׁבְּמַלְכוּת",
+     "translit": "Malkhut sheb'Malkhut",
+     "en": "Majesty within Majesty"
+    },
+    "anaBekoachWord": "שק״ו צי״ת",
+    "lamnatzeachWord": "אָרֶץ",
+    "lamnatzeachLetter": "ה"
+   }
+  },
+  {
+   "title": "שָׁבוּעוֹת",
+   "date": "2027-06-11",
+   "hdate": "6 Sivan 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "yomtov": true,
+   "title_orig": "Shavuot",
+   "hebrew": "שבועות",
+   "leyning": {
+    "1": "Exodus 19:1-19:6",
+    "2": "Exodus 19:7-19:13",
+    "3": "Exodus 19:14-19:19",
+    "4": "Exodus 19:20-20:14",
+    "5": "Exodus 20:15-20:23",
+    "torah": "Exodus 19:1-20:23; Numbers 28:26-31; Ruth 1:1-4:22",
+    "haftarah": "Ezekiel 1:1-28, 3:12",
+    "maftir": "Numbers 28:26-28:31"
+   },
+   "link": "https://hebcal.com/h/shavuot-2027?i=on&us=js&um=api",
+   "memo": "חג השבועות. מציין את מתן תורה בהר סיני"
+  },
+  {
+   "title": "פָּרָשַׁת נָשׂא",
+   "date": "2027-06-12",
+   "hdate": "7 Sivan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Nasso",
+   "hebrew": "פרשת נשא",
+   "leyning": {
+    "1": "Numbers 4:21-4:37",
+    "2": "Numbers 4:38-4:49",
+    "3": "Numbers 5:1-5:10",
+    "4": "Numbers 5:11-6:27",
+    "5": "Numbers 7:1-7:41",
+    "6": "Numbers 7:42-7:71",
+    "7": "Numbers 7:72-7:89",
+    "torah": "Numbers 4:21-7:89",
+    "haftarah": "Judges 13:2-25",
+    "maftir": "Numbers 7:87-7:89",
+    "triennial": {
+     "1": "Numbers 5:11-5:15",
+     "2": "Numbers 5:16-5:26",
+     "3": "Numbers 5:27-6:4",
+     "4": "Numbers 6:5-6:8",
+     "5": "Numbers 6:9-6:15",
+     "6": "Numbers 6:16-6:21",
+     "7": "Numbers 6:22-6:27",
+     "maftir": "Numbers 6:22-6:27"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/35?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת בְּהַעֲלֹתְךָ",
+   "date": "2027-06-19",
+   "hdate": "14 Sivan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Beha'alotcha",
+   "hebrew": "פרשת בהעלתך",
+   "leyning": {
+    "1": "Numbers 8:1-8:14",
+    "2": "Numbers 8:15-8:26",
+    "3": "Numbers 9:1-9:14",
+    "4": "Numbers 9:15-10:10",
+    "5": "Numbers 10:11-10:34",
+    "6": "Numbers 10:35-11:29",
+    "7": "Numbers 11:30-12:16",
+    "torah": "Numbers 8:1-12:16",
+    "haftarah": "Zechariah 2:14-4:7",
+    "maftir": "Numbers 12:14-12:16",
+    "triennial": {
+     "1": "Numbers 9:15-9:18",
+     "2": "Numbers 9:19-9:23",
+     "3": "Numbers 10:1-10:7",
+     "4": "Numbers 10:8-10:10",
+     "5": "Numbers 10:11-10:20",
+     "6": "Numbers 10:21-10:28",
+     "7": "Numbers 10:29-10:34",
+     "maftir": "Numbers 10:32-10:34"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/36?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת שְׁלַח־לְךָ",
+   "date": "2027-06-26",
+   "hdate": "21 Sivan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Sh'lach",
+   "hebrew": "פרשת שלח־לך",
+   "leyning": {
+    "1": "Numbers 13:1-13:20",
+    "2": "Numbers 13:21-14:7",
+    "3": "Numbers 14:8-14:25",
+    "4": "Numbers 14:26-15:7",
+    "5": "Numbers 15:8-15:16",
+    "6": "Numbers 15:17-15:26",
+    "7": "Numbers 15:27-15:41",
+    "torah": "Numbers 13:1-15:41",
+    "haftarah": "Joshua 2:1-24",
+    "maftir": "Numbers 15:37-15:41",
+    "triennial": {
+     "1": "Numbers 14:8-14:10",
+     "2": "Numbers 14:11-14:20",
+     "3": "Numbers 14:21-14:25",
+     "4": "Numbers 14:26-14:38",
+     "5": "Numbers 14:39-14:42",
+     "6": "Numbers 14:43-15:3",
+     "7": "Numbers 15:4-15:7",
+     "maftir": "Numbers 15:4-15:7"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/37?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת קֹרַח",
+   "date": "2027-07-03",
+   "hdate": "28 Sivan 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Korach",
+   "hebrew": "פרשת קורח",
+   "leyning": {
+    "1": "Numbers 16:1-16:13",
+    "2": "Numbers 16:14-16:19",
+    "3": "Numbers 16:20-17:8",
+    "4": "Numbers 17:9-17:15",
+    "5": "Numbers 17:16-17:24",
+    "6": "Numbers 17:25-18:20",
+    "7": "Numbers 18:21-18:32",
+    "torah": "Numbers 16:1-18:32",
+    "haftarah": "I Samuel 11:14-12:22",
+    "maftir": "Numbers 18:30-18:32",
+    "triennial": {
+     "1": "Numbers 16:20-16:27",
+     "2": "Numbers 16:28-16:35",
+     "3": "Numbers 17:1-17:5",
+     "4": "Numbers 17:6-17:8",
+     "5": "Numbers 17:9-17:15",
+     "6": "Numbers 17:16-17:20",
+     "7": "Numbers 17:21-17:24",
+     "maftir": "Numbers 17:21-17:24"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/38?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ תַּמּוּז",
+   "date": "2027-07-03",
+   "hdate": "28 Sivan 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Tamuz",
+   "hebrew": "מברכים חודש תַּמּוּז",
+   "memo": "מוֹלָד הָלְּבָנָה תַּמּוּז יִהְיֶה בַּיּוֹם רִאשׁוֹן בשָׁבוּעַ, בְּשָׁעָה 4 בַּלַּ֥יְלָה, ו-19 דַּקּוֹת ו-11 חֲלָקִים"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ תַּמּוּז",
+   "date": "2027-07-05",
+   "hdate": "30 Sivan 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-tamuz-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש תמוז בלוח העברי. תמוז הוא החודש ה-10 בשנה העברית האזרחית (ה-11 בשנים מעוברות) והחודש ה-4 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל ליוני או יולי בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ תַּמּוּז",
+   "date": "2027-07-06",
+   "hdate": "1 Tamuz 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-tamuz-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש תמוז בלוח העברי. תמוז הוא החודש ה-10 בשנה העברית האזרחית (ה-11 בשנים מעוברות) והחודש ה-4 בשנה העברית המקראית. יש בו 29 ימים והוא מקביל ליוני או יולי בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "פָּרָשַׁת חֻקַּת",
+   "date": "2027-07-10",
+   "hdate": "5 Tamuz 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Chukat",
+   "hebrew": "פרשת חוקת",
+   "leyning": {
+    "1": "Numbers 19:1-19:17",
+    "2": "Numbers 19:18-20:6",
+    "3": "Numbers 20:7-20:13",
+    "4": "Numbers 20:14-20:21",
+    "5": "Numbers 20:22-21:9",
+    "6": "Numbers 21:10-21:20",
+    "7": "Numbers 21:21-22:1",
+    "torah": "Numbers 19:1-22:1",
+    "haftarah": "Judges 11:1-33",
+    "maftir": "Numbers 21:34-22:1",
+    "triennial": {
+     "1": "Numbers 20:1-20:6",
+     "2": "Numbers 20:7-20:13",
+     "3": "Numbers 20:14-20:17",
+     "4": "Numbers 20:18-20:21",
+     "5": "Numbers 20:22-21:3",
+     "6": "Numbers 21:4-21:7",
+     "7": "Numbers 21:8-21:10",
+     "maftir": "Numbers 21:8-21:10"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/39?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת בָּלָק",
+   "date": "2027-07-17",
+   "hdate": "12 Tamuz 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Balak",
+   "hebrew": "פרשת בלק",
+   "leyning": {
+    "1": "Numbers 22:2-22:12",
+    "2": "Numbers 22:13-22:20",
+    "3": "Numbers 22:21-22:38",
+    "4": "Numbers 22:39-23:12",
+    "5": "Numbers 23:13-23:26",
+    "6": "Numbers 23:27-24:13",
+    "7": "Numbers 24:14-25:9",
+    "torah": "Numbers 22:2-25:9",
+    "haftarah": "Micah 5:6-6:8",
+    "maftir": "Numbers 25:7-25:9",
+    "triennial": {
+     "1": "Numbers 22:39-22:41",
+     "2": "Numbers 23:1-23:3",
+     "3": "Numbers 23:4-23:6",
+     "4": "Numbers 23:7-23:12",
+     "5": "Numbers 23:13-23:15",
+     "6": "Numbers 23:16-23:18",
+     "7": "Numbers 23:19-23:26",
+     "maftir": "Numbers 23:19-23:26"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/40?us=js&um=api"
+  },
+  {
+   "title": "צוֹם י״ז בְּתַמּוּז",
+   "date": "2027-07-22",
+   "hdate": "17 Tamuz 5787",
+   "category": "holiday",
+   "subcat": "fast",
+   "title_orig": "Tzom Tammuz",
+   "hebrew": "צום י״ז בתמוז",
+   "leyning": {
+    "1": "Exodus 32:11-32:14",
+    "2": "Exodus 34:1-34:3",
+    "3": "Exodus 34:4-34:10",
+    "torah": "Exodus 32:11-14, 34:1-10"
+   },
+   "link": "https://hebcal.com/h/tzom-tammuz-2027?i=on&us=js&um=api",
+   "memo": "צום י״ז בתמוז. צום המציין את הבקעת חומות ירושלים לפני חורבן בית המקדש השני"
+  },
+  {
+   "title": "פָּרָשַׁת פִּינְחָס",
+   "date": "2027-07-24",
+   "hdate": "19 Tamuz 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Pinchas",
+   "hebrew": "פרשת פינחס",
+   "leyning": {
+    "1": "Numbers 25:10-26:4",
+    "2": "Numbers 26:5-26:51",
+    "3": "Numbers 26:52-27:5",
+    "4": "Numbers 27:6-27:23",
+    "5": "Numbers 28:1-28:15",
+    "6": "Numbers 28:16-29:11",
+    "7": "Numbers 29:12-30:1",
+    "torah": "Numbers 25:10-30:1",
+    "haftarah": "Jeremiah 1:1-2:3 | Pinchas occurring after 17 Tammuz",
+    "maftir": "Numbers 29:35-30:1",
+    "triennial": {
+     "1": "Numbers 26:52-26:56",
+     "2": "Numbers 26:57-26:62",
+     "3": "Numbers 26:63-27:5",
+     "4": "Numbers 27:6-27:14",
+     "5": "Numbers 27:15-27:23",
+     "6": "Numbers 28:1-28:10",
+     "7": "Numbers 28:11-28:15",
+     "maftir": "Numbers 28:11-28:15"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/41?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת מַטּוֹת־מַסְעֵי",
+   "date": "2027-07-31",
+   "hdate": "26 Tamuz 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Matot-Masei",
+   "hebrew": "פרשת מטות־מסעי",
+   "leyning": {
+    "1": "Numbers 30:2-31:12",
+    "2": "Numbers 31:13-31:54",
+    "3": "Numbers 32:1-32:19",
+    "4": "Numbers 32:20-33:49",
+    "5": "Numbers 33:50-34:15",
+    "6": "Numbers 34:16-35:8",
+    "7": "Numbers 35:9-36:13",
+    "torah": "Numbers 30:2-36:13",
+    "haftarah": "Jeremiah 2:4-28, 3:4",
+    "haftarah_sephardic": "Jeremiah 2:4-28, 4:1-2",
+    "maftir": "Numbers 36:11-36:13",
+    "triennial": {
+     "1": "Numbers 32:1-32:4",
+     "2": "Numbers 32:5-32:19",
+     "3": "Numbers 32:20-32:27",
+     "4": "Numbers 32:28-32:42",
+     "5": "Numbers 33:1-33:6",
+     "6": "Numbers 33:7-33:36",
+     "7": "Numbers 33:37-33:49",
+     "maftir": "Numbers 33:47-33:49"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/42d?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ אָב",
+   "date": "2027-07-31",
+   "hdate": "26 Tamuz 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Av",
+   "hebrew": "מברכים חודש אָב",
+   "memo": "מוֹלָד הָלְּבָנָה אָב יִהְיֶה בַּיּוֹם שֵׁנִי בשָׁבוּעַ, בְּשָׁעָה 17 בָּעֶרֶב, ו-3 דַּקּוֹת ו-12 חֲלָקִים"
+  },
+  {
+   "title": "יוֹם זַ׳בּוֹטִינְסְקִי",
+   "date": "2027-08-03",
+   "hdate": "29 Tamuz 5787",
+   "category": "holiday",
+   "subcat": "modern",
+   "title_orig": "Jabotinsky Day",
+   "hebrew": "יום ז׳בוטינסקי",
+   "link": "https://hebcal.com/h/jabotinsky-day-2027?i=on&us=js&um=api",
+   "memo": "יום המציין את חייו וחזונו של המנהיג הציוני זאב ז'בוטינסקי"
+  },
+  {
+   "title": "רֹאשׁ חוֹדֶשׁ אָב",
+   "date": "2027-08-04",
+   "hdate": "1 Av 5787",
+   "category": "roshchodesh",
+   "title_orig": "Rosh Chodesh Av",
+   "hebrew": "ראש חודש אב",
+   "leyning": {
+    "1": "Numbers 28:1-28:3",
+    "2": "Numbers 28:3-28:5",
+    "3": "Numbers 28:6-28:10",
+    "4": "Numbers 28:11-28:15",
+    "torah": "Numbers 28:1-15"
+   },
+   "link": "https://hebcal.com/h/rosh-chodesh-av-2027?i=on&us=js&um=api",
+   "memo": "תחילת חודש אב בלוח העברי. אב הוא החודש ה-11 בשנה העברית האזרחית (ה-12 בשנים מעוברות) והחודש ה-5 בשנה העברית המקראית. יש בו 30 ימים והוא מקביל ליולי או אוגוסט בלוח הגרגוריאני. ראש חודש הוא מועד המצוין בתחילת כל חודש בלוח העברי ומסומן על ידי מולד הלבנה"
+  },
+  {
+   "title": "שַׁבַּת חֲזוֹן",
+   "date": "2027-08-07",
+   "hdate": "4 Av 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Chazon",
+   "hebrew": "שבת חזון",
+   "link": "https://hebcal.com/h/shabbat-chazon-2027?i=on&us=js&um=api",
+   "memo": "שבת חזון (שבת הנבואה). השבת שלפני תשעה באב"
+  },
+  {
+   "title": "פָּרָשַׁת דְּבָרִים",
+   "date": "2027-08-07",
+   "hdate": "4 Av 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Devarim",
+   "hebrew": "פרשת דברים",
+   "leyning": {
+    "1": "Deuteronomy 1:1-1:10",
+    "2": "Deuteronomy 1:11-1:21",
+    "3": "Deuteronomy 1:22-1:38",
+    "4": "Deuteronomy 1:39-2:1",
+    "5": "Deuteronomy 2:2-2:30",
+    "6": "Deuteronomy 2:31-3:14",
+    "7": "Deuteronomy 3:15-3:22",
+    "torah": "Deuteronomy 1:1-3:22",
+    "haftarah": "Isaiah 1:1-27",
+    "maftir": "Deuteronomy 3:20-3:22",
+    "triennial": {
+     "1": "Deuteronomy 2:2-2:5",
+     "2": "Deuteronomy 2:6-2:12",
+     "3": "Deuteronomy 2:13-2:16",
+     "4": "Deuteronomy 2:17-2:19",
+     "5": "Deuteronomy 2:20-2:22",
+     "6": "Deuteronomy 2:23-2:25",
+     "7": "Deuteronomy 2:26-2:30",
+     "maftir": "Deuteronomy 2:28-2:30"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/44?us=js&um=api"
+  },
+  {
+   "title": "עֶרֶב תִּשְׁעָה בְּאָב",
+   "date": "2027-08-11",
+   "hdate": "8 Av 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Erev Tish'a B'Av",
+   "hebrew": "ערב תשעה באב",
+   "leyning": {
+    "torah": "Lamentations 1:1-5:22"
+   },
+   "link": "https://hebcal.com/h/tisha-bav-2027?i=on&us=js&um=api",
+   "memo": "תשעה באב. צום המציין את חורבן שני בתי המקדש"
+  },
+  {
+   "title": "תִּשְׁעָה בְּאָב",
+   "date": "2027-08-12",
+   "hdate": "9 Av 5787",
+   "category": "holiday",
+   "subcat": "major",
+   "title_orig": "Tish'a B'Av",
+   "hebrew": "תשעה באב",
+   "leyning": {
+    "1": "Deuteronomy 4:25-4:29",
+    "2": "Deuteronomy 4:30-4:35",
+    "3": "Deuteronomy 4:36-4:40",
+    "torah": "Deuteronomy 4:25-40; Lamentations 1:1-5:22",
+    "haftarah": "Jeremiah 8:13-9:23"
+   },
+   "link": "https://hebcal.com/h/tisha-bav-2027?i=on&us=js&um=api",
+   "memo": "תשעה באב. צום המציין את חורבן שני בתי המקדש"
+  },
+  {
+   "title": "שַׁבַּת נַחֲמוּ",
+   "date": "2027-08-14",
+   "hdate": "11 Av 5787",
+   "category": "holiday",
+   "subcat": "shabbat",
+   "title_orig": "Shabbat Nachamu",
+   "hebrew": "שבת נחמו",
+   "link": "https://hebcal.com/h/shabbat-nachamu-2027?i=on&us=js&um=api",
+   "memo": "שבת נחמו. השבת שלאחר תשעה באב (שבת של נחמה). הראשונה מבין שבע שבתות המובילות לראש השנה. נקראת על שם ההפטרה (ישעיהו מ') הפותחת בפסוק “נַחֲמוּ נַחֲמוּ, עַמִּי”"
+  },
+  {
+   "title": "פָּרָשַׁת וָאֶתְחַנַּן",
+   "date": "2027-08-14",
+   "hdate": "11 Av 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Vaetchanan",
+   "hebrew": "פרשת ואתחנן",
+   "leyning": {
+    "1": "Deuteronomy 3:23-4:4",
+    "2": "Deuteronomy 4:5-4:40",
+    "3": "Deuteronomy 4:41-4:49",
+    "4": "Deuteronomy 5:1-5:18",
+    "5": "Deuteronomy 5:19-6:3",
+    "6": "Deuteronomy 6:4-6:25",
+    "7": "Deuteronomy 7:1-7:11",
+    "torah": "Deuteronomy 3:23-7:11",
+    "haftarah": "Isaiah 40:1-26",
+    "maftir": "Deuteronomy 7:9-7:11",
+    "triennial": {
+     "1": "Deuteronomy 5:1-5:18",
+     "2": "Deuteronomy 5:19-5:24",
+     "3": "Deuteronomy 5:25-5:30",
+     "4": "Deuteronomy 6:1-6:3",
+     "5": "Deuteronomy 6:4-6:9",
+     "6": "Deuteronomy 6:10-6:19",
+     "7": "Deuteronomy 6:20-6:25",
+     "maftir": "Deuteronomy 6:23-6:25"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/45?us=js&um=api"
+  },
+  {
+   "title": "ט״וּ בְּאָב",
+   "date": "2027-08-18",
+   "hdate": "15 Av 5787",
+   "category": "holiday",
+   "subcat": "minor",
+   "title_orig": "Tu B'Av",
+   "hebrew": "ט״ו באב",
+   "link": "https://hebcal.com/h/tu-bav-2027?i=on&us=js&um=api",
+   "memo": "ט״ו באב, חג האהבה היהודי. מצוין בט״ו בחודש אב העברי"
+  },
+  {
+   "title": "פָּרָשַׁת עֵקֶב",
+   "date": "2027-08-21",
+   "hdate": "18 Av 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Eikev",
+   "hebrew": "פרשת עקב",
+   "leyning": {
+    "1": "Deuteronomy 7:12-8:10",
+    "2": "Deuteronomy 8:11-9:3",
+    "3": "Deuteronomy 9:4-9:29",
+    "4": "Deuteronomy 10:1-10:11",
+    "5": "Deuteronomy 10:12-11:9",
+    "6": "Deuteronomy 11:10-11:21",
+    "7": "Deuteronomy 11:22-11:25",
+    "torah": "Deuteronomy 7:12-11:25",
+    "haftarah": "Isaiah 49:14-51:3",
+    "maftir": "Deuteronomy 11:22-11:25",
+    "triennial": {
+     "1": "Deuteronomy 9:4-9:10",
+     "2": "Deuteronomy 9:11-9:14",
+     "3": "Deuteronomy 9:15-9:21",
+     "4": "Deuteronomy 9:22-9:29",
+     "5": "Deuteronomy 10:1-10:5",
+     "6": "Deuteronomy 10:6-10:8",
+     "7": "Deuteronomy 10:9-10:11",
+     "maftir": "Deuteronomy 10:9-10:11"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/46?us=js&um=api"
+  },
+  {
+   "title": "פָּרָשַׁת רְאֵה",
+   "date": "2027-08-28",
+   "hdate": "25 Av 5787",
+   "category": "parashat",
+   "title_orig": "Parashat Re'eh",
+   "hebrew": "פרשת ראה",
+   "leyning": {
+    "1": "Deuteronomy 11:26-12:10",
+    "2": "Deuteronomy 12:11-12:28",
+    "3": "Deuteronomy 12:29-13:19",
+    "4": "Deuteronomy 14:1-14:21",
+    "5": "Deuteronomy 14:22-14:29",
+    "6": "Deuteronomy 15:1-15:18",
+    "7": "Deuteronomy 15:19-16:17",
+    "torah": "Deuteronomy 11:26-16:17",
+    "haftarah": "Isaiah 54:11-55:5",
+    "maftir": "Deuteronomy 16:13-16:17",
+    "triennial": {
+     "1": "Deuteronomy 12:29-13:1",
+     "2": "Deuteronomy 13:2-13:6",
+     "3": "Deuteronomy 13:7-13:12",
+     "4": "Deuteronomy 13:13-13:19",
+     "5": "Deuteronomy 14:1-14:8",
+     "6": "Deuteronomy 14:9-14:21",
+     "7": "Deuteronomy 14:22-14:29",
+     "maftir": "Deuteronomy 14:22-14:29"
+    }
+   },
+   "link": "https://hebcal.com/s/5787i/47?us=js&um=api"
+  },
+  {
+   "title": "מְבָרְכִים חוֹדֶשׁ אֱלוּל",
+   "date": "2027-08-28",
+   "hdate": "25 Av 5787",
+   "category": "mevarchim",
+   "title_orig": "Shabbat Mevarchim Chodesh Elul",
+   "hebrew": "מברכים חודש אֱלוּל",
+   "memo": "מוֹלָד הָלְּבָנָה אֱלוּל יִהְיֶה בַּיּוֹם רְבִיעִי בשָׁבוּעַ, בְּשָׁעָה 5 בַּבֹּקֶר, ו-47 דַּקּוֹת ו-13 חֲלָקִים"
+  }
+ ]
+}

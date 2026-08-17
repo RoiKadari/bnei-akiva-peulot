@@ -1,0 +1,19 @@
+{
+ "gy": 2027,
+ "gm": 7,
+ "gd": 6,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Tamuz",
+ "hd": 1,
+ "hebrew": "א׳ בְּתַמּוּז תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "תמוז",
+  "d": "א׳"
+ },
+ "events": [
+  "Rosh Chodesh Tamuz",
+  "Parashat Korach"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "gy": 2027,
+ "gm": 3,
+ "gd": 30,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Adar II",
+ "hd": 21,
+ "hebrew": "כ״א בַּאֲדָר ב׳ תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אדר ב׳",
+  "d": "כ״א"
+ },
+ "events": [
+  "Parashat Shmini"
+ ]
+}

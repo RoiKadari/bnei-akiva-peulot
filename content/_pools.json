@@ -1,0 +1,541 @@
+{
+ "generated_at": "2026-08-16",
+ "slices": [
+  {
+   "id": "S1",
+   "weeks": [
+    1,
+    13
+   ],
+   "pool": "P1",
+   "game_ids": [
+    "g-mov-07",
+    "g-mov-08",
+    "g-sim-20",
+    "g-coop-04",
+    "g-coop-07",
+    "g-sim-11",
+    "g-mov-13",
+    "g-mov-10",
+    "g-ice-08",
+    "g-quiet-05",
+    "g-quiet-24",
+    "g-coop-12",
+    "g-sim-13",
+    "g-ice-02",
+    "g-quiet-23",
+    "g-sim-17",
+    "g-think-07",
+    "g-coop-01",
+    "g-ice-06",
+    "g-quiet-06",
+    "g-think-12",
+    "g-quiet-25",
+    "g-think-18",
+    "g-quiet-21",
+    "g-coop-15",
+    "g-ice-11",
+    "g-think-13",
+    "g-ice-12",
+    "g-mov-23",
+    "g-mov-12",
+    "g-coop-21",
+    "g-ice-09",
+    "g-quiet-12",
+    "g-think-15",
+    "g-sim-02",
+    "g-coop-09",
+    "g-quiet-09",
+    "g-coop-16",
+    "g-mov-25",
+    "g-ice-15",
+    "g-sim-18",
+    "g-mov-01",
+    "g-mov-20",
+    "g-sim-22",
+    "g-quiet-13",
+    "g-ice-16",
+    "g-sim-23"
+   ],
+   "slots": [
+    {
+     "week": 1,
+     "day": "shabbat",
+     "date": "2026-09-05",
+     "topic": "חודש שלם של הזדמנות",
+     "theme": "נפתחת שנה"
+    },
+    {
+     "week": 2,
+     "day": "tuesday",
+     "date": "2026-09-08",
+     "topic": "היום שהכול נמדד בו מחדש",
+     "theme": "לקראת ראש השנה"
+    },
+    {
+     "week": 3,
+     "day": "tuesday",
+     "date": "2026-09-15",
+     "topic": "לתקן דבר אחד קטן",
+     "theme": "עשרת ימי תשובה"
+    },
+    {
+     "week": 3,
+     "day": "shabbat",
+     "date": "2026-09-19",
+     "topic": "סליחה שאפשר להגיד בקול",
+     "theme": "עשרת ימי תשובה"
+    },
+    {
+     "week": 4,
+     "day": "tuesday",
+     "date": "2026-09-22",
+     "topic": "מה מחזיק את הסוכה",
+     "theme": "בונים סוכה, בונים שבט"
+    },
+    {
+     "week": 5,
+     "day": "tuesday",
+     "date": "2026-09-29",
+     "topic": "מי מוזמן אליי",
+     "theme": "אורחים בסוכה"
+    },
+    {
+     "week": 7,
+     "day": "shabbat",
+     "date": "2026-10-17",
+     "topic": "לבנות כשלא רואים תוצאה",
+     "theme": "כוח של מילה"
+    },
+    {
+     "week": 8,
+     "day": "tuesday",
+     "date": "2026-10-20",
+     "topic": "אפשר לא להסכים ולהישאר ביחד",
+     "theme": "בין ויכוח למנהיגות"
+    },
+    {
+     "week": 10,
+     "day": "shabbat",
+     "date": "2026-11-07",
+     "topic": "שתי משפחות, מנהג אחד",
+     "theme": "געגוע שמחזיק דורות"
+    },
+    {
+     "week": 13,
+     "day": "shabbat",
+     "date": "2026-11-28",
+     "topic": "כשמעטים לא נכנעים",
+     "theme": "רגע לפני שמדליקים"
+    }
+   ]
+  },
+  {
+   "id": "S2",
+   "weeks": [
+    14,
+    26
+   ],
+   "pool": "P2",
+   "game_ids": [
+    "g-mov-16",
+    "g-mov-17",
+    "g-think-25",
+    "g-coop-05",
+    "g-coop-24",
+    "g-sim-19",
+    "g-coop-11",
+    "g-mov-19",
+    "g-quiet-01",
+    "g-quiet-11",
+    "g-sim-06",
+    "g-ice-17",
+    "g-sim-25",
+    "g-ice-03",
+    "g-think-04",
+    "g-think-05",
+    "g-mov-05",
+    "g-coop-02",
+    "g-quiet-04",
+    "g-quiet-15",
+    "g-coop-18",
+    "g-sim-14",
+    "g-ice-14",
+    "g-think-10",
+    "g-coop-22",
+    "g-mov-06",
+    "g-think-14",
+    "g-mov-09",
+    "g-quiet-10",
+    "g-mov-21",
+    "g-sim-03",
+    "g-ice-19",
+    "g-quiet-19",
+    "g-think-16",
+    "g-sim-24",
+    "g-coop-10",
+    "g-quiet-20",
+    "g-coop-17",
+    "g-sim-10",
+    "g-quiet-03",
+    "g-sim-21",
+    "g-mov-02",
+    "g-coop-25",
+    "g-think-24",
+    "g-think-01",
+    "g-sim-05",
+    "g-think-23"
+   ],
+   "slots": [
+    {
+     "week": 14,
+     "day": "tuesday",
+     "date": "2026-12-01",
+     "topic": "מספיק אור אחד",
+     "theme": "נרות בחלון"
+    },
+    {
+     "week": 14,
+     "day": "shabbat",
+     "date": "2026-12-05",
+     "topic": "השמחה שמדליקה אחרים",
+     "theme": "נרות בחלון"
+    },
+    {
+     "week": 15,
+     "day": "tuesday",
+     "date": "2026-12-08",
+     "topic": "כל יום עוד מעשה",
+     "theme": "עוד נר, עוד קצת"
+    },
+    {
+     "week": 15,
+     "day": "shabbat",
+     "date": "2026-12-12",
+     "topic": "כל הנרות ביחד",
+     "theme": "עוד נר, עוד קצת"
+    },
+    {
+     "week": 18,
+     "day": "shabbat",
+     "date": "2027-01-02",
+     "topic": "כבוד שלא מבקשים",
+     "theme": "שפה שלנו"
+    },
+    {
+     "week": 20,
+     "day": "tuesday",
+     "date": "2027-01-12",
+     "topic": "לנסות שוב אחרי שנפלתי",
+     "theme": "כשמשהו לא הולך"
+    },
+    {
+     "week": 21,
+     "day": "shabbat",
+     "date": "2027-01-23",
+     "topic": "פירות של ארץ",
+     "theme": "ט״ו בשבט"
+    },
+    {
+     "week": 23,
+     "day": "tuesday",
+     "date": "2027-02-02",
+     "topic": "תודה למי שתמיד שם",
+     "theme": "מי שקרוב אליי"
+    },
+    {
+     "week": 26,
+     "day": "tuesday",
+     "date": "2027-02-23",
+     "topic": "שאלה טובה יותר מתשובה",
+     "theme": "שאלות וסיפורים"
+    },
+    {
+     "week": 26,
+     "day": "shabbat",
+     "date": "2027-02-27",
+     "topic": "מדור לדור",
+     "theme": "שאלות וסיפורים"
+    }
+   ]
+  },
+  {
+   "id": "S3",
+   "weeks": [
+    27,
+    39
+   ],
+   "pool": "P3",
+   "game_ids": [
+    "g-ice-18",
+    "g-sim-08",
+    "g-coop-03",
+    "g-coop-06",
+    "g-sim-01",
+    "g-mov-04",
+    "g-coop-13",
+    "g-mov-24",
+    "g-quiet-22",
+    "g-quiet-18",
+    "g-think-21",
+    "g-sim-04",
+    "g-think-22",
+    "g-quiet-08",
+    "g-quiet-17",
+    "g-think-06",
+    "g-mov-14",
+    "g-ice-01",
+    "g-ice-05",
+    "g-think-11",
+    "g-coop-19",
+    "g-sim-15",
+    "g-quiet-07",
+    "g-coop-14",
+    "g-coop-23",
+    "g-mov-22",
+    "g-ice-07",
+    "g-mov-18",
+    "g-mov-03",
+    "g-coop-20",
+    "g-sim-09",
+    "g-quiet-02",
+    "g-quiet-16",
+    "g-think-17",
+    "g-coop-08",
+    "g-ice-13",
+    "g-think-20",
+    "g-ice-04",
+    "g-sim-12",
+    "g-quiet-14",
+    "g-think-19",
+    "g-mov-11",
+    "g-sim-07",
+    "g-ice-10",
+    "g-think-02",
+    "g-sim-16"
+   ],
+   "slots": [
+    {
+     "week": 29,
+     "day": "tuesday",
+     "date": "2027-03-16",
+     "topic": "מי שלא נשאר אדיש",
+     "theme": "שבת זכור, לקראת פורים"
+    },
+    {
+     "week": 29,
+     "day": "shabbat",
+     "date": "2027-03-20",
+     "topic": "למי אני נותן",
+     "theme": "שבת זכור, לקראת פורים"
+    },
+    {
+     "week": 30,
+     "day": "tuesday",
+     "date": "2027-03-23",
+     "topic": "שמחה שמחברת",
+     "theme": "פורים"
+    },
+    {
+     "week": 33,
+     "day": "shabbat",
+     "date": "2027-04-17",
+     "topic": "לספר את הסיפור שלנו",
+     "theme": "שבת הגדול ויום העלייה"
+    },
+    {
+     "week": 34,
+     "day": "tuesday",
+     "date": "2027-04-20",
+     "topic": "מי שואל ומי שותק",
+     "theme": "פסח"
+    },
+    {
+     "week": 34,
+     "day": "shabbat",
+     "date": "2027-04-24",
+     "topic": "מה זה חופש בשבילי",
+     "theme": "פסח"
+    },
+    {
+     "week": 35,
+     "day": "tuesday",
+     "date": "2027-04-27",
+     "topic": "מסע שלא נגמר בלילה אחד",
+     "theme": "מהמסע אל הזיכרון"
+    },
+    {
+     "week": 35,
+     "day": "shabbat",
+     "date": "2027-05-01",
+     "topic": "אדם אחד ששינה גורל",
+     "theme": "מהמסע אל הזיכרון"
+    },
+    {
+     "week": 36,
+     "day": "tuesday",
+     "date": "2027-05-04",
+     "topic": "שם, פנים, סיפור",
+     "theme": "זיכרון והודיה"
+    },
+    {
+     "week": 36,
+     "day": "shabbat",
+     "date": "2027-05-08",
+     "topic": "ארץ שנבנתה בידיים",
+     "theme": "זיכרון והודיה"
+    },
+    {
+     "week": 37,
+     "day": "tuesday",
+     "date": "2027-05-11",
+     "topic": "מי שלא חזר",
+     "theme": "בין זיכרון לעצמאות"
+    },
+    {
+     "week": 37,
+     "day": "shabbat",
+     "date": "2027-05-15",
+     "topic": "מי שחלם את המדינה",
+     "theme": "בין זיכרון לעצמאות"
+    },
+    {
+     "week": 39,
+     "day": "tuesday",
+     "date": "2027-05-25",
+     "topic": "אש שמחממת ולא שורפת",
+     "theme": "ל״ג בעומר"
+    }
+   ]
+  },
+  {
+   "id": "S4",
+   "weeks": [
+    40,
+    53
+   ],
+   "pool": "P1",
+   "game_ids": [
+    "g-mov-07",
+    "g-mov-08",
+    "g-sim-20",
+    "g-coop-04",
+    "g-coop-07",
+    "g-sim-11",
+    "g-mov-13",
+    "g-mov-10",
+    "g-ice-08",
+    "g-quiet-05",
+    "g-quiet-24",
+    "g-coop-12",
+    "g-sim-13",
+    "g-ice-02",
+    "g-quiet-23",
+    "g-sim-17",
+    "g-think-07",
+    "g-coop-01",
+    "g-ice-06",
+    "g-quiet-06",
+    "g-think-12",
+    "g-quiet-25",
+    "g-think-18",
+    "g-quiet-21",
+    "g-coop-15",
+    "g-ice-11",
+    "g-think-13",
+    "g-ice-12",
+    "g-mov-23",
+    "g-mov-12",
+    "g-coop-21",
+    "g-ice-09",
+    "g-quiet-12",
+    "g-think-15",
+    "g-sim-02",
+    "g-coop-09",
+    "g-quiet-09",
+    "g-coop-16",
+    "g-mov-25",
+    "g-ice-15",
+    "g-sim-18",
+    "g-mov-01",
+    "g-mov-20",
+    "g-sim-22",
+    "g-quiet-13",
+    "g-ice-16",
+    "g-sim-23"
+   ],
+   "slots": [
+    {
+     "week": 40,
+     "day": "tuesday",
+     "date": "2027-06-01",
+     "topic": "עיר שכולם פונים אליה",
+     "theme": "יום ירושלים"
+    },
+    {
+     "week": 40,
+     "day": "shabbat",
+     "date": "2027-06-05",
+     "topic": "להתכונן לקבל",
+     "theme": "יום ירושלים"
+    },
+    {
+     "week": 41,
+     "day": "tuesday",
+     "date": "2027-06-08",
+     "topic": "כולם יחד בהר אחד",
+     "theme": "שבועות"
+    },
+    {
+     "week": 44,
+     "day": "shabbat",
+     "date": "2027-07-03",
+     "topic": "מנוחה איננה בזבוז",
+     "theme": "לבנות ולנוח"
+    },
+    {
+     "week": 45,
+     "day": "tuesday",
+     "date": "2027-07-06",
+     "topic": "אומץ לבקש עזרה",
+     "theme": "קיץ, בחוץ ובפנים"
+    },
+    {
+     "week": 49,
+     "day": "shabbat",
+     "date": "2027-08-07",
+     "topic": "מה הרס את הבית",
+     "theme": "בין המצרים"
+    },
+    {
+     "week": 50,
+     "day": "tuesday",
+     "date": "2027-08-10",
+     "topic": "מה קורה כשלא מדברים",
+     "theme": "מאבל לנחמה"
+    },
+    {
+     "week": 50,
+     "day": "shabbat",
+     "date": "2027-08-14",
+     "topic": "איך מנחמים",
+     "theme": "מאבל לנחמה"
+    },
+    {
+     "week": 53,
+     "day": "tuesday",
+     "date": "2027-08-31",
+     "topic": "מה עברנו יחד",
+     "theme": "סוגרים שנה"
+    },
+    {
+     "week": 53,
+     "day": "shabbat",
+     "date": "2027-09-04",
+     "topic": "מה אני לוקח לשנה הבאה",
+     "theme": "סוגרים שנה"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "gy": 2027,
+ "gm": 1,
+ "gd": 23,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Sh'vat",
+ "hd": 15,
+ "hebrew": "ט״ו בִּשְׁבָט תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "שבט",
+  "d": "ט״ו"
+ },
+ "events": [
+  "Shabbat Shirah",
+  "Tu BiShvat",
+  "Parashat Beshalach"
+ ]
+}

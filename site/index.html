@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1b3a6b">
+  <meta name="description" content="ספריית השראה להכנת פעולות בבני עקיבא - משחקים, פעולות ותוכנית שנתית לפי הלוח העברי">
+  <title>פעולות · ספריית השראה למדריכים</title>
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+</head>
+<body>
+  <a class="skip-link" href="#main">דלג לתוכן</a>
+
+  <header class="topbar">
+    <a class="topbar__brand" href="#/">
+      <span class="topbar__logo" aria-hidden="true">🔥</span>
+      <span>
+        <strong>פעולות</strong>
+        <small>ספריית השראה למדריכים</small>
+      </span>
+    </a>
+    <span class="topbar__actions">
+      <a class="topbar__icon" href="#/about" aria-label="על האתר">ℹ️</a>
+      <button class="topbar__icon" type="button" data-action="focus-search" aria-label="חיפוש">🔍</button>
+    </span>
+  </header>
+
+  <main id="main" class="main">
+    <div class="loading" id="boot">טוען את המאגר…</div>
+  </main>
+
+  <nav class="tabbar" aria-label="ניווט ראשי">
+    <a href="#/" data-tab="home"><span aria-hidden="true">🏠</span>בית</a>
+    <a href="#/games" data-tab="games"><span aria-hidden="true">🎲</span>משחקים</a>
+    <a href="#/activities" data-tab="activities"><span aria-hidden="true">📋</span>פעולות</a>
+    <a href="#/plan" data-tab="plan"><span aria-hidden="true">🗓️</span>השנה</a>
+    <a href="#/holidays" data-tab="holidays"><span aria-hidden="true">✡️</span>חגים</a>
+  </nav>
+
+  <script type="module" src="app/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+ "gy": 2027,
+ "gm": 3,
+ "gd": 9,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Adar I",
+ "hd": 30,
+ "hebrew": "ל׳ בַּאֲדָר א׳ תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אדר א׳",
+  "d": "ל׳"
+ },
+ "events": [
+  "Rosh Chodesh Adar II",
+  "Parashat Pekudei"
+ ]
+}

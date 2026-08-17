@@ -1,0 +1,21 @@
+{
+ "gy": 2027,
+ "gm": 3,
+ "gd": 6,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Adar I",
+ "hd": 27,
+ "hebrew": "כ״ז בַּאֲדָר א׳ תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אדר א׳",
+  "d": "כ״ז"
+ },
+ "events": [
+  "Shabbat Mevarchim Chodesh Adar II",
+  "Shabbat Shekalim",
+  "Molad Adar II: Monday, 1:23am and 7 chalakim",
+  "Parashat Vayakhel"
+ ]
+}

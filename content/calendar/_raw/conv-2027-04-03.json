@@ -1,0 +1,21 @@
+{
+ "gy": 2027,
+ "gm": 4,
+ "gd": 3,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Adar II",
+ "hd": 25,
+ "hebrew": "כ״ה בַּאֲדָר ב׳ תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אדר ב׳",
+  "d": "כ״ה"
+ },
+ "events": [
+  "Shabbat HaChodesh",
+  "Shabbat Mevarchim Chodesh Nisan",
+  "Molad Nisan: Tuesday, 2:07pm and 8 chalakim",
+  "Parashat Shmini"
+ ]
+}

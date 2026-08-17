@@ -1,0 +1,19 @@
+{
+ "gy": 2027,
+ "gm": 4,
+ "gd": 24,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Nisan",
+ "hd": 17,
+ "hebrew": "י״ז בְּנִיסָן תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "ניסן",
+  "d": "י״ז"
+ },
+ "events": [
+  "Pesach III (CH’’M)",
+  "2nd day of the Omer"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "gy": 2026,
+ "gm": 9,
+ "gd": 19,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Tishrei",
+ "hd": 8,
+ "hebrew": "ח׳ בְּתִשְׁרֵי תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "תשרי",
+  "d": "ח׳"
+ },
+ "events": [
+  "Shabbat Shuva",
+  "Parashat Ha’azinu"
+ ]
+}

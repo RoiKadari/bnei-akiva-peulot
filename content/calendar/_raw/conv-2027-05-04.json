@@ -1,0 +1,20 @@
+{
+ "gy": 2027,
+ "gm": 5,
+ "gd": 4,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Nisan",
+ "hd": 27,
+ "hebrew": "כ״ז בְּנִיסָן תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "ניסן",
+  "d": "כ״ז"
+ },
+ "events": [
+  "Yom HaShoah",
+  "Parashat Kedoshim",
+  "12th day of the Omer"
+ ]
+}

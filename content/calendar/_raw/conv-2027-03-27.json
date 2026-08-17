@@ -1,0 +1,19 @@
+{
+ "gy": 2027,
+ "gm": 3,
+ "gd": 27,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Adar II",
+ "hd": 18,
+ "hebrew": "י״ח בַּאֲדָר ב׳ תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אדר ב׳",
+  "d": "י״ח"
+ },
+ "events": [
+  "Shabbat Parah",
+  "Parashat Tzav"
+ ]
+}

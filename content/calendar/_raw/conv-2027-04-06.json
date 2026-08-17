@@ -1,0 +1,18 @@
+{
+ "gy": 2027,
+ "gm": 4,
+ "gd": 6,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Adar II",
+ "hd": 28,
+ "hebrew": "כ״ח בַּאֲדָר ב׳ תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "אדר ב׳",
+  "d": "כ״ח"
+ },
+ "events": [
+  "Parashat Tazria"
+ ]
+}

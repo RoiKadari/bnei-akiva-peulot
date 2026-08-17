@@ -1,0 +1,19 @@
+{
+ "gy": 2026,
+ "gm": 12,
+ "gd": 8,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Kislev",
+ "hd": 28,
+ "hebrew": "כ״ח בְּכִסְלֵו תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "כסלו",
+  "d": "כ״ח"
+ },
+ "events": [
+  "Chanukah day 4",
+  "Parashat Miketz"
+ ]
+}

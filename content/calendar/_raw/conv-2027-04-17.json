@@ -1,0 +1,20 @@
+{
+ "gy": 2027,
+ "gm": 4,
+ "gd": 17,
+ "afterSunset": false,
+ "hy": 5787,
+ "hm": "Nisan",
+ "hd": 10,
+ "hebrew": "י׳ בְּנִיסָן תשפ״ז",
+ "heDateParts": {
+  "y": "תשפ״ז",
+  "m": "ניסן",
+  "d": "י׳"
+ },
+ "events": [
+  "Shabbat HaGadol",
+  "Yom HaAliyah",
+  "Parashat Metzora"
+ ]
+}

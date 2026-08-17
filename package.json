@@ -1,0 +1,19 @@
+{
+  "name": "bnei-akiva-peulot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ספריית השראה להכנת פעולות בבני עקיבא - אתר סטטי, ללא AI בזמן ריצה",
+  "type": "module",
+  "scripts": {
+    "build-calendar": "node scripts/build-calendar.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "check-duplicates": "node scripts/check-duplicates.mjs",
+    "link-plan": "node scripts/link-plan.mjs",
+    "make-pools": "node scripts/make-pools.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "npm run validate && npm run check-duplicates",
+    "serve": "node scripts/serve.mjs",
+    "release": "npm run link-plan && npm run validate && npm run check-duplicates && npm run build"
+  },
+  "license": "UNLICENSED"
+}
