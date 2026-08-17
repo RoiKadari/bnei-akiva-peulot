@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 export const CONTENT = path.join(ROOT, 'content');
-export const SITE = path.join(ROOT, 'site');
+export const SITE = path.join(ROOT, 'docs');
 
 export const HEBREW_YEAR = 5787;
 

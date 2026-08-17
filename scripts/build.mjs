@@ -1,8 +1,10 @@
 /**
- * build.mjs - מאחד את התוכן מ-/content לקבצי הנתונים של האתר ב-site/data.
+ * build.mjs - מאחד את התוכן מ-/content לקבצי הנתונים של האתר ב-docs/data.
  * שימוש: npm run build
  *
- * האתר עצמו קורא רק את site/data/*.json. אין שום עיבוד בזמן ריצה.
+ * האתר עצמו קורא רק את docs/data/*.json. אין שום עיבוד בזמן ריצה.
+ * התיקייה נקראת docs (ולא site) כי זו אחת משתי האפשרויות היחידות
+ * שGitHub Pages מציע ב-"Deploy from a branch" בלי GitHub Actions.
  */
 
 import { writeFile, mkdir } from 'node:fs/promises';
@@ -82,5 +84,5 @@ for (const [name, data] of Object.entries(files)) {
 }
 
 console.log('');
-console.log(`✓  נבנה ל-site/data - ${(total / 1024).toFixed(0)} KB בסך הכול`);
-console.log('   האתר מוכן לפריסה: התיקייה site/ היא כל מה שצריך להעלות.');
+console.log(`✓  נבנה ל-docs/data - ${(total / 1024).toFixed(0)} KB בסך הכול`);
+console.log('   האתר מוכן לפריסה: התיקייה docs/ היא כל מה שצריך להעלות.');

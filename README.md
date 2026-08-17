@@ -16,7 +16,7 @@ npm run serve
 
 ואז לפתוח את http://localhost:8080
 
-> חשוב: אי אפשר לפתוח את `site/index.html` בלחיצה כפולה. הדפדפן חוסם טעינת קבצי נתונים מהדיסק.
+> חשוב: אי אפשר לפתוח את `docs/index.html` בלחיצה כפולה. הדפדפן חוסם טעינת קבצי נתונים מהדיסק.
 > צריך שרת - או `npm run serve` מקומית, או אחסון סטטי אמיתי.
 
 ## מבנה הפרויקט
@@ -35,7 +35,7 @@ content/          ← כל התוכן. כאן עורכים.
 
 schema/           ← תדריכי כתיבה: מה מותר ומה חובה בכל רשומה
 scripts/          ← בנייה ובדיקות
-site/             ← האתר עצמו. זו התיקייה שמעלים לאוויר.
+docs/             ← האתר עצמו. זו התיקייה שמעלים לאוויר (השם docs/ נדרש ע"י GitHub Pages).
   data/           ← נוצר אוטומטית ע"י npm run build. לא לערוך.
 ```
 
@@ -90,7 +90,7 @@ npm run build-calendar
 | `npm run check-duplicates` | מאתרת משחקים כפולים או דומים מדי |
 | `npm run check` | שתי הבדיקות יחד |
 | `npm run link-plan` | משבצת את הפעולות שנכתבו לתוך התוכנית השנתית |
-| `npm run build` | מאחדת את `content/` לקבצי הנתונים של האתר ב-`site/data/` |
+| `npm run build` | מאחדת את `content/` לקבצי הנתונים של האתר ב-`docs/data/` |
 | `npm run release` | שרשרת מלאה: שיבוץ, בדיקות ובנייה |
 | `npm run build-calendar` | בונה מחדש את לוח השנה העברי מ-Hebcal |
 | `npm run make-pools` | כלי פיתוח: מחלק את המשחקים למאגרים לכתיבת פעולות |
@@ -138,7 +138,7 @@ npm run build-calendar
 
 ## פריסה לאוויר
 
-התיקייה `site/` היא אתר סטטי שלם. אין תהליך build של קוד.
+התיקייה `docs/` היא אתר סטטי שלם. אין תהליך build של קוד.
 
 ### GitHub Pages
 
@@ -148,13 +148,14 @@ git add -A && git commit -m "עדכון תוכן"
 git push
 ```
 
-ובהגדרות המאגר: Pages → Deploy from a branch → הענף שלכם → תיקייה `/site`.
+ובהגדרות המאגר: Settings → Pages → Source: Deploy from a branch → הענף שלכם → תיקייה `/docs`.
+(GitHub Pages תומך רק ב-`/` או ב-`/docs` בלי GitHub Actions - לכן שם התיקייה קבוע.)
 
 ### Cloudflare Pages
 
-חיבור המאגר, Build command: `npm run release`, Output directory: `site`.
+חיבור המאגר, Build command: `npm run release`, Output directory: `docs`.
 
-> אחרי כל שינוי תוכן חובה להריץ `npm run build` - האתר קורא רק מ-`site/data/`.
+> אחרי כל שינוי תוכן חובה להריץ `npm run build` - האתר קורא רק מ-`docs/data/`.
 
 ---
 
